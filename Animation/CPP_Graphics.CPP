@@ -3,8 +3,6 @@
 #include <stdlib.h>
 #include <dos.h>
 
-
-
 int dayStat=0; // if 0 then day, if 1 then night.
 int sigStat=0; // if 0 then green, if 1 then red.
 int wait=0; // wait = 0 (no one waiting in signal), wait = 1 (human waiting in signal).
