@@ -1,0 +1,63 @@
+﻿@using NextToSolve.Models
+
+@{
+    ViewBag.Title = "Compare";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Compare</h2>
+<br />
+@using (Html.BeginForm()) {
+    <div style="max-width: 400px;">
+
+        <label>Handles: </label>
+        <input type="text" name="handles" value="@ViewBag.handles" />
+        <input type="submit" value="Compare" />
+
+    </div>
+}
+<br />
+<br />
+
+@{
+    if ((int)ViewBag.error == 1) {
+        <p>Error fetching data. Please check handle names!</p>
+    }
+}
+
+@{
+    if ((int)ViewBag.showData == 1) {
+        List<ViewModelUserInfo> infos = ViewBag.infos;
+
+        <table class="table" id="table1" data-page-length='25'>
+            <thead>
+            <tr>
+                <th>Name</th>
+                <th>CF Handle</th>
+                <th>Total Solves</th>
+                <th>Rating</th>
+                <th>Max Rating</th>
+                <th>Rank</th>
+                <th>N2SPoint</th> 
+            </tr>
+            </thead>
+            <tbody>
+
+            @{
+                foreach (var info in infos) {
+                    <tr>
+                        <td>@info.Name</td>
+                        <td>@info.Handle</td>
+                        <td>@info.ProbSolved</td>
+                        <td>@info.Rating</td>
+                        <td>@info.MaxRating</td>
+                        <td>@info.Rank</td>
+                        <td>@info.N2SPoint</td>
+                    </tr>
+                }
+            }
+
+            </tbody>
+        </table>
+    }
+}

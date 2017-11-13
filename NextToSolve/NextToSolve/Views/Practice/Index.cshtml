@@ -1,0 +1,164 @@
+﻿@model ICollection<NextToSolve.Models.TagMin>
+
+@{
+    ViewBag.Title = "Practice";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Practice</h2>
+<p>You can practice CodeForces problems based on tags and points from here.</p>
+<br/>
+<b>Total Points: </b>
+@TempData["totalPoint"]<br/>
+<br/>
+@using (Html.BeginForm("Action", "Practice")) {
+    <div style="max-width: 400px;">
+
+        <label>Handle:</label>
+        <input type="text" name="handle" />
+        <input type="hidden" id="referer" name="referer" value="@TempData["currentPage"]" />
+        <input type="submit" name="addHandle" value="Add" />
+
+
+    </div>
+}
+<p>
+    <h4>
+        @{
+            string handle = (string) TempData["handle"];
+            string pg = (string) TempData["currentPage"];
+            if ( handle != "-1") {
+                <b>Handle: </b>
+                string[] handles = TempData["handle"].ToString().Split(',');
+                for (int i = 0; i < handles.Length; i++) {
+                    if (i != 0) {@:,
+                    }
+                    @handles[i]
+                    <a href="/Practice/RemoveHandle?id=@i&referer=@pg"> (remove)</a>
+
+                }
+                <br />
+                <b>Points earned: </b>@TempData["userPoints"]<br/>
+                <a href="/Practice/Reload?referer=@pg"> (refresh)</a>
+            }
+        }
+    </h4>
+</p>
+
+@{ 
+    if (Session["fetchError"]!=null) {
+        @:*some handle(s) might be entered incorrecty!*
+    }
+}
+<br />
+<div class="panel panel-default" style="padding: 10px; margin: 10px">
+    <div id="Tabs" role="tabpanel">
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs" role="tablist">
+            <li class="active">
+                <a href="#Tags" aria-controls="Tags" role="tab" data-toggle="tab">
+                    Tags
+                </a>
+            </li>
+            <li>
+                <a href="#Points" aria-controls="Points" role="tab" data-toggle="tab">
+                    Points
+                </a>
+            </li>
+        </ul>
+        <!-- Tab panes -->
+        <div class="tab-content" style="padding-top: 20px">
+            <div role="tabpanel" class="tab-pane active" id="Tags">
+                <table class="table table-hover" id="table1">
+                    <thead>
+                        <tr>
+                            <th>Tag</th>
+                            <th> Number of problems</th>
+                            <th> Number of levels</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model) {
+                            <tr id="TG#@item.Id" style="cursor: pointer;">
+                                <td>@item.Name.ToUpper()</td>
+                                <td>
+                                    @item.ProblemCount
+                                </td>
+                                <td>
+                                    @item.Levels
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div role="tabpanel" class="tab-pane" id="Points">
+                <table class="table table-hover" id="table2">
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th> Number of problems</th> 
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr id="PT#-1,500" style="cursor: pointer;">
+                            <td>Below 500</td>
+                            <td>@TempData["c1"]</td>
+                        </tr>
+                        <tr id="PT#500,1000" style="cursor: pointer;">
+                            <td>500 and above | below 1000</td>
+                            <td>@TempData["c2"]</td>
+                        </tr>
+                        <tr id="PT#1000,1500" style="cursor: pointer;">
+                            <td>1000 and above | below 1500</td>
+                            <td>@TempData["c3"]</td>
+                        </tr>
+                        <tr id="PT#1500,2000" style="cursor: pointer;">
+                            <td>1500 and above | below 2000</td>
+                            <td>@TempData["c4"]</td>
+                        </tr>
+                        <tr id="PT#2000,2500" style="cursor: pointer;">
+                            <td>2000 and above | below 2500</td>
+                            <td>@TempData["c5"]</td>
+                        </tr>
+                        <tr id="PT#2500,-1" style="cursor: pointer;">
+                            <td>2500 and above</td>
+                            <td>@TempData["c6"]</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section scripts
+{
+
+    <script type="text/javascript">
+    $(document).ready(function () {
+        $("tr").click(function () {
+            var tag = $(this).attr('id');
+            var tags = tag.split("#");
+            if (tags[0] === "TG") {
+                var url = '/Practice/TagBased?tagId='+tags[1];
+                window.location.href = url;
+            } else {
+                var lh = tags[1].split(",");
+                var url = '/Practice/PointBased?lb=' + lh[0] + '&hb=' + lh[1];
+                window.location.href = url;
+            }
+            
+        });
+    });
+    </script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#table1').DataTable({
+                aaSorting: [[1, 'desc']]
+            });
+        });
+    </script>
+}

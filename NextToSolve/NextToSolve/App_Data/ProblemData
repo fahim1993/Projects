@@ -1,0 +1,3894 @@
+Theatre Square~1A~1/A~-1.0~20~2~3~
+Spreadsheet~1B~1/B~-1.0~30~3~1,3~
+Ancient Berland Circus~1C~1/C~-1.0~30~3~17,3~
+Winner~2A~2/A~-1.0~30~3~23,1~
+The least round way~2B~2/B~-1.0~30~3~2,3~
+Commentator problem~2C~2/C~-1.0~20~2~17~
+Shortest path of the king~3A~3/A~-1.0~20~1~4,22~
+Lorry~3B~3/B~-1.0~30~3~4,10~
+Tic-tac-toe~3C~3/C~-1.0~40~2~6,25,1~
+Least Cost Bracket Sequence~3D~3/D~-1.0~50~5~4~
+Watermelon~4A~4/A~-1.0~20~2~6,3~
+Before an Exam~4B~4/B~-1.0~20~2~8,4~
+Registration System~4C~4/C~-1.0~30~2~5,23,1~
+Mysterious Present~4D~4/D~-1.0~50~5~2,10~
+Chat Servers Outgoing Traffic~5A~5/A~-1.0~20~2~1~
+Center Alignment~5B~5/B~-1.0~20~2~1,13~
+Longest Regular Bracket Sequence~5C~5/C~-1.0~40~4~8,5,2,4,10,13~
+Follow Traffic Rules~5D~5/D~-1.0~40~4~1,3~
+Bindian Signalizing~5E~5/E~-1.0~60~6~5~
+Triangle~6A~6/A~-1.0~10~1~6,17~
+President's Office~6B~6/B~-1.0~20~2~1~
+Alice, Bob and Chocolate~6C~6/C~-1.0~30~3~4,18~
+Lizards and Basements 2~6D~6/D~-1.0~50~5~6,2~
+Exposition~6E~6/E~-1.0~50~5~11,5,19,15,18~
+Kalevitch and Chess~7A~7/A~-1.0~20~2~6,8~
+Memory Manager~7B~7/B~-1.0~30~3~1~
+Line~7C~7/C~-1.0~30~3~3,14~
+Palindrome Degree~7D~7/D~-1.0~50~4~23,13~
+Defining Macros~7E~7/E~-1.0~50~4~2,30,1~
+Train and Peter~8A~8/A~-1.0~30~3~13~
+Obsession with Robots~8B~8/B~-1.0~20~2~8,12,1~
+Looking for Order~8C~8/C~-1.0~40~4~20,2~
+Two Friends~8D~8/D~-1.0~30~3~11,17~
+Beads~8E~8/E~-1.0~50~5~2,12~
+Die Roll~9A~9/A~-1.0~10~1~3,21~
+Running Student~9B~9/B~-1.0~20~2~6,17,1~
+Hexadecimal's Numbers~9C~9/C~-1.0~20~2~6,1,3~
+How many trees?~9D~9/D~-1.0~40~3~16,24,2~
+Interestring graph and Apples~9E~9/E~-1.0~60~6~9,19,12~
+Power Consumption Calculation~10A~10/A~-1.0~20~2~1~
+Cinema Cashier~10B~10/B~-1.0~20~2~2,1~
+Digital Root~10C~10/C~-1.0~40~4~14~
+LCIS~10D~10/D~-1.0~50~5~2~
+Greedy Change~10E~10/E~-1.0~60~6~8~
+Increasing Sequence~11A~11/A~-1.0~20~2~8,1,3~
+Jumping Jack~11B~11/B~-1.0~20~2~3~
+How Many Squares?~11C~11/C~-1.0~40~4~1~
+A Simple Task~11D~11/D~-1.0~40~4~20,2,12~
+Forward, march!~11E~11/E~-1.0~60~6~11,2,4~
+Super Agent~12A~12/A~-1.0~20~2~1~
+Correct Solution?~12B~12/B~-1.0~20~2~1,10~
+Fruits~12C~12/C~-1.0~20~2~1,10~
+Ball~12D~12/D~-1.0~50~5~5,10~
+Start of the session~12E~12/E~-1.0~50~5~8~
+Numbers~13A~13/A~-1.0~20~2~1,3~
+Letter A~13B~13/B~-1.0~20~2~17,1~
+Sequence~13C~13/C~-1.0~40~4~2,10~
+Triangles~13D~13/D~-1.0~30~3~2,17~
+Holes~13E~13/E~-1.0~60~6~5,19~
+Letter~14A~14/A~-1.0~20~2~1~
+Young Photographer~14B~14/B~-1.0~20~2~1~
+Four Segments~14C~14/C~-1.0~20~2~6,8,17,1,3~
+Two Paths~14D~14/D~-1.0~30~3~9,2,12,22,15,18~
+Camels~14E~14/E~-1.0~40~4~2~
+Cottage Village~15A~15/A~-1.0~20~2~1,10~
+Laser~15B~15/B~-1.0~20~2~3~
+Industrial Nim~15C~15/C~-1.0~40~2~25~
+Map~15D~15/D~-1.0~50~5~5,1,10~
+Triangles~15E~15/E~-1.0~50~5~16,2~
+Flag~16A~16/A~-1.0~20~2~1~
+Burglar and Matches~16B~16/B~-1.0~20~2~4,1,10~
+Monitor~16C~16/C~-1.0~30~3~11,14~
+Logging~16D~16/D~-1.0~50~5~1,13~
+Fish~16E~16/E~-1.0~50~5~20,2,21~
+Noldbach problem~17A~17/A~-1.0~20~2~6,3,14~
+Hierarchy~17B~17/B~-1.0~20~1~9,19,4,22~
+Balance~17C~17/C~-1.0~40~4~2~
+Notepad~17D~17/D~-1.0~70~7~14~
+Palisection~17E~17/E~-1.0~60~6~13~
+Triangle~18A~18/A~-1.0~20~2~6,17~
+Platforms~18B~18/B~-1.0~30~3~6,3~
+Stripe~18C~18/C~-1.0~20~2~5,1~
+Seller Bob~18D~18/D~-1.0~50~5~6,2,4~
+Flag 2~18E~18/E~-1.0~50~5~2~
+World Football Cup~19A~19/A~-1.0~30~3~1~
+Checkout Assistant~19B~19/B~-1.0~30~3~2~
+Deletion of Repeats~19C~19/C~-1.0~40~3~4,23,28~
+Points~19D~19/D~-1.0~50~5~5~
+Fairy~19E~19/E~-1.0~60~4~9,24,19~
+BerOS file system~20A~20/A~500.0~30~3~1~
+Equation~20B~20/B~1000.0~30~3~3~
+Dijkstra?~20C~20/C~1500.0~30~2~12,22~
+Jabber ID~21A~21/A~500.0~30~3~1~
+Intersection~21B~21/B~1000.0~30~3~1,3~
+Stripe 2~21C~21/C~1500.0~40~4~11,2,10~
+Traveling Graph~21D~21/D~2000.0~50~3~20,29,12~
+Second Order Statistics~22A~22/A~-1.0~20~2~6~
+Bargaining Table~22B~22/B~-1.0~20~2~6,2~
+System Administrator~22C~22/C~-1.0~30~3~12~
+Segments~22D~22/D~-1.0~40~4~4,10~
+Scheme~22E~22/E~-1.0~50~5~9,12,15~
+You're Given a String...~23A~23/A~-1.0~20~2~6,4~
+Party~23B~23/B~-1.0~20~2~8,12,3~
+Oranges and Apples~23C~23/C~-1.0~40~4~8,10~
+Tetragon~23D~23/D~-1.0~30~3~17,3~
+Tree~23E~23/E~-1.0~60~6~2~
+Ring road~24A~24/A~-1.0~10~1~12~
+F1 Champions~24B~24/B~-1.0~30~3~1~
+Sequence of points~24C~24/C~-1.0~20~2~17,1,3~
+Broken robot~24D~24/D~-1.0~40~4~2,21~
+Berland collider~24E~24/E~-1.0~60~6~11~
+IQ test~25A~25/A~-1.0~20~2~6~
+Phone numbers~25B~25/B~-1.0~20~2~1~
+Roads in Berland~25C~25/C~-1.0~30~2~12,22~
+Roads not only in Berland~25D~25/D~-1.0~30~3~19,12,15~
+Test~25E~25/E~-1.0~60~5~23,13~
+Almost Prime~26A~26/A~500.0~20~2~14~
+Regular Bracket Sequence~26B~26/B~1000.0~20~2~4~
+Parquet~26C~26/C~1500.0~40~4~16,8~
+Tickets~26D~26/D~2000.0~40~4~16,21~
+Multithreading~26E~26/E~2500.0~60~6~8~
+Next Test~27A~27/A~500.0~20~2~1,10~
+Tournament~27B~27/B~1000.0~30~3~20,6,9,4~
+Unordered Subsequence~27C~27/C~1500.0~40~4~8,4~
+Ring Road 2~27D~27/D~2000.0~40~2~33,9,19,12~
+Number With The Given Amount Of Divisors~27E~27/E~2500.0~50~5~6,2,14~
+Bender Problem~28A~28/A~500.0~20~2~1~
+pSort~28B~28/B~1000.0~10~1~9,19,12~
+Bath Queue~28C~28/C~1500.0~20~2~16,2,21~
+Don't fear, DravDe is kind~28D~28/D~2000.0~50~4~11,5,2,23~
+DravDe saves the world~28E~28/E~2500.0~40~4~17,3~
+Spit Problem~29A~29/A~500.0~20~2~6~
+Traffic Lights~29B~29/B~1000.0~20~2~1~
+Mail Stamps~29C~29/C~1500.0~30~3~5,9,12,1~
+Ant on the Tree~29D~29/D~2000.0~30~3~8,9,15~
+Quarrel~29E~29/E~2500.0~50~4~12,22~
+Accounting~30A~30/A~500.0~30~3~6,3~
+Codeforces World Finals~30B~30/B~1000.0~30~3~1~
+Shooting Gallery~30C~30/C~1500.0~40~4~2,21~
+King's Problem?~30D~30/D~2000.0~30~3~17,4~
+Tricky and Clever Password~30E~30/E~2500.0~50~5~11,8,5,4,23,13~
+Worms Evolution~31A~31/A~500.0~30~3~1~
+Sysadmin Bob~31B~31/B~1000.0~30~3~13~
+Schedule~31C~31/C~1500.0~30~3~1~
+Chocolate~31D~31/D~2000.0~40~4~9,1~
+TV Game~31E~31/E~2500.0~60~6~2~
+Reconnaissance~32A~32/A~500.0~20~2~6~
+Borze~32B~32/B~1000.0~10~1~30,1~
+Flea~32C~32/C~1500.0~30~3~3~
+Constellation~32D~32/D~2000.0~40~4~1~
+Hide-and-Seek~32E~32/E~2500.0~40~4~17,1~
+What is for dinner?~33A~33/A~500.0~20~2~4,1~
+String Problem~33B~33/B~1000.0~30~2~22~
+Wonderful Randomized Sum~33C~33/C~1500.0~30~3~4~
+Knights~33D~33/D~2000.0~30~3~17,12,22,10~
+Helper~33E~33/E~2500.0~40~4~7~
+Reconnaissance 2~34A~34/A~500.0~20~2~1~
+Sale~34B~34/B~1000.0~20~2~4,10~
+Page Numbers~34C~34/C~1500.0~20~2~30,1,10,13~
+Road Map~34D~34/D~2000.0~30~3~9,12~
+Collisions~34E~34/E~2500.0~40~4~6,1,3~
+Shell Game~35A~35/A~500.0~30~3~1~
+Warehouse~35B~35/B~1000.0~30~3~1~
+Fire Again~35C~35/C~1500.0~30~2~6,9,22~
+Animals~35D~35/D~2000.0~40~4~2,4~
+Parade~35E~35/E~2500.0~60~6~5,10~
+Extra-terrestrial Intelligence~36A~36/A~500.0~30~3~1~
+Fractal~36B~36/B~1000.0~20~2~1~
+Bowls~36C~36/C~1500.0~30~3~17,1~
+New Game with a Chess Piece~36D~36/D~2000.0~40~2~25~
+Two Paths~36E~36/E~2500.0~60~6~8,19,12,1~
+Towers~37A~37/A~500.0~20~2~10~
+Computer Game~37B~37/B~1000.0~30~3~4,1~
+Old Berland Language~37C~37/C~1500.0~30~3~5,4,15~
+Lesson Timetable~37D~37/D~2000.0~40~4~16,2,3~
+Trial for Chief~37E~37/E~2500.0~40~3~12,4,22~
+Army~38A~38/A~-1.0~10~1~1~
+Chess~38B~38/B~-1.0~10~1~6,1,3~
+Blinds~38C~38/C~-1.0~30~3~6~
+Vasya the Architect~38D~38/D~-1.0~50~5~1~
+Let's Go Rolling!~38E~38/E~-1.0~50~5~2,10~
+Smart Boy~38F~38/F~-1.0~50~3~2,25,13~
+Queue~38G~38/G~-1.0~80~8~5~
+The Great Marathon~38H~38/H~-1.0~80~8~2~
+C*++ Calculations~39A~39/A~-1.0~30~2~30,4~
+Company Income Growth~39B~39/B~-1.0~20~2~4~
+Moon Craters~39C~39/C~-1.0~40~4~2,10~
+Cubical Planet~39D~39/D~-1.0~30~3~3~
+What Has Dirichlet Got to Do with That?~39E~39/E~-1.0~50~3~2,25~
+Pacifist frogs~39F~39/F~-1.0~50~5~1~
+Inverse Function~39G~39/G~-1.0~70~7~1~
+Multiplication Table~39H~39/H~-1.0~60~6~1~
+Tram~39I~39/I~-1.0~60~6~7~
+Spelling Check~39J~39/J~-1.0~90~8~23,1,13~
+Testing~39K~39/K~-1.0~70~7~7~
+Find Color~40A~40/A~500.0~20~2~8,1,3~
+Repaintings~40B~40/B~1000.0~20~2~3~
+Berland Square~40C~40/C~1500.0~40~4~3~
+Interesting Sequence~40D~40/D~2000.0~40~4~3~
+Number Table~40E~40/E~2500.0~60~6~16~
+Translation~41A~41/A~500.0~10~1~1,13~
+Martian Dollar~41B~41/B~1000.0~20~2~6~
+Email address~41C~41/C~1500.0~30~2~30,1~
+Pawn~41D~41/D~2000.0~50~5~2~
+3-cycles~41E~41/E~2500.0~40~4~8,12,4~
+Guilty --- to the kitchen!~42A~42/A~500.0~20~2~4,1~
+Game of chess unfinished~42B~42/B~1000.0~30~3~1~
+Safe cracking~42C~42/C~1500.0~40~4~6,8~
+Strange town~42D~42/D~2000.0~40~4~8,3~
+Baldman and the military~42E~42/E~2500.0~60~6~9,12~
+Football~43A~43/A~500.0~10~1~13~
+Letter~43B~43/B~1000.0~20~2~1,13~
+Lucky Tickets~43C~43/C~1500.0~30~3~4~
+Journey~43D~43/D~2000.0~50~5~6,8,1~
+Race~43E~43/E~2500.0~50~5~6,1,18~
+Indian Summer~44A~44/A~-1.0~20~2~1~
+Cola~44B~44/B~-1.0~20~2~1~
+Holidays~44C~44/C~-1.0~30~3~1~
+Hyperdrive~44D~44/D~-1.0~30~3~3~
+Anfisa the Monkey~44E~44/E~-1.0~50~5~2~
+BerPaint~44F~44/F~-1.0~50~5~17,12~
+Shooting Gallery~44G~44/G~-1.0~70~7~5,1~
+Phone Number~44H~44/H~-1.0~80~8~2~
+Toys~44I~44/I~-1.0~80~8~6,16~
+Triminoes~44J~44/J~-1.0~90~9~8,4~
+Codecraft III~45A~45/A~-1.0~20~2~1~
+School~45B~45/B~-1.0~30~3~2,19~
+Dancing Lessons~45C~45/C~-1.0~40~4~5~
+Event Dates~45D~45/D~-1.0~50~3~4,32,10~
+Director~45E~45/E~-1.0~50~5~8,4~
+Goats and Wolves~45F~45/F~-1.0~60~6~4~
+Prime Problem~45G~45/G~-1.0~100~10~14~
+Road Problem~45H~45/H~-1.0~90~9~12~
+TCMCF+++~45I~45/I~-1.0~80~8~4~
+Planting Trees~45J~45/J~-1.0~100~10~8~
+Ball Game~46A~46/A~-1.0~20~2~6,1~
+T-shirts from Sponsor~46B~46/B~-1.0~20~2~1~
+Hamsters and Tigers~46C~46/C~-1.0~40~4~18~
+Parking Lot~46D~46/D~-1.0~40~4~5,1~
+Comb~46E~46/E~-1.0~60~6~5,2~
+Hercule Poirot Problem~46F~46/F~-1.0~70~7~19,12~
+Emperor's Problem~46G~46/G~-1.0~50~5~17~
+Triangular numbers~47A~47/A~500.0~10~1~6,3~
+Coins~47B~47/B~1000.0~20~2~1~
+Crossword~47C~47/C~1500.0~40~4~1~
+Safe~47D~47/D~2000.0~40~4~6~
+Cannon~47E~47/E~2500.0~40~4~5,17,10~
+Rock-paper-scissors~48A~48/A~-1.0~10~1~1,36~
+Land Lot~48B~48/B~-1.0~20~2~6,1~
+The Race~48C~48/C~-1.0~30~3~3~
+Permutations~48D~48/D~-1.0~40~4~4~
+Ivan the Fool VS Gorynych the Dragon~48E~48/E~-1.0~50~3~2,25,12~
+Snow sellers~48F~48/F~-1.0~70~7~4,10~
+Galaxy Union~48G~48/G~-1.0~60~6~2,15,18~
+Black and White~48H~48/H~-1.0~80~8~8~
+Sleuth~49A~49/A~500.0~20~2~1~
+Sum~49B~49/B~1000.0~20~2~3~
+Disposition~49C~49/C~1500.0~20~2~8,3~
+Game~49D~49/D~2000.0~40~4~6,2,1~
+Common ancestor~49E~49/E~2500.0~50~5~2~
+Domino piling~50A~50/A~500.0~10~1~4,3~
+Choosing Symbol Pairs~50B~50/B~1000.0~30~3~13~
+Happy Farm 5~50C~50/C~1500.0~20~2~17~
+Bombing~50D~50/D~2000.0~40~4~11,2,21~
+Square Equation Roots~50E~50/E~2500.0~40~4~3~
+Cheaterius's Problem~51A~51/A~500.0~20~2~1~
+bHTML Tables Analisys~51B~51/B~1000.0~70~2~30~
+Three Base Stations~51C~51/C~1500.0~40~4~11,4~
+Geometrical problem~51D~51/D~2000.0~50~5~1~
+Pentagon~51E~51/E~2500.0~50~5~16,12,26~
+Caterpillar~51F~51/F~3000.0~60~6~9,2,12,15~
+123-sequence~52A~52/A~500.0~20~2~1~
+Right Triangles~52B~52/B~1000.0~10~1~16~
+Circular RMQ~52C~52/C~1500.0~40~4~5~
+Autocomplete~53A~53/A~500.0~20~2~1~
+Blog Photo~53B~53/B~1000.0~30~3~11,1~
+Little Frog~53C~53/C~1500.0~20~2~8~
+Physical Education~53D~53/D~2000.0~40~4~10~
+Dead Ends~53E~53/E~2500.0~50~5~20,2~
+Presents~54A~54/A~500.0~20~2~1~
+Cutting Jigsaw Puzzle~54B~54/B~1000.0~20~2~23,1~
+First Digit Law~54C~54/C~1500.0~30~3~2,3,21~
+Writing a Song~54D~54/D~2000.0~40~4~6,2~
+Vacuum Сleaner~54E~54/E~2500.0~40~4~17~
+Flea travel~55A~55/A~500.0~10~1~1,3~
+Smallest number~55B~55/B~1000.0~30~3~6~
+Pie or die~55C~55/C~1500.0~40~2~25~
+Beautiful numbers~55D~55/D~2000.0~50~5~2,14~
+Very simple problem~55E~55/E~2500.0~40~4~17,18~
+Bar~56A~56/A~500.0~20~2~1~
+Spoilt Permutation~56B~56/B~1000.0~20~2~1~
+Corporation Mail~56C~56/C~1500.0~20~2~5,30,1~
+Changing a String~56D~56/D~2000.0~50~5~2~
+Domino Principle~56E~56/E~2500.0~50~5~11,5,10~
+Square Earth?~57A~57/A~500.0~20~2~9,4,1~
+Martian Architecture~57B~57/B~1000.0~20~2~1~
+Array~57C~57/C~1500.0~30~3~16,3~
+Journey~57D~57/D~2000.0~40~4~2,3~
+Chess~57E~57/E~2500.0~50~4~3,22~
+Chat room~58A~58/A~500.0~20~2~4,13~
+Coins~58B~58/B~1000.0~20~2~4~
+Trees~58C~58/C~1500.0~40~4~6~
+Calendar~58D~58/D~2000.0~50~5~4,13~
+Expression~58E~58/E~2500.0~60~6~2~
+Word~59A~59/A~500.0~10~1~1,13~
+Fortune Telling~59B~59/B~1000.0~20~2~1,14~
+Title~59C~59/C~1500.0~80~3~30~
+Team Arrangement~59D~59/D~2000.0~40~4~8,4,1~
+Shortest Path~59E~59/E~2500.0~40~3~12,22~
+Where Are My Flakes?~60A~60/A~500.0~20~2~1,18~
+Serial Time!~60B~60/B~1000.0~10~1~9,19~
+Mushroom Strife~60C~60/C~1500.0~40~4~6,9~
+Savior~60D~60/D~2000.0~40~4~6,19,3~
+Mushroom Gnomes~60E~60/E~2500.0~50~5~3,26~
+Ultra-Fast Mathematician~61A~61/A~500.0~10~1~1~
+Hard Work~61B~61/B~1000.0~20~2~13~
+Capture Valerian~61C~61/C~1500.0~30~3~3~
+Eternal Victory~61D~61/D~2000.0~30~2~9,12,4,22,15~
+Enemy is weak~61E~61/E~2500.0~40~4~5,15~
+A Student's Dream~62A~62/A~500.0~20~2~4,3~
+Tyndex.Brome~62B~62/B~1000.0~20~2~11,1~
+Inquisition~62C~62/C~1500.0~20~2~17,1,10~
+Wormhouse~62D~62/D~2000.0~40~4~9,12~
+World Evil~62E~62/E~2500.0~50~3~2,27~
+Sinking Ship~63A~63/A~500.0~10~1~1,10,13~
+Settlers' Training~63B~63/B~1000.0~20~2~1~
+Bulls and Cows~63C~63/C~1500.0~30~3~6,1~
+Dividing Island~63D~63/D~2000.0~40~4~8~
+Sweets Game~63E~63/E~2500.0~40~2~20,9,2,25,1~
+Factorial~64A~64/A~-1.0~30~3~1~
+Expression~64B~64/B~-1.0~60~1~30~
+Table~64C~64/C~-1.0~20~2~4,1,3~
+Presents~64D~64/D~-1.0~40~4~4~
+Prime Segment~64E~64/E~-1.0~40~4~6~
+Domain~64F~64/F~-1.0~100~5~30~
+Path Canonization~64G~64/G~-1.0~50~5~7~
+Table Bowling~64H~64/H~-1.0~70~7~10~
+Sort the Table~64I~64/I~-1.0~90~9~10~
+Harry Potter and Three Spells~65A~65/A~500.0~30~3~1,3~
+Harry Potter and the History of Magic~65B~65/B~1000.0~20~2~6,4,1~
+Harry Potter and the Golden Snitch~65C~65/C~1500.0~30~3~11,17~
+Harry Potter and the Sorting Hat~65D~65/D~2000.0~40~4~6,9,23~
+Harry Potter and Moving Staircases~65E~65/E~2500.0~60~6~9,1~
+Petya and Java~66A~66/A~500.0~20~2~1,13~
+Petya and Countryside~66B~66/B~1000.0~20~2~6,1~
+Petya and File System~66C~66/C~1500.0~30~3~5,1~
+Petya and His Friends~66D~66/D~2000.0~30~3~8,3,14~
+Petya and Post~66E~66/E~2500.0~50~5~5,2~
+Partial Teacher~67A~67/A~500.0~30~3~2,12,4,1~
+Restoration of the Permutation~67B~67/B~1000.0~20~2~4~
+Sequence of Balls~67C~67/C~1500.0~40~4~2~
+Optical Experiment~67D~67/D~2000.0~40~4~11,5,2~
+Save the City!~67E~67/E~2500.0~40~4~17~
+Irrational problem~68A~68/A~500.0~20~2~1,14~
+Energy exchange~68B~68/B~1000.0~20~2~11~
+Synchrophasotron~68C~68/C~1500.0~30~3~6~
+Half-decay tree~68D~68/D~2000.0~50~3~5,24,2,21~
+Contact~68E~68/E~2500.0~40~4~17~
+Young Physicist~69A~69/A~500.0~20~2~1,3~
+Bets~69B~69/B~1000.0~20~2~4,1~
+Game~69C~69/C~1500.0~30~3~1~
+Dot~69D~69/D~2000.0~40~2~2,25~
+Subsegments~69E~69/E~2500.0~50~5~5,1~
+Cookies~70A~70/A~500.0~20~2~3~
+Text Messaging~70B~70/B~1000.0~30~2~30,4,13~
+Lucky Tickets~70C~70/C~1500.0~30~3~11,5,10,18~
+Professor's task~70D~70/D~2000.0~30~3~5,17~
+Information Reform~70E~70/E~2500.0~40~4~2,1,15~
+Way Too Long Words~71A~71/A~500.0~20~2~13~
+Progress Bar~71B~71/B~1000.0~20~2~1,3~
+Round Table Knights~71C~71/C~1500.0~30~3~2,3,14~
+Solitaire~71D~71/D~2000.0~50~5~6,1~
+Nuclear Fusion~71E~71/E~2500.0~60~6~20,2~
+Goshtasp, Vishtasp and Eidi~72A~72/A~-1.0~20~2~4,3~
+INI-file~72B~72/B~-1.0~30~3~1~
+Extraordinarily Nice Numbers~72C~72/C~-1.0~20~2~3~
+Perse-script~72D~72/D~-1.0~80~3~30~
+Ali goes shopping~72E~72/E~-1.0~40~4~6,13~
+Oil~72F~72/F~-1.0~50~5~4,3~
+Fibonacci army~72G~72/G~-1.0~70~7~2~
+Reverse It!~72H~72/H~-1.0~80~8~1~
+Goofy Numbers~72I~72/I~-1.0~80~8~1~
+The Elder Trolls IV: Oblivon~73A~73/A~500.0~20~2~4,3~
+Need For Brake~73B~73/B~1000.0~30~3~11,4,10~
+LionAge II~73C~73/C~1000.0~30~3~2~
+FreeDiv~73D~73/D~1500.0~40~4~9,12,4~
+Morrowindows~73E~73/E~1500.0~30~3~3,14~
+Plane of Tanks~73F~73/F~2000.0~30~3~6,17~
+Room Leader~74A~74/A~500.0~20~2~1~
+Train~74B~74/B~1000.0~30~1~2,25,4~
+Chessboard Billiard~74C~74/C~1500.0~30~3~9,19,12,14~
+Hanger~74D~74/D~2000.0~50~5~5~
+Shift It!~74E~74/E~2500.0~60~6~8~
+Life Without Zeros~75A~75/A~500.0~20~2~1~
+Facetook Priority Wall~75B~75/B~1000.0~20~2~30,1,13~
+Modified GCD~75C~75/C~1500.0~30~3~11,14~
+Big Maximum Sum~75D~75/D~2000.0~40~4~5,2,4,1,3,15~
+Ship's Shortest Path~75E~75/E~2500.0~40~4~17,22~
+Gift~76A~76/A~-1.0~30~3~19,12,10,15~
+Mice~76B~76/B~-1.0~30~3~4,18~
+Mutation~76C~76/C~-1.0~30~3~20,2,3~
+Plus and xor~76D~76/D~-1.0~40~4~2,4,3~
+Points~76E~76/E~-1.0~40~4~1,3~
+Tourist~76F~76/F~-1.0~60~6~11,5,2~
+Heroes~77A~77/A~500.0~20~2~6,1~
+Falling Anvils~77B~77/B~1000.0~20~2~3,21~
+Beavermuncher-0xFF~77C~77/C~1500.0~30~3~9,2,19,4,15~
+Domino Carpet~77D~77/D~2000.0~40~4~2,1~
+Martian Food~77E~77/E~2000.0~20~2~17~
+Haiku~78A~78/A~500.0~10~1~1,13~
+Easter Eggs~78B~78/B~1000.0~20~2~8,1~
+Beaver Game~78C~78/C~1500.0~40~2~2,25,14~
+Archer's Shot~78D~78/D~2000.0~30~3~11,17,3,18~
+Evacuation~78E~78/E~2500.0~40~3~27,12,22~
+Bus Game~79A~79/A~500.0~30~3~4~
+Colorful Field~79B~79/B~1000.0~20~2~1,10~
+Beaver~79C~79/C~1500.0~30~3~5,2,4,23,13,18~
+Password~79D~79/D~2000.0~40~3~20,2,22~
+Security System~79E~79/E~2500.0~40~4~3~
+Panoramix's Prediction~80A~80/A~500.0~20~2~6~
+Depression~80B~80/B~1000.0~10~1~17,3~
+Heroes~80C~80/C~1500.0~30~3~6,1~
+Falling Anvils~80D~80/D~2000.0~30~3~17,21~
+Beavermuncher-0xFF~80E~80/E~2500.0~40~4~7~
+Plug-in~81A~81/A~500.0~30~3~1~
+Sequence Formatting~81B~81/B~1000.0~30~3~1,13~
+Average Score~81C~81/C~1500.0~30~3~3,10~
+Polycarp's Picture Gallery~81D~81/D~2000.0~50~5~8,4~
+Pairs~81E~81/E~2500.0~50~5~9,2,19,12,1,15~
+Double Cola~82A~82/A~500.0~20~2~1,3~
+Sets~82B~82/B~1000.0~30~2~8,23,1~
+General Mobilization~82C~82/C~1500.0~30~3~5,9,10~
+Two out of Three~82D~82/D~2000.0~40~4~2~
+Corridor~82E~82/E~2500.0~30~3~17~
+Magical Array~83A~83/A~500.0~20~2~3~
+Doctor~83B~83/B~1000.0~20~2~11,3,10~
+Track~83C~83/C~1500.0~40~3~12,4,22~
+Numbers~83D~83/D~2000.0~40~4~2,3,14~
+Two Subsequences~83E~83/E~2500.0~50~5~20,2~
+Toy Army~84A~84/A~500.0~10~1~3,14~
+Magical Array~84B~84/B~1000.0~20~2~16,1~
+Biathlon~84C~84/C~1500.0~40~4~11,1~
+Doctor~84D~84/D~2000.0~50~5~11,1~
+Track~84E~84/E~2500.0~50~4~6,22~
+Domino~85A~85/A~500.0~20~2~8,1~
+Embassy Queue~85B~85/B~1000.0~10~1~5~
+Petya and Tree~85C~85/C~1500.0~30~3~11,9,21,10,15~
+Sum of Medians~85D~85/D~2000.0~40~4~11,6,5,1~
+Guard Towers~85E~85/E~2500.0~40~4~11,19,17,12,10~
+Reflection~86A~86/A~500.0~20~2~3~
+Tetris revisited~86B~86/B~1000.0~20~1~8,29,4,3~
+Genetic engineering~86C~86/C~2000.0~40~4~2,28,15~
+Powerful array~86D~86/D~2500.0~50~5~5,1,3,18~
+Long sequence~86E~86/E~2500.0~40~4~6,3,26~
+Trains~87A~87/A~500.0~20~2~3~
+Vasya and Types~87B~87/B~1000.0~20~2~1,13~
+Interesting Game~87C~87/C~1500.0~30~1~2,25~
+Beautiful Road~87D~87/D~2000.0~40~4~9,2,19,1,10,15~
+Mogohu-Rea Idol~87E~87/E~2500.0~40~4~17~
+Chord~88A~88/A~500.0~20~2~6,1~
+Keyboard~88B~88/B~1000.0~30~3~1~
+Trains~88C~88/C~1500.0~40~4~14~
+Vasya and Types~88D~88/D~2000.0~40~4~1~
+Interesting Game~88E~88/E~2500.0~40~4~7~
+Robbery~89A~89/A~500.0~30~3~4~
+Widget Library~89B~89/B~1000.0~20~2~2,30,12,1~
+Chip Play~89C~89/C~1000.0~20~2~6,5,1~
+Space mines~89D~89/D~1500.0~10~1~17~
+Fire and Ice~89E~89/E~2500.0~60~6~4~
+Cableway~90A~90/A~500.0~20~2~4,3~
+African Crossword~90B~90/B~1000.0~10~1~1,13~
+Robbery~90C~90/C~1500.0~30~3~4,3~
+Widget Library~90D~90/D~2000.0~30~3~7~
+Chip Play~90E~90/E~2000.0~40~4~7~
+Newspaper Headline~91A~91/A~500.0~20~2~4,13~
+Queue~91B~91/B~1000.0~10~1~11,5~
+Ski Base~91C~91/C~1500.0~20~2~16,19,12~
+Grocer's Problem~91D~91/D~2500.0~60~6~8,12,4~
+Igloo Skyscraper~91E~91/E~2500.0~40~4~5,17~
+Chips~92A~92/A~500.0~10~1~1,3~
+Binary Number~92B~92/B~1000.0~30~3~4~
+Newspaper Headline~92C~92/C~1500.0~40~4~11,5,2,4~
+Queue~92D~92/D~2000.0~40~4~11,5,2~
+Ski Base~92E~92/E~2500.0~40~4~5,19,12~
+Frames~93A~93/A~500.0~30~3~1~
+End of Exams~93B~93/B~1000.0~30~3~4~
+Azembler~93C~93/C~1500.0~30~3~6,1~
+Flags~93D~93/D~2000.0~30~3~2,3,26~
+Lostborn~93E~93/E~2500.0~50~5~2,3~
+Restoring Password~94A~94/A~500.0~10~1~1,13~
+Friends~94B~94/B~1000.0~20~2~1,3~
+Frames~94C~94/C~1500.0~40~4~3~
+End of Exams~94D~94/D~2000.0~40~4~4,3~
+Azembler~94E~94/E~2500.0~50~5~6~
+Hockey~95A~95/A~500.0~20~2~1,13~
+Lucky Numbers~95B~95/B~1000.0~30~3~2,4~
+Volleyball~95C~95/C~1500.0~30~2~22~
+Horse Races~95D~95/D~2000.0~40~4~2,3~
+Lucky Country~95E~95/E~2500.0~50~5~2,19,12~
+Football~96A~96/A~500.0~20~2~1,13~
+Lucky Numbers (easy)~96B~96/B~1000.0~20~2~11,20,6~
+Hockey~96C~96/C~1500.0~30~3~1,13~
+Volleyball~96D~96/D~2000.0~40~3~12,22~
+Horse Races~96E~96/E~2500.0~40~4~7~
+Domino~97A~97/A~500.0~20~2~6,1~
+Superset~97B~97/B~1500.0~40~2~8,24~
+Winning Strategy~97C~97/C~2000.0~30~2~11,12,3,22~
+Robot in Basement~97D~97/D~2000.0~40~4~20,6,1~
+Leaders~97E~97/E~2500.0~50~5~9,19,12,15~
+Help Victoria the Wise~98A~98/A~500.0~20~2~6,1~
+Help King~98B~98/B~1000.0~30~3~1,21,15~
+Help Greg the Dwarf~98C~98/C~1500.0~20~2~17,31~
+Help Monks~98D~98/D~2000.0~50~5~8~
+Help Shrek and Donkey~98E~98/E~2500.0~50~3~2,25,3,21~
+Help Far Away Kingdom~99A~99/A~500.0~20~2~13~
+Help Chef Gerasim~99B~99/B~1000.0~30~3~1,10~
+Help Victoria the Wise~99C~99/C~1500.0~40~4~6~
+Help King~99D~99/D~2000.0~40~4~7~
+Help Greg the Dwarf~99E~99/E~2500.0~40~4~11,17,31~
+Carpeting the Room~100A~100/A~-1.0~30~3~1~
+Friendly Numbers~100B~100/B~-1.0~30~3~1~
+A+B~100C~100/C~-1.0~30~3~1~
+World of Mouth~100D~100/D~-1.0~40~4~13~
+Lamps in a Line~100E~100/E~-1.0~40~4~3~
+Polynom~100F~100/F~-1.0~60~6~1~
+Name the album~100G~100/G~-1.0~70~7~5,1~
+Battleship~100H~100/H~-1.0~70~7~9,1~
+Rotation~100I~100/I~-1.0~60~6~17,3~
+Interval Coloring~100J~100/J~-1.0~80~8~4,3~
+Homework~101A~101/A~500.0~20~2~4~
+Buses~101B~101/B~1000.0~20~2~11,5,2~
+Vectors~101C~101/C~1500.0~30~3~1,3~
+Castle~101D~101/D~2000.0~40~4~2,4,21,10,15~
+Candies and Stones~101E~101/E~2500.0~60~4~24,2~
+Clothes~102A~102/A~500.0~20~2~6~
+Sum of Digits~102B~102/B~1000.0~20~2~1~
+Homework~102C~102/C~1500.0~30~3~4~
+Buses~102D~102/D~2000.0~50~5~11,5,2~
+Vectors~102E~102/E~2500.0~40~4~7~
+Testing Pants for Sadness~103A~103/A~500.0~20~2~4,1,3~
+Cthulhu~103B~103/B~1000.0~20~2~9,19,12~
+Russian Roulette~103C~103/C~1500.0~40~4~8,4~
+Time to Raid Cowavans~103D~103/D~2000.0~40~4~6,5,10~
+Buying Sets~103E~103/E~2500.0~80~3~27,29~
+Blackjack~104A~104/A~500.0~20~2~1~
+Testing Pants for Sadness~104B~104/B~1000.0~20~2~3~
+Cthulhu~104C~104/C~1500.0~30~3~19,15~
+Russian Roulette~104D~104/D~2000.0~40~4~3~
+Time to Raid Cowavans~104E~104/E~2500.0~40~4~7~
+Transmigration~105A~105/A~500.0~30~3~1~
+Dark Assembly~105B~105/B~1000.0~20~2~6,21~
+Item World~105C~105/C~1500.0~40~4~6,1,10~
+Entertaining Geodetics~105D~105/D~2000.0~50~5~6,19,1~
+Lift and Throw~105E~105/E~2500.0~50~5~6~
+Card Game~106A~106/A~500.0~20~2~1~
+Choosing Laptop~106B~106/B~1000.0~20~2~6,1~
+Buns~106C~106/C~1500.0~20~1~35,17~
+Treasure Island~106D~106/D~2000.0~50~5~6,1~
+Space Rescuers~106E~106/E~2500.0~40~4~17,31~
+Dorm Water Supply~107A~107/A~500.0~20~2~9,12~
+Basketball Team~107B~107/B~1000.0~20~2~16,2,21~
+Arrangement~107C~107/C~1500.0~40~4~20,2~
+Crime Management~107D~107/D~2000.0~40~3~2,26~
+Darts~107E~107/E~2500.0~40~4~17,21~
+Palindromic Times~108A~108/A~500.0~20~2~1,13~
+Datatypes~108B~108/B~1000.0~20~2~3,10~
+Dorm Water Supply~108C~108/C~1500.0~30~3~9,1~
+Basketball Team~108D~108/D~2000.0~40~4~16,3,21~
+Arrangement~108E~108/E~2500.0~40~4~7~
+Lucky Sum of Digits~109A~109/A~500.0~20~2~6,1~
+Lucky Probability~109B~109/B~1000.0~30~3~6,21~
+Lucky Tree~109C~109/C~1500.0~20~2~2,19,15~
+Lucky Sorting~109D~109/D~2000.0~40~4~8,10~
+Lucky Interval~109E~109/E~2500.0~50~5~6,3~
+Nearly Lucky Number~110A~110/A~500.0~20~2~1~
+Lucky String~110B~110/B~1000.0~10~1~8,13~
+Lucky Sum of Digits~110C~110/C~1500.0~30~3~1,3~
+Lucky Probability~110D~110/D~2000.0~50~5~6,16,9,21~
+Lucky Tree~110E~110/E~2500.0~40~4~16,9,15~
+Petya and Inequiations~111A~111/A~500.0~30~3~4~
+Petya and Divisors~111B~111/B~1000.0~10~1~11,5,14~
+Petya and Spiders~111C~111/C~1500.0~40~4~20,2,19~
+Petya and Coloring~111D~111/D~2000.0~50~5~16,2~
+Petya and Rectangle~111E~111/E~2500.0~40~4~7~
+Petya and Strings~112A~112/A~500.0~20~2~1,13~
+Petya and Square~112B~112/B~1000.0~20~2~1,3~
+Petya and Inequiations~112C~112/C~1500.0~30~3~4,3~
+Petya and Divisors~112D~112/D~2000.0~40~4~1,14~
+Petya and Spiders~112E~112/E~2500.0~60~6~20,2~
+Grammar Lessons~113A~113/A~500.0~30~3~1,13~
+Petr#~113B~113/B~1000.0~30~3~6,5,23,13~
+Double Happiness~113C~113/C~1500.0~40~4~6,14~
+Museum~113D~113/D~2000.0~70~4~26,21~
+Sleeping~113E~113/E~2500.0~40~4~16,1,3~
+Cifera~114A~114/A~500.0~20~2~3~
+PFAST Inc.~114B~114/B~1000.0~30~3~20,6~
+Grammar Lessons~114C~114/C~1500.0~40~4~1~
+Petr#~114D~114/D~2000.0~50~4~5,23,28,13~
+Double Happiness~114E~114/E~2500.0~80~8~14~
+Party~115A~115/A~500.0~10~1~9,12,15~
+Lawnmower~115B~115/B~1000.0~20~2~4,10~
+Plumber~115C~115/C~1500.0~30~3~3~
+Unambiguous Arithmetic Expression~115D~115/D~2000.0~50~3~2,30~
+Linear Kingdom Races~115E~115/E~2500.0~50~5~5,2~
+Tram~116A~116/A~500.0~10~1~1~
+Little Pigs and Wolves~116B~116/B~1000.0~20~2~4,1~
+Party~116C~116/C~1500.0~20~2~9,12,15~
+Lawnmower~116D~116/D~2000.0~50~5~2,4~
+Plumber~116E~116/E~2500.0~40~4~7~
+Elevator~117A~117/A~500.0~20~2~1,3~
+Very Interesting Game~117B~117/B~1000.0~30~3~6,14~
+Cycle~117C~117/C~1500.0~40~4~9,12~
+Not Quick Transformation~117D~117/D~2000.0~40~4~24,3~
+Tree or not Tree~117E~117/E~2500.0~50~4~5,24,1,15~
+String Task~118A~118/A~500.0~20~2~1,13~
+Present from Lena~118B~118/B~1000.0~20~2~8,1~
+Fancy Number~118C~118/C~1500.0~40~4~6,4,10,13~
+Caesar's Legions~118D~118/D~2000.0~40~4~2~
+Bertown roads~118E~118/E~2500.0~50~5~9,12~
+Epic Game~119A~119/A~500.0~20~2~1~
+Before Exam~119B~119/B~1000.0~30~3~8,1,10~
+Education Reform~119C~119/C~1500.0~40~4~2~
+String Transformation~119D~119/D~2000.0~50~4~23,13~
+Alternative Reality~119E~119/E~2500.0~40~4~17~
+Elevator~120A~120/A~-1.0~20~2~6,1,3~
+Quiz League~120B~120/B~-1.0~20~2~1~
+Winnie-the-Pooh and honey~120C~120/C~-1.0~20~2~1,3~
+Three Sons~120D~120/D~-1.0~40~4~6~
+Put Knight!~120E~120/E~-1.0~40~2~25~
+Spiders~120F~120/F~-1.0~50~5~2,4,15~
+Boom~120G~120/G~-1.0~70~7~1~
+Brevity is Soul of Wit~120H~120/H~-1.0~100~5~29~
+Luck is in Numbers~120I~120/I~-1.0~90~9~4~
+Minimum Sum~120J~120/J~-1.0~70~7~24,17,10~
+Lucky Sum~121A~121/A~500.0~30~3~1~
+Lucky Transformation~121B~121/B~1000.0~20~2~13~
+Lucky Permutation~121C~121/C~1500.0~30~3~6,16,14~
+Lucky Segments~121D~121/D~2000.0~50~5~11,1,18~
+Lucky Array~121E~121/E~2500.0~60~6~5~
+Lucky Division~122A~122/A~500.0~20~2~6,14~
+Lucky Substring~122B~122/B~1000.0~10~1~6,1~
+Lucky Sum~122C~122/C~1500.0~30~3~6,3~
+Lucky Transformation~122D~122/D~2000.0~50~5~6~
+Lucky Permutation~122E~122/E~2500.0~40~4~7~
+Prime Permutation~123A~123/A~1000.0~20~2~1,14,13~
+Squares~123B~123/B~1000.0~20~2~3~
+Brackets~123C~123/C~1500.0~40~4~16,2,4~
+String~123D~123/D~2000.0~70~3~28~
+Maze~123E~123/E~2500.0~40~4~9,2,21,15~
+The number of positions~124A~124/A~500.0~20~2~3~
+Permutations~124B~124/B~1000.0~10~1~6,16,1~
+Prime Permutation~124C~124/C~2000.0~40~4~8,9,19,4,14,10,13~
+Squares~124D~124/D~2000.0~40~4~6,8,14~
+Brackets~124E~124/E~2500.0~40~4~7~
+Measuring Lengths in Baden~125A~125/A~1000.0~20~2~3~
+Simple XML~125B~125/B~1500.0~30~3~1~
+Hobbits' Party~125C~125/C~2000.0~40~4~8,4~
+Two progressions~125D~125/D~3000.0~70~7~8,4~
+MST Company~125E~125/E~5000.0~100~10~11,12~
+Hot Bath~126A~126/A~500.0~30~3~11,6,3~
+Password~126B~126/B~1000.0~20~2~11,2,23,28,13~
+E-reader Display~126C~126/C~1500.0~30~3~8,4~
+Fibonacci Sums~126D~126/D~2000.0~40~4~2,3~
+Pills~126E~126/E~2500.0~50~4~6,27~
+Wasted Time~127A~127/A~500.0~10~1~17~
+Canvas Frames~127B~127/B~1000.0~20~2~1~
+Hot Bath~127C~127/C~1500.0~40~4~11,3~
+Password~127D~127/D~2000.0~50~4~23,13~
+E-reader Display~127E~127/E~2500.0~40~4~1~
+Statues~128A~128/A~1000.0~30~3~9~
+String~128B~128/B~1500.0~40~3~6,8,23,28,13~
+Games with Rectangle~128C~128/C~1500.0~30~3~16,2~
+Numbers~128D~128/D~2000.0~50~5~8~
+Birthday~128E~128/E~2500.0~40~4~17,3~
+Cookies~129A~129/A~500.0~10~1~1~
+Students and Shoelaces~129B~129/B~1000.0~10~1~6,9,12~
+Statues~129C~129/C~2000.0~40~4~9,12,1~
+String~129D~129/D~2500.0~50~5~1,28,13~
+Games with Rectangle~129E~129/E~2500.0~50~5~16,2~
+Hexagonal numbers~130A~130/A~-1.0~20~2~1~
+Gnikool Ssalg~130B~130/B~-1.0~20~2~1,13~
+Decimal sum~130C~130/C~-1.0~20~2~7~
+Exponentiation~130D~130/D~-1.0~30~3~7~
+Tribonacci numbers~130E~130/E~-1.0~40~4~7~
+Prime factorization~130F~130/F~-1.0~40~4~7~
+CAPS LOCK ON~130G~130/G~-1.0~50~5~7~
+Balanced brackets~130H~130/H~-1.0~50~5~7~
+Array sorting~130I~130/I~-1.0~90~9~10~
+Date calculation~130J~130/J~-1.0~60~6~7~
+cAPS lOCK~131A~131/A~500.0~30~3~1,13~
+Opposites Attract~131B~131/B~1000.0~20~2~1,3~
+The World is a Theatre~131C~131/C~1500.0~30~3~16,3~
+Subway~131D~131/D~2000.0~40~4~9,12~
+Yet Another Task with Queens~131E~131/E~2500.0~50~5~10~
+Present to Mom~131F~131/F~2500.0~50~5~11,18~
+Turing Tape~132A~132/A~500.0~10~1~1~
+Piet~132B~132/B~1500.0~30~3~1~
+Logo Turtle~132C~132/C~1500.0~40~4~2~
+Constants in the language of Shakespeare~132D~132/D~2000.0~40~4~8,2,4~
+Bits of merry old England~132E~132/E~2500.0~80~4~27~
+HQ9+~133A~133/A~500.0~20~2~1~
+Unary~133B~133/B~1000.0~20~2~1~
+Turing Tape~133C~133/C~1500.0~20~2~1,3~
+Piet~133D~133/D~2500.0~50~5~1~
+Logo Turtle~133E~133/E~2500.0~60~6~2,1~
+Average Numbers~134A~134/A~500.0~30~3~6,1~
+Pairs of Numbers~134B~134/B~1000.0~20~2~6,9,3,14~
+Swaps~134C~134/C~1500.0~30~3~8,12,4~
+Replacement~135A~135/A~500.0~20~2~1,10~
+Rectangle and Square~135B~135/B~1000.0~10~1~6,17,3~
+Zero-One~135C~135/C~1500.0~40~2~8,25,4~
+Cycle~135D~135/D~2000.0~50~5~6,9,1~
+Weak Subsequence~135E~135/E~2500.0~50~5~16~
+Presents~136A~136/A~500.0~10~1~1~
+Ternary Logic~136B~136/B~1000.0~10~1~1,3~
+Replacement~136C~136/C~1500.0~30~3~1,10~
+Rectangle and Square~136D~136/D~2000.0~30~3~17,1~
+Zero-One~136E~136/E~2500.0~50~3~8,25,4~
+Postcards and photos~137A~137/A~500.0~20~2~1~
+Permutation~137B~137/B~1000.0~30~3~4~
+History~137C~137/C~1500.0~30~3~10~
+Palindromes~137D~137/D~2000.0~40~4~2~
+Last Chance~137E~137/E~2500.0~50~5~5,1~
+Literature Lesson~138A~138/A~500.0~20~2~1~
+Digits Permutations~138B~138/B~1000.0~30~3~4~
+Mushroom Gnomes - 2~138C~138/C~2000.0~50~5~11,5,21,10~
+World of Darkraft~138D~138/D~2000.0~40~2~2,25~
+Hellish Constraints~138E~138/E~2500.0~50~5~6,2,18~
+Petr and Book~139A~139/A~500.0~20~2~1~
+Wallpaper~139B~139/B~1000.0~20~2~1,3~
+Literature Lesson~139C~139/C~1500.0~40~4~1,13~
+Digits Permutations~139D~139/D~2000.0~50~5~1~
+Mushroom Gnomes - 2~139E~139/E~3000.0~70~7~11,5,21,10~
+New Year Table~140A~140/A~500.0~20~2~17,3~
+New Year Cards~140B~140/B~1000.0~20~2~6,4,1~
+New Year Snowmen~140C~140/C~1500.0~40~4~11,5,4~
+New Year Contest~140D~140/D~2000.0~30~3~4,10~
+New Year Garland~140E~140/E~2500.0~60~6~16,2~
+New Year Snowflake~140F~140/F~3000.0~40~4~17,10~
+Amusing Joke~141A~141/A~500.0~10~1~1,10,13~
+Hopscotch~141B~141/B~1000.0~20~2~17,3~
+Queue~141C~141/C~2000.0~40~4~8,4,10~
+Take-off Ramps~141D~141/D~2000.0~40~3~12,22~
+Clearing Up~141E~141/E~2500.0~50~5~8,2,19,12~
+Help Farmer~142A~142/A~500.0~20~2~6,3~
+Help General~142B~142/B~1000.0~30~3~8,4,1~
+Help Caretaker~142C~142/C~1500.0~40~4~6,2~
+Help Shrek and Donkey 2~142D~142/D~2000.0~40~2~25~
+Help Greg the Dwarf 2~142E~142/E~2500.0~40~4~17~
+Help Vasilisa the Wise 2~143A~143/A~500.0~20~2~6,3~
+Help Kingdom of Far Far Away 2~143B~143/B~1000.0~20~2~1,13~
+Help Farmer~143C~143/C~1500.0~30~3~1,3~
+Help General~143D~143/D~2000.0~40~3~29,4,3~
+Help Caretaker~143E~143/E~2500.0~40~4~7~
+Arrival of the General~144A~144/A~500.0~20~2~1~
+Meeting~144B~144/B~1000.0~20~2~1~
+Anagram Search~144C~144/C~1500.0~30~3~1,13~
+Missile Silos~144D~144/D~2000.0~40~3~5,9,12,22~
+Competition~144E~144/E~2500.0~50~5~5,4~
+Lucky Conversion~145A~145/A~500.0~20~2~4,1~
+Lucky Number 2~145B~145/B~1000.0~30~3~8~
+Lucky Subsequence~145C~145/C~1500.0~30~3~16,2,3~
+Lucky Pair~145D~145/D~2500.0~50~5~16,5,1~
+Lucky Queries~145E~145/E~2500.0~60~6~5~
+Lucky Ticket~146A~146/A~500.0~20~2~1~
+Lucky Mask~146B~146/B~1000.0~20~2~6,1~
+Lucky Conversion~146C~146/C~1500.0~30~3~4~
+Lucky Number 2~146D~146/D~2000.0~50~5~6,8,1~
+Lucky Subsequence~146E~146/E~2500.0~60~6~16,2~
+Punctuation~147A~147/A~500.0~20~2~1,13~
+Smile House~147B~147/B~1000.0~30~2~11,12,26~
+Insomnia cure~148A~148/A~1000.0~10~1~8,1,3~
+Escape~148B~148/B~1000.0~20~2~1,3~
+Terse princess~148C~148/C~1000.0~30~3~8,4~
+Bag of mice~148D~148/D~1000.0~20~1~2,25,3,21~
+Porcelain~148E~148/E~1000.0~30~3~2~
+Business trip~149A~149/A~500.0~20~2~4,1,10~
+Martian Clock~149B~149/B~1000.0~30~3~1~
+Division into Teams~149C~149/C~1500.0~30~3~4,3,10~
+Coloring Brackets~149D~149/D~2500.0~50~5~2~
+Martian Strings~149E~149/E~2500.0~60~5~28,13~
+Win or Freeze~150A~150/A~500.0~30~1~25,14~
+Quantity of Strings~150B~150/B~500.0~20~2~16,9,3~
+Smart Cheater~150C~150/C~1000.0~20~2~5,3,21~
+Mission Impassable~150D~150/D~1500.0~40~4~2~
+Freezing with Style~150E~150/E~3000.0~60~6~11,5,24,15~
+Soft Drinking~151A~151/A~500.0~10~1~1~
+Phone Numbers~151B~151/B~1000.0~20~2~1,13~
+Win or Freeze~151C~151/C~1500.0~40~2~25,4,14~
+Quantity of Strings~151D~151/D~1500.0~40~4~16,19~
+Smart Cheater~151E~151/E~3000.0~50~5~7~
+Marks~152A~152/A~500.0~20~2~1~
+Steps~152B~152/B~1000.0~20~2~11,1~
+Pocket Book~152C~152/C~1500.0~20~2~16~
+Frames~152D~152/D~2500.0~60~6~6~
+Garden~152E~152/E~2500.0~50~5~20,2,12,15~
+A + B~153A~153/A~-1.0~30~3~7~
+Binary notation~153B~153/B~-1.0~20~2~7~
+Caesar Cipher~153C~153/C~-1.0~30~3~7~
+Date Change~153D~153/D~-1.0~30~3~7~
+Euclidean Distance~153E~153/E~-1.0~40~4~7~
+Hometask~154A~154/A~500.0~30~3~4~
+Colliders~154B~154/B~1000.0~20~2~3,14~
+Double Profiles~154C~154/C~1500.0~40~3~12,23,10~
+Flatland Fencing~154D~154/D~2000.0~40~2~25,3~
+Martian Colony~154E~154/E~2500.0~40~4~17~
+I_love_\%username\%~155A~155/A~500.0~20~2~6~
+Combination~155B~155/B~1000.0~20~2~4,10~
+Hometask~155C~155/C~1500.0~40~4~2,4~
+Colliders~155D~155/D~2000.0~40~4~3,14~
+Double Profiles~155E~155/E~2500.0~60~5~23,10~
+Message~156A~156/A~500.0~30~3~6~
+Suspects~156B~156/B~1000.0~10~1~8,5,1~
+Cipher~156C~156/C~1500.0~20~2~16,2~
+Clues~156D~156/D~2500.0~50~5~16,12~
+Mrs. Hudson's Pancakes~156E~156/E~2500.0~60~6~6,2~
+Game Outcome~157A~157/A~500.0~20~2~6~
+Trace~157B~157/B~1000.0~10~1~17,10~
+Message~157C~157/C~1500.0~40~4~6,2,13~
+Suspects~157D~157/D~2000.0~40~4~1~
+Cipher~157E~157/E~2500.0~40~4~2,3~
+Next Round~158A~158/A~500.0~30~3~1~
+Taxi~158B~158/B~1000.0~30~3~4,1~
+Cd and pwd commands~158C~158/C~1000.0~20~2~5,1~
+Ice Sculptures~158D~158/D~1500.0~30~3~6,14~
+Phone Talks~158E~158/E~2000.0~50~5~2,10~
+Friends or Not~159A~159/A~500.0~30~3~4,1~
+Matchmaker~159B~159/B~1000.0~20~2~4,10~
+String Manipulation 1.0~159C~159/C~1500.0~30~3~11,6,5,13~
+Palindrome pairs~159D~159/D~2000.0~40~4~6,2,13~
+Zebra Tower~159E~159/E~2500.0~50~5~5,4,10~
+Twins~160A~160/A~500.0~20~2~4,10~
+Unlucky Ticket~160B~160/B~1000.0~20~2~4,10~
+Find Pair~160C~160/C~1500.0~40~4~1,3,10~
+Edges in MST~160D~160/D~2000.0~40~4~9,19,12,10~
+Buses and People~160E~160/E~2500.0~60~6~11,5,10~
+Dress'em in Vests!~161A~161/A~1000.0~20~2~11,6,4,18~
+Discounts~161B~161/B~1000.0~20~2~8,4,10~
+Abracadabra~161C~161/C~2000.0~50~3~24~
+Distance in Tree~161D~161/D~2000.0~40~4~9,2,15~
+Polycarpus the Safecracker~161E~161/E~2500.0~50~5~6,2~
+Pentagonal numbers~162A~162/A~-1.0~20~2~1~
+Binary notation~162B~162/B~-1.0~20~2~7~
+Prime factorization~162C~162/C~-1.0~30~3~7~
+Remove digits~162D~162/D~-1.0~20~2~7~
+HQ9+~162E~162/E~-1.0~30~3~7~
+Factorial zeros~162F~162/F~-1.0~40~4~7~
+Non-decimal sum~162G~162/G~-1.0~50~5~7~
+Alternating case~162H~162/H~-1.0~50~5~7~
+Truncatable primes~162I~162/I~-1.0~50~5~7~
+Brackets~162J~162/J~-1.0~70~7~7~
+Substring and Subsequence~163A~163/A~1000.0~20~2~2~
+Lemmings~163B~163/B~1000.0~30~3~11~
+Conveyor~163C~163/C~1500.0~30~3~10~
+Large Refrigerator~163D~163/D~2000.0~50~5~6~
+e-Government~163E~163/E~2500.0~50~5~5,9,2,13,15~
+Variable, or There and Back Again~164A~164/A~500.0~30~3~9,12~
+Ancient Berland Hieroglyphs~164B~164/B~1000.0~40~4~18~
+Machine Programming~164C~164/C~1500.0~70~3~27~
+Minimum Diameter~164D~164/D~2500.0~60~6~11,6~
+Polycarpus and Tasks~164E~164/E~2500.0~40~4~7~
+Supercentral Point~165A~165/A~500.0~10~1~1~
+Burning Midnight Oil~165B~165/B~1000.0~20~2~11,1~
+Another Problem on Strings~165C~165/C~1500.0~30~3~11,6,2,3,13,18~
+Beard Graph~165D~165/D~2000.0~40~4~5,19,15~
+Compatible Numbers~165E~165/E~2500.0~50~5~20,6,9,2~
+Rank List~166A~166/A~500.0~20~2~11,1,10~
+Polygons~166B~166/B~3000.0~50~5~17,10~
+Median~166C~166/C~1000.0~20~2~4,3,10~
+Shoe Store~166D~166/D~3000.0~60~4~2,29,4,10,18~
+Tetrahedron~166E~166/E~1000.0~20~1~2,3,26~
+Wizards and Trolleybuses~167A~167/A~500.0~20~2~1~
+Wizards and Huge Prize~167B~167/B~1000.0~30~3~2,21~
+Wizards and Numbers~167C~167/C~1500.0~30~2~25,3~
+Wizards and Roads~167D~167/D~2000.0~30~2~5,24,29~
+Wizards and Bets~167E~167/E~2500.0~40~4~3,26~
+Wizards and Demonstration~168A~168/A~500.0~20~2~1~
+Wizards and Minimal Spell~168B~168/B~1000.0~30~3~1,13~
+Wizards and Trolleybuses~168C~168/C~1500.0~30~3~1,3~
+Wizards and Huge Prize~168D~168/D~2000.0~50~5~2,21~
+Wizards and Numbers~168E~168/E~2500.0~40~4~7~
+Chores~169A~169/A~500.0~10~1~10~
+Replacing Digits~169B~169/B~1000.0~30~3~4~
+Substring and Subsequence~169C~169/C~1500.0~30~3~2~
+Lemmings~169D~169/D~2000.0~40~4~7~
+Conveyor~169E~169/E~2500.0~40~4~7~
+Mysterious numbers - 1~171A~171/A~-1.0~20~2~8~
+Star~171B~171/B~-1.0~10~1~16~
+A Piece of Cake~171C~171/C~-1.0~30~3~1~
+Broken checker~171D~171/D~-1.0~50~5~6~
+MYSTERIOUS LANGUAGE~171E~171/E~-1.0~40~4~7~
+ucyhf~171F~171/F~-1.0~60~6~6,1,14~
+Mysterious numbers - 2~171G~171/G~-1.0~40~4~7~
+A polyline~171H~171/H~-1.0~70~7~1~
+Phone Code~172A~172/A~1000.0~10~1~6,1~
+Pseudorandom Sequence Period~172B~172/B~1000.0~20~2~1,14~
+Bus~172C~172/C~1500.0~20~2~1,10~
+Calendar Reform~172D~172/D~1500.0~30~3~14~
+BHTML+BCSS~172E~172/E~2000.0~50~4~9,30~
+Rock-Paper-Scissors~173A~173/A~500.0~20~2~1,3~
+Chamber of Secrets~173B~173/B~1000.0~30~2~9,22~
+Spiral Maximum~173C~173/C~1500.0~30~3~6,2~
+Deputies~173D~173/D~2000.0~50~5~8,12,4,1~
+Camping Groups~173E~173/E~2500.0~50~5~5,10~
+Problem About Equation~174A~174/A~500.0~20~2~3~
+File List~174B~174/B~1000.0~30~3~2,4,1~
+Range Increments~174C~174/C~1500.0~30~3~5,4~
+Variable, or There and Back Again~174D~174/D~2500.0~60~6~12~
+Ancient Berland Hieroglyphs~174E~174/E~3000.0~50~5~7~
+Robot Bicorn Attack~175A~175/A~500.0~30~3~6,1~
+Plane of Tanks: Pro~175B~175/B~500.0~30~3~1~
+Geometry Horse~175C~175/C~1000.0~30~3~4,1,10~
+Plane of Tanks: Duel~175D~175/D~2500.0~60~6~6,2,21~
+Power Defence~175E~175/E~3000.0~60~6~6,2,4~
+Gnomes of Might and Magic~175F~175/F~3000.0~60~5~5,12,1,22~
+Trading Business~176A~176/A~500.0~10~1~4,10~
+Word Cut~176B~176/B~1000.0~20~2~2~
+Playing with Superglue~176C~176/C~1500.0~40~4~16,8~
+Hyper String~176D~176/D~2000.0~50~5~2~
+Archaeology~176E~176/E~2500.0~40~4~5,9,15~
+Fibonacci Strings~177G1~177/G1~30.0~20~2~13~
+Fibonacci Strings~177G2~177/G2~70.0~20~1~26,13~
+Script Generation~177F1~177/F1~30.0~10~1~7~
+Space Voyage~177E1~177/E1~30.0~20~2~11~
+Script Generation~177F2~177/F2~70.0~20~2~7~
+Space Voyage~177E2~177/E2~70.0~20~2~11~
+Encrypting Messages~177D1~177/D1~30.0~10~1~6~
+Party~177C1~177/C1~30.0~10~1~9,19,12~
+Encrypting Messages~177D2~177/D2~70.0~10~1~5~
+Rectangular Game~177B1~177/B1~30.0~10~1~14~
+Party~177C2~177/C2~70.0~10~1~6,9,19,12~
+Rectangular Game~177B2~177/B2~70.0~20~2~14~
+Good Matrix Elements~177A1~177/A1~30.0~10~1~1~
+Good Matrix Elements~177A2~177/A2~70.0~10~1~1~
+Representative Sampling~178F1~178/F1~20.0~10~1~7~
+Representative Sampling~178F2~178/F2~30.0~10~1~2,10,13~
+The Beaver's Problem - 2~178E1~178/E1~20.0~10~1~7~
+Representative Sampling~178F3~178/F3~50.0~20~2~7~
+Magic Squares~178D1~178/D1~20.0~10~1~7~
+The Beaver's Problem - 2~178E2~178/E2~30.0~20~2~7~
+Magic Squares~178D2~178/D2~30.0~20~2~7~
+Smart Beaver and Resolving Collisions~178C1~178/C1~20.0~20~2~7~
+The Beaver's Problem - 2~178E3~178/E3~50.0~20~2~7~
+Greedy Merchants~178B1~178/B1~20.0~10~1~7~
+Magic Squares~178D3~178/D3~50.0~20~2~7~
+Smart Beaver and Resolving Collisions~178C2~178/C2~30.0~10~1~7~
+Greedy Merchants~178B2~178/B2~30.0~10~1~7~
+Educational Game~178A1~178/A1~20.0~10~1~7~
+Smart Beaver and Resolving Collisions~178C3~178/C3~50.0~10~1~7~
+Educational Game~178A2~178/A2~30.0~10~1~4~
+Greedy Merchants~178B3~178/B3~50.0~10~1~7~
+Educational Game~178A3~178/A3~50.0~10~1~4~
+Defragmentation~180A~180/A~-1.0~30~3~1~
+Divisibility Rules~180B~180/B~-1.0~20~2~3,14~
+Letter~180C~180/C~-1.0~40~4~2~
+Name~180D~180/D~-1.0~50~5~4,13~
+Cubes~180E~180/E~-1.0~50~5~11,2,18~
+Mathematical Analysis Rocks!~180F~180/F~-1.0~40~4~8,1,3~
+Series of Crimes~181A~181/A~500.0~10~1~6,17,1~
+Number of Triplets~181B~181/B~1000.0~20~2~11,6~
+Trading Business~181C~181/C~1500.0~30~1~25,29,4~
+Word Cut~181D~181/D~2000.0~50~5~2~
+Playing with Superglue~181E~181/E~2500.0~50~3~25~
+Battlefield~182A~182/A~3000.0~40~4~17,12,1,22~
+Vasya's Calendar~182B~182/B~500.0~10~1~1~
+Optimal Sum~182C~182/C~3000.0~60~6~5,4~
+Common Divisors~182D~182/D~1000.0~20~2~6,23,1,3,13~
+Wooden Fence~182E~182/E~1500.0~30~3~2~
+Headquarters~183A~183/A~500.0~20~2~8,3~
+Zoo~183B~183/B~1000.0~20~2~6,17~
+Cyclic Coloring~183C~183/C~1500.0~40~4~9~
+T-shirt~183D~183/D~2000.0~40~4~2,4,21~
+Candy Shop~183E~183/E~2500.0~60~6~4~
+Plant~185A~185/A~500.0~20~2~3~
+Mushroom Scientists~185B~185/B~1000.0~20~1~3,31~
+Clever Fat Rat~185C~185/C~1500.0~50~5~2~
+Visit of the Great~185D~185/D~2000.0~40~4~3,14~
+Soap Time! - 2~185E~185/E~2500.0~60~6~11,5~
+Comparing Strings~186A~186/A~500.0~30~3~1,13~
+Growing Mushrooms~186B~186/B~1000.0~20~2~4,10~
+Plant~186C~186/C~1500.0~30~3~2,3,26,14~
+Mushroom Scientists~186D~186/D~2000.0~40~4~3,14,21~
+Clever Fat Rat~186E~186/E~2500.0~40~4~7~
+Permutations~187A~187/A~500.0~20~2~4~
+AlgoRace~187B~187/B~1000.0~20~1~2,22~
+Weak Memory~187C~187/C~1500.0~40~4~9,19~
+BRT Contract ~187D~187/D~2000.0~50~5~5~
+Heaven Tour~187E~187/E~2500.0~60~6~5,4~
+Hexagonal Numbers~188A~188/A~-1.0~20~2~7~
+A + Reverse B~188B~188/B~-1.0~20~2~1~
+LCM~188C~188/C~-1.0~20~2~1,3~
+Asterisks~188D~188/D~-1.0~30~3~1~
+HQ9+~188E~188/E~-1.0~40~4~1~
+Binary Notation~188F~188/F~-1.0~50~5~1~
+Array Sorting~188G~188/G~-1.0~60~6~1~
+Stack~188H~188/H~-1.0~60~5~30,1~
+Cut Ribbon~189A~189/A~500.0~30~3~6,2~
+Counting Rhombi~189B~189/B~1000.0~20~2~6,3~
+Permutations~189C~189/C~1500.0~30~3~4,1~
+AlgoRace~189D~189/D~2000.0~40~3~2,22~
+Weak Memory~189E~189/E~2500.0~50~4~11,22~
+Vasya and the Bus~190A~190/A~500.0~20~2~4,3~
+Surrounded~190B~190/B~1000.0~20~2~17~
+STL~190C~190/C~1500.0~40~4~9~
+Non-Secret Cypher~190D~190/D~2000.0~60~6~18~
+Counter Attack~190E~190/E~2500.0~60~5~5,19,12,23,10~
+Dynasty Puzzles~191A~191/A~500.0~20~2~2~
+Demonstration~191B~191/B~1000.0~30~3~4~
+Fools and Roads~191C~191/C~1500.0~20~2~5,9,15~
+Metro Scheme~191D~191/D~2000.0~40~4~12,4~
+Thwarting Demonstrations~191E~191/E~2500.0~50~5~11,5,15~
+Funky Numbers~192A~192/A~500.0~30~3~11,6,1~
+Walking in the Rain~192B~192/B~1000.0~20~2~6,1~
+Dynasty Puzzles~192C~192/C~1500.0~40~4~2~
+Demonstration~192D~192/D~2000.0~40~4~6,8~
+Fools and Roads~192E~192/E~2500.0~40~4~5,15~
+Cutting Figure~193A~193/A~500.0~20~1~33,35,15~
+Xor~193B~193/B~1000.0~30~3~6~
+Hamming Distance~193C~193/C~2000.0~40~4~8,4,3,26~
+Two Segments~193D~193/D~2000.0~40~4~5~
+Fibonacci Number~193E~193/E~2500.0~50~5~6,3,26~
+Exams~194A~194/A~500.0~10~1~1,3~
+Square~194B~194/B~1000.0~20~2~3~
+Cutting Figure~194C~194/C~1500.0~40~3~9,12,1,26,13~
+Xor~194D~194/D~2000.0~40~4~7~
+Hamming Distance~194E~194/E~3000.0~50~5~3~
+Let's Watch Football~195A~195/A~500.0~10~1~11,6,3~
+After Training~195B~195/B~1000.0~20~2~5,1,3~
+Try and Catch~195C~195/C~1500.0~40~3~30,1~
+Analyzing Polyline~195D~195/D~2000.0~40~4~3,10~
+Building Forest~195E~195/E~2500.0~60~6~5,19~
+Lexicographically Maximum Subsequence~196A~196/A~500.0~20~2~4~
+Infinite Maze~196B~196/B~1000.0~30~3~9~
+Paint Tree~196C~196/C~1500.0~30~3~24,17,10,15~
+The Next Good String~196D~196/D~3000.0~60~5~5,4,23,13~
+Opening Portals~196E~196/E~2500.0~50~4~19,12,22~
+Plate Game~197A~197/A~1000.0~20~1~8,25,3~
+Limit~197B~197/B~500.0~20~2~3~
+Lexicographically Maximum Subsequence~197C~197/C~500.0~20~2~4,1,10~
+Infinite Maze~197D~197/D~3000.0~80~6~23~
+Paint Tree~197E~197/E~3000.0~50~5~8,9,17~
+About Bacteria~198A~198/A~500.0~20~2~1,3~
+Jumping on Walls~198B~198/B~1000.0~20~1~22~
+Delivering Carcinogen~198C~198/C~1500.0~20~2~11,17~
+Cube Snake~198D~198/D~2000.0~50~5~8~
+Gripping Story~198E~198/E~2500.0~50~5~11,5,10~
+Hexadecimal's theorem~199A~199/A~500.0~20~2~6,8,1,14~
+Special Olympics~199B~199/B~1000.0~20~2~17~
+About Bacteria~199C~199/C~1500.0~30~3~3~
+Jumping on Walls~199D~199/D~2000.0~40~3~9,22~
+Delivering Carcinogen~199E~199/E~2500.0~30~3~11,17~
+Cinema~200A~200/A~3000.0~60~6~6,5~
+Drinks~200B~200/B~500.0~10~1~1,3~
+Football Championship~200C~200/C~2000.0~50~5~6,1~
+Programming Language~200D~200/D~1500.0~20~2~11,6,30,1~
+Tractor College~200E~200/E~3000.0~60~4~1,3,14,31~
+Clear Symmetry~201A~201/A~1000.0~20~2~8,2,3~
+Guess That Car!~201B~201/B~1000.0~20~1~3,31~
+Fragile Bridges~201C~201/C~1500.0~40~4~2~
+Brand New Problem~201D~201/D~2000.0~40~4~20,6,2~
+Thoroughly Bureaucratic Organization~201E~201/E~2500.0~50~5~11,16~
+LLPS~202A~202/A~500.0~10~1~11,20,6,4,1,13~
+Brand New Easy Problem~202B~202/B~1000.0~30~3~6~
+Clear Symmetry~202C~202/C~2000.0~40~4~11,3~
+Guess That Car!~202D~202/D~2000.0~40~4~2,3~
+Fragile Bridges~202E~202/E~2500.0~50~5~5,2~
+Two Problems~203A~203/A~500.0~30~3~6,1~
+Game on Paper~203B~203/B~1000.0~20~2~6,1~
+Photographer~203C~203/C~1500.0~30~3~4,10~
+Hit Ball~203D~203/D~2000.0~30~3~17,1,3~
+Transportation~203E~203/E~2500.0~60~6~4,10,18~
+Little Elephant and Interval~204A~204/A~500.0~20~2~11,16,2~
+Little Elephant and Cards~204B~204/B~500.0~20~2~11,5~
+Little Elephant and Furik and Rubik~204C~204/C~1500.0~30~3~3,21~
+Little Elephant and Retro Strings~204D~204/D~2000.0~40~4~2~
+Little Elephant and Strings~204E~204/E~2500.0~50~5~5,1,28,18~
+Little Elephant and Rozdil~205A~205/A~500.0~20~2~6,1~
+Little Elephant and Sorting~205B~205/B~1000.0~30~3~6,4~
+Little Elephant and Interval~205C~205/C~1500.0~30~3~11,6,16,2,3~
+Little Elephant and Cards~205D~205/D~1500.0~40~4~11,6,10~
+Little Elephant and Furik and Rubik~205E~205/E~2500.0~50~5~6,16,21~
+The Beaver's Problem - 3~206D1~206/D1~10.0~10~1~7~
+The Beaver's Problem - 3~206D2~206/D2~10.0~20~2~7~
+Game with Two Trees~206C1~206/C1~20.0~20~2~7~
+The Beaver's Problem - 3~206D3~206/D3~10.0~10~1~7~
+Military Trainings~206B1~206/B1~20.0~10~1~7~
+Game with Two Trees~206C2~206/C2~30.0~20~2~7~
+Military Trainings~206B2~206/B2~30.0~10~1~7~
+Beaver's Calculator 1.0~206A1~206/A1~20.0~10~1~7~
+The Beaver's Problem - 3~206D4~206/D4~10.0~20~2~7~
+Beaver's Calculator 1.0~206A2~206/A2~30.0~10~1~7~
+The Beaver's Problem - 3~206D5~206/D5~10.0~20~2~7~
+Military Trainings~206B3~206/B3~50.0~10~1~7~
+The Beaver's Problem - 3~206D6~206/D6~10.0~20~2~7~
+Beaver's Calculator 1.0~206A3~206/A3~50.0~20~2~7~
+The Beaver's Problem - 3~206D8~206/D8~10.0~10~1~7~
+The Beaver's Problem - 3~207D10~207/D10~10.0~20~2~7~
+The Beaver's Problem - 3~207D1~207/D1~10.0~10~1~7~
+Game with Two Trees~207C1~207/C1~20.0~10~1~7~
+The Beaver's Problem - 3~207D2~207/D2~10.0~20~2~7~
+Military Trainings~207B1~207/B1~20.0~10~1~7~
+Game with Two Trees~207C2~207/C2~30.0~20~2~7~
+The Beaver's Problem - 3~207D3~207/D3~10.0~10~1~7~
+Beaver's Calculator 1.0~207A1~207/A1~20.0~20~2~4~
+Military Trainings~207B2~207/B2~30.0~10~1~7~
+The Beaver's Problem - 3~207D4~207/D4~10.0~10~1~7~
+Game with Two Trees~207C3~207/C3~50.0~10~1~5~
+Beaver's Calculator 1.0~207A2~207/A2~30.0~20~2~4~
+The Beaver's Problem - 3~207D5~207/D5~10.0~10~1~7~
+Military Trainings~207B3~207/B3~50.0~20~2~7~
+Beaver's Calculator 1.0~207A3~207/A3~50.0~20~2~4~
+The Beaver's Problem - 3~207D6~207/D6~10.0~10~1~7~
+The Beaver's Problem - 3~207D7~207/D7~10.0~10~1~7~
+The Beaver's Problem - 3~207D8~207/D8~10.0~10~1~7~
+The Beaver's Problem - 3~207D9~207/D9~10.0~10~1~7~
+Dubstep~208A~208/A~500.0~20~2~13~
+Solitaire~208B~208/B~2000.0~50~5~9,2~
+Police Station~208C~208/C~2500.0~50~4~2,12,22~
+Prizes, Prizes, more Prizes~208D~208/D~500.0~20~2~1~
+Blood Cousins~208E~208/E~3000.0~50~5~11,5,9,15~
+Multicolored Marbles~209A~209/A~500.0~20~2~2,3~
+Pixels~209B~209/B~500.0~20~2~8,3~
+Trails and Glades~209C~209/C~1000.0~30~3~8,19,12,4~
+Polycarpus is Looking for Good Substrings~211B~211/B~1000.0~20~2~7~
+Cowboys~211C~211/C~500.0~20~2~7~
+Cutting a Fence~211D~211/D~1000.0~20~2~7~
+IT Restaurants~211E~211/E~500.0~10~1~7~
+Privatization~212A~212/A~3000.0~70~5~27,12~
+Polycarpus is Looking for Good Substrings~212B~212/B~2000.0~40~4~20,23,1~
+Cowboys~212C~212/C~1500.0~30~3~2,3~
+Cutting a Fence~212D~212/D~2500.0~50~5~11,5,19~
+IT Restaurants~212E~212/E~500.0~20~2~9,2,15~
+Game~213A~213/A~1000.0~20~2~9,4~
+Numbers~213B~213/B~1000.0~20~2~16,2~
+Relay Race~213C~213/C~1500.0~40~4~2~
+Stars~213D~213/D~2000.0~30~3~8,17~
+Two Permutations~213E~213/E~2500.0~50~4~5,23,13~
+System of Equations~214A~214/A~500.0~20~2~6~
+Hometask~214B~214/B~1000.0~30~3~6,8,4,3~
+Game~214C~214/C~2000.0~40~4~6,4~
+Numbers~214D~214/D~2000.0~30~3~16,2,3~
+Relay Race~214E~214/E~2500.0~60~6~2~
+Bicycle Chain~215A~215/A~500.0~20~2~6,1~
+Olympic Medal~215B~215/B~500.0~20~2~4,3~
+Crosses~215C~215/C~3000.0~60~6~6,1~
+Hot Days~215D~215/D~2000.0~50~5~4~
+Periodical Numbers~215E~215/E~3000.0~60~6~16,2,14~
+Tiling with Hexagons~216A~216/A~500.0~20~2~1,3~
+Forming Teams~216B~216/B~1500.0~40~4~9,1~
+Hiring Staff~216C~216/C~2000.0~50~5~4~
+Spider's Web~216D~216/D~2000.0~40~4~11,10,18~
+Martian Luck~216E~216/E~3000.0~50~5~3,14~
+Ice Skating~217A~217/A~500.0~20~2~6,9,19,12~
+Blackboard Fibonacci~217B~217/B~1000.0~20~2~6,3~
+Formurosa~217C~217/C~2500.0~50~4~24,2,30~
+Bitonix' Patrol~217D~217/D~3000.0~50~5~20,6,16,9,3~
+Alien DNA~217E~217/E~3000.0~60~6~5,19,15~
+Mountain Scenery~218A~218/A~500.0~20~2~6,8,1~
+Airport~218B~218/B~500.0~20~2~1~
+Ice Skating~218C~218/C~1000.0~20~2~9,19,12~
+Blackboard Fibonacci~218D~218/D~3000.0~60~6~1~
+Formurosa~218E~218/E~3000.0~50~5~7~
+k-String~219A~219/A~500.0~20~2~1,13~
+Special Offer! Super Price 999 Bourles!~219B~219/B~1000.0~30~3~1~
+Color Stripe~219C~219/C~1500.0~40~4~6,2,4~
+Choosing Capital for Treeland~219D~219/D~2000.0~30~3~9,2,15~
+Parking Lot~219E~219/E~3000.0~70~7~5~
+Little Elephant and Problem~220A~220/A~500.0~20~2~1,10~
+Little Elephant and Array~220B~220/B~1000.0~20~2~8,5~
+Little Elephant and Shifts~220C~220/C~1500.0~40~4~5~
+Little Elephant and Triangle~220D~220/D~2000.0~30~2~35,17,3~
+Little Elephant and Inversions~220E~220/E~2500.0~50~5~5,18~
+Little Elephant and Function~221A~221/A~500.0~20~2~1,3~
+Little Elephant and Numbers~221B~221/B~1000.0~30~3~1~
+Little Elephant and Problem~221C~221/C~1500.0~30~3~10~
+Little Elephant and Array~221D~221/D~2000.0~50~5~5~
+Little Elephant and Shifts~221E~221/E~2500.0~40~4~7~
+Shooshuns and Sequence ~222A~222/A~500.0~30~3~6,1~
+Cosmic Tables~222B~222/B~1000.0~30~3~1~
+Reducing Fractions~222C~222/C~1500.0~40~4~1,14,10~
+Olympiad~222D~222/D~2000.0~40~4~11,4,10,18~
+Decoding Genome~222E~222/E~2500.0~80~5~26~
+Bracket Sequence~223A~223/A~500.0~20~2~5,30,1~
+Two Strings~223B~223/B~1000.0~20~2~5,2,13~
+Partial Sums~223C~223/C~1500.0~30~3~16,3~
+Spider~223D~223/D~2000.0~30~3~17,12~
+Planar Graph~223E~223/E~2500.0~30~3~27,17,12~
+Parallelepiped~224A~224/A~500.0~20~2~6,3~
+Array~224B~224/B~1000.0~30~3~20,1,18~
+Bracket Sequence~224C~224/C~1500.0~40~4~5~
+Two Strings~224D~224/D~2000.0~50~5~5,13~
+Partial Sums~224E~224/E~2500.0~50~5~16,3~
+Dice Tower~225A~225/A~500.0~20~2~8,4~
+Well-known Numbers~225B~225/B~1000.0~30~3~11,4,14~
+Barcode~225C~225/C~1500.0~30~2~2,26~
+Snake~225D~225/D~3000.0~60~6~20,9,12,1~
+Unsolvable~225E~225/E~3000.0~50~5~3,14~
+Flying Saucer Segments~226A~226/A~500.0~20~2~3~
+Naughty Stone Piles~226B~226/B~1000.0~30~3~4~
+Anniversary~226C~226/C~1500.0~30~3~5,1,3,26,14~
+The table~226D~226/D~2000.0~40~4~8,4~
+Noble Knight's Path~226E~226/E~2500.0~50~5~5,15~
+Where do I Turn?~227A~227/A~500.0~20~2~17~
+Effective Approach~227B~227/B~1000.0~20~2~1~
+Flying Saucer Segments~227C~227/C~1500.0~30~3~3~
+Naughty Stone Piles~227D~227/D~2000.0~40~4~3,10~
+Anniversary~227E~227/E~2500.0~80~6~26,14~
+Is your horseshoe on the other hoof?~228A~228/A~500.0~20~2~1~
+Two Tables~228B~228/B~1000.0~20~2~6,1~
+Fractal Detector~228C~228/C~1500.0~40~3~2,23~
+Zigzag~228D~228/D~2000.0~50~5~5~
+The Road to Berland is Paved With Good Intentions~228E~228/E~2500.0~50~2~33,9,19,12~
+Shifts~229A~229/A~500.0~30~3~6,18~
+Planets~229B~229/B~500.0~30~2~11,5,22~
+Triangles~229C~229/C~1000.0~20~2~16,12,3~
+Towers~229D~229/D~1000.0~30~3~2,4,18~
+Gifts~229E~229/E~3000.0~60~6~16,2,21~
+Dragons~230A~230/A~500.0~20~2~4,10~
+T-primes~230B~230/B~500.0~30~3~1,3,14~
+Shifts~230C~230/C~1500.0~40~4~11,5,2,1~
+Planets~230D~230/D~2500.0~50~4~11,12,22~
+Triangles~230E~230/E~3000.0~50~5~16,12,3~
+Team~231A~231/A~500.0~10~1~6,4~
+Magic, Wizardry and Wonders~231B~231/B~1000.0~30~3~8,4~
+To Add or Not to Add~231C~231/C~1500.0~30~3~11,10,18~
+Magic Box~231D~231/D~2000.0~20~2~6,17~
+Cactus~231E~231/E~2500.0~40~4~5,9,2,12,15~
+Cycles~232A~232/A~500.0~20~2~11,8,12,4~
+Table~232B~232/B~1000.0~20~2~20,16,2,3~
+Doe Graphs~232C~232/C~1500.0~40~3~8,24,2,12,22~
+Fence~232D~232/D~2000.0~50~4~11,5,28~
+Quick Tortoise~232E~232/E~2500.0~60~5~20,24,2~
+Perfect Permutation~233A~233/A~500.0~10~1~1,3~
+Non-square Equation~233B~233/B~1000.0~20~2~11,6,3~
+Cycles~233C~233/C~1500.0~40~3~16,12,26~
+Table~233D~233/D~2000.0~40~4~20,16,2,3~
+Doe Graphs~233E~233/E~2500.0~50~5~7~
+Lefthanders and Righthanders ~234A~234/A~-1.0~30~3~1~
+Reading~234B~234/B~-1.0~20~2~10~
+Weather~234C~234/C~-1.0~40~4~2,1~
+Cinema~234D~234/D~-1.0~50~5~1~
+Champions' League~234E~234/E~-1.0~40~4~1~
+Fence~234F~234/F~-1.0~60~6~2~
+Practice~234G~234/G~-1.0~70~6~8,24,1~
+Merging Two Decks~234H~234/H~-1.0~70~7~8,4~
+LCM Challenge~235A~235/A~500.0~40~4~14~
+Let's Play Osu!~235B~235/B~1000.0~10~1~2,3,21~
+Cyclical Quest~235C~235/C~1500.0~40~3~28,13~
+Graph Game~235D~235/D~2000.0~30~3~12~
+Number Challenge~235E~235/E~2500.0~50~5~16,2,1,14~
+Boy or Girl~236A~236/A~500.0~20~2~1~
+Easy Number Challenge~236B~236/B~1000.0~20~2~1,14~
+LCM Challenge~236C~236/C~1500.0~40~4~4,14~
+Let's Play Osu!~236D~236/D~2000.0~40~4~2,21~
+Cyclical Quest~236E~236/E~2500.0~40~4~7~
+Free Cash~237A~237/A~500.0~30~3~1~
+Young Table~237B~237/B~1000.0~20~2~1,10~
+Primes on Interval~237C~237/C~1500.0~30~3~11,14,18~
+T-decomposition~237D~237/D~2000.0~30~3~9,12,4~
+Build String~237E~237/E~2500.0~40~3~27,12~
+Not Wool Sequences~238A~238/A~500.0~10~1~8,3~
+Boring Partition~238B~238/B~1000.0~30~3~8~
+World Eater Brothers~238C~238/C~1500.0~30~3~9,2,4,15~
+Tape Programming~238D~238/D~2000.0~50~5~5,1~
+Meeting Her~238E~238/E~2500.0~50~4~2,12,22~
+Two Bags of Potatoes~239A~239/A~500.0~20~2~4,1,3~
+Easy Tape Programming~239B~239/B~1000.0~20~2~6,1~
+Not Wool Sequences~239C~239/C~1500.0~30~3~16,8,3~
+Boring Partition~239D~239/D~2000.0~40~4~8,4,10~
+World Eater Brothers~239E~239/E~2500.0~40~4~7~
+Cinema~240A~240/A~-1.0~30~3~1~
+Fence~240B~240/B~-1.0~20~2~2~
+Practice~240C~240/C~-1.0~30~3~8,1~
+Merging Two Decks~240D~240/D~-1.0~40~4~8,4~
+Road Repairs~240E~240/E~-1.0~60~6~9,12,4~
+TorCoder~240F~240/F~-1.0~70~7~5~
+Old Peykan~241A~241/A~-1.0~30~3~4~
+Friends~241B~241/B~-1.0~30~3~11,20,5,3~
+Mirror Box~241C~241/C~-1.0~20~2~17,1~
+Numbers~241D~241/D~-1.0~40~4~7~
+Flights~241E~241/E~-1.0~50~4~12,22~
+Race~241F~241/F~-1.0~60~6~6,1~
+Challenging Balloons~241G~241/G~-1.0~80~8~8~
+Heads or Tails~242A~242/A~500.0~20~2~6,1~
+Big Segment~242B~242/B~1000.0~20~2~1,10~
+King's Path~242C~242/C~1500.0~30~2~9,23,22~
+Dispute~242D~242/D~2000.0~40~4~9,4~
+XOR on Segment~242E~242/E~2500.0~60~6~20,5~
+The Brand New Function~243A~243/A~500.0~20~2~20~
+Hydra~243B~243/B~1000.0~30~3~12,10~
+Colorado Potato Beetle~243C~243/C~1500.0~30~3~9,1~
+Cubes~243D~243/D~2000.0~30~3~5,2,17,18~
+Matrix~243E~243/E~2500.0~60~6~5~
+Dividing Orange~244A~244/A~500.0~20~2~1~
+Undoubtedly Lucky Numbers~244B~244/B~1000.0~20~2~20,6,9~
+The Brand New Function~244C~244/C~1500.0~30~2~20,24,3~
+Hydra~244D~244/D~2000.0~40~4~7~
+Colorado Potato Beetle~244E~244/E~2500.0~30~3~7~
+System Administrator~245A~245/A~-1.0~10~1~1~
+Internet Address~245B~245/B~-1.0~20~2~1,13~
+Game with Coins~245C~245/C~-1.0~30~3~4~
+Restoring Table~245D~245/D~-1.0~30~3~8,4~
+Mishap in Club~245E~245/E~-1.0~50~5~1~
+Log Stream Analysis~245F~245/F~-1.0~60~6~11,6,1,13~
+Suggested Friends~245G~245/G~-1.0~70~7~6,12~
+Queries for Number of Palindromes~245H~245/H~-1.0~80~7~2,23,13~
+Buggy Sorting~246A~246/A~500.0~10~1~8,4,10~
+Increase and Decrease~246B~246/B~1000.0~20~2~4,3~
+Beauty Pageant~246C~246/C~1500.0~40~4~6,8,4~
+Colorful Graph~246D~246/D~2000.0~50~5~6,9,12~
+Blood Cousins Return~246E~246/E~2500.0~60~6~11,5,9,2,10~
+Paper Work~247A~247/A~500.0~20~2~7~
+Restoring IPv6~247B~247/B~1000.0~20~2~7~
+Movie Critics~247C~247/C~1500.0~30~3~7~
+Building Bridge~247D~247/D~1500.0~30~3~7~
+Cupboards~248A~248/A~500.0~20~2~1~
+Chilly Willy~248B~248/B~1000.0~20~2~3,14~
+Robo-Footballer~248C~248/C~2000.0~30~3~11,17~
+Sweets for Everyone!~248D~248/D~2000.0~50~5~11,4,1~
+Piglet's Birthday~248E~248/E~2500.0~60~6~2,21~
+Robo-Footballer~249A~249/A~1000.0~20~2~17~
+Sweets for Everyone!~249B~249/B~1000.0~30~3~11,4~
+Piglet's Birthday~249C~249/C~1500.0~40~4~2,21~
+Donkey and Stars~249D~249/D~1500.0~30~3~5,2,3,10~
+Endless Matrix~249E~249/E~2500.0~50~5~3~
+Paper Work~250A~250/A~500.0~20~2~4~
+Restoring IPv6~250B~250/B~1000.0~20~2~1,13~
+Movie Critics~250C~250/C~1500.0~30~3~4~
+Building Bridge~250D~250/D~1500.0~30~2~17,31,18~
+Mad Joe~250E~250/E~2000.0~50~5~6~
+Points on Line~251A~251/A~500.0~20~2~11,16,18~
+Playing with Permutations~251B~251/B~1000.0~30~3~1,3~
+Number Transformation~251C~251/C~1500.0~30~3~2,4,14~
+Two Sets~251D~251/D~2000.0~40~4~20,3~
+Tree and Table~251E~251/E~2500.0~50~5~9,2,1,15~
+Little Xor~252A~252/A~500.0~20~2~6,1~
+Unsorting Array~252B~252/B~1000.0~30~3~6,10~
+Points on Line~252C~252/C~1500.0~30~3~11,16,18~
+Playing with Permutations~252D~252/D~2000.0~50~5~6,16,1~
+Number Transformation~252E~252/E~2500.0~50~5~2,14~
+Boys and Girls~253A~253/A~500.0~30~3~4~
+Physics Practical~253B~253/B~1000.0~30~3~11,2,18~
+Text Editor~253C~253/C~1500.0~30~2~5,9,4,22~
+Table with Letters - 2~253D~253/D~2000.0~50~5~6,18~
+Printer~253E~253/E~2500.0~50~5~11,5,1,10~
+Cards with Numbers~254A~254/A~500.0~30~3~8,10~
+Jury Size~254B~254/B~1000.0~30~3~6,1~
+Anagram~254C~254/C~1500.0~40~4~4~
+Rats~254D~254/D~2000.0~50~5~6,9,1~
+Dormitory~254E~254/E~2500.0~50~5~2,1~
+Greg's Workout~255A~255/A~500.0~10~1~1~
+Code Parsing~255B~255/B~1000.0~20~2~1~
+Almost Arithmetical Progression~255C~255/C~1500.0~40~4~6,2~
+Mr. Bender and Square~255D~255/D~2000.0~40~4~11,1,3~
+Furlo and Rublo and Game~255E~255/E~2500.0~50~3~25,1,3~
+Almost Arithmetical Progression~256A~256/A~500.0~20~2~11,2,18~
+Mr. Bender and Square~256B~256/B~1000.0~20~2~11,6,3~
+Furlo and Rublo and Game~256C~256/C~1500.0~40~2~25~
+Liars and Serge~256D~256/D~2000.0~50~5~2~
+Lucky Arrays~256E~256/E~2500.0~50~5~5~
+Sockets~257A~257/A~500.0~20~2~4,1,10~
+Playing Cubes~257B~257/B~500.0~20~1~25,4,1~
+View Angle~257C~257/C~1500.0~30~3~6,17,3~
+Sum~257D~257/D~2000.0~40~4~4,3~
+Greedy Elevator~257E~257/E~3000.0~60~6~5,1~
+Little Elephant and Bits~258A~258/A~500.0~20~2~4,3~
+Little Elephant and Elections~258B~258/B~1000.0~20~2~6,16,2~
+Little Elephant and LCM~258C~258/C~1500.0~20~2~11,16,2,3~
+Little Elephant and Broken Sorting~258D~258/D~2000.0~30~3~2,3,21~
+Little Elephant and Tree~258E~258/E~2500.0~40~4~5,9,15~
+Little Elephant and Chess~259A~259/A~500.0~10~1~6,13~
+Little Elephant and Magic Square~259B~259/B~1000.0~20~2~6,1~
+Little Elephant and Bits~259C~259/C~1500.0~30~3~4,13~
+Little Elephant and Elections~259D~259/D~2000.0~40~4~6,16,2,3~
+Little Elephant and LCM~259E~259/E~2500.0~40~4~11,16,3~
+Adding Digits~260A~260/A~500.0~20~2~1,3~
+Ancient Prophesy~260B~260/B~1000.0~30~3~6,1,13~
+Balls and Boxes~260C~260/C~1500.0~40~4~4,1~
+Black and White Tree~260D~260/D~2000.0~40~4~8,19,12,4,15~
+Dividing Kingdom~260E~260/E~2500.0~50~5~11,6,5~
+Maxim and Discounts~261A~261/A~500.0~10~1~4,10~
+Maxim and Restaurant~261B~261/B~1000.0~20~2~2,3,21~
+Maxim and Matrix~261C~261/C~1500.0~30~3~8,2,3~
+Maxim and Increasing Subsequence~261D~261/D~2000.0~50~5~2~
+Maxim and Calculator~261E~261/E~2500.0~50~5~6,2,18~
+Roma and Lucky Numbers~262A~262/A~500.0~10~1~1~
+Roma and Changing Signs~262B~262/B~1000.0~30~3~4~
+Maxim and Discounts~262C~262/C~1500.0~30~3~4,10~
+Maxim and Restaurant~262D~262/D~2000.0~50~5~16,2~
+Maxim and Matrix~262E~262/E~2500.0~50~5~2~
+Beautiful Matrix~263A~263/A~500.0~10~1~1~
+Squares~263B~263/B~500.0~10~1~4,1,10~
+Circle of Numbers~263C~263/C~2500.0~60~6~9,1~
+Cycle in Graph~263D~263/D~2000.0~40~4~9,12~
+Rhombus~263E~263/E~3000.0~60~6~6,5,2~
+Escape from Stones~264A~264/A~500.0~20~2~8,5,1,18~
+Good Sequences~264B~264/B~1000.0~30~3~2,14~
+Choosing Balls~264C~264/C~1500.0~40~4~2~
+Colorful Stones~264D~264/D~2000.0~50~5~2,18~
+Roadside Trees~264E~264/E~2500.0~50~5~5,2~
+Colorful Stones (Simplified Edition)~265A~265/A~500.0~10~1~1~
+Roadside Trees (Simplified Edition)~265B~265/B~1000.0~10~1~4,1~
+Escape from Stones~265C~265/C~1500.0~30~3~4,1~
+Good Sequences~265D~265/D~2000.0~50~5~2,14~
+Choosing Balls~265E~265/E~2500.0~60~2~36,10~
+Stones on the Table~266A~266/A~500.0~10~1~1~
+Queue at the School~266B~266/B~500.0~10~1~8,29,1,22~
+Below the Diagonal~266C~266/C~2500.0~50~5~8,4,3~
+BerDonalds~266D~266/D~3000.0~60~5~12,3,22~
+More Queries to Array...~266E~266/E~3000.0~50~5~5,3~
+Subtractions~267A~267/A~500.0~20~2~3,14~
+Dominoes~267B~267/B~1000.0~30~3~9,12~
+Berland Traffic~267C~267/C~1500.0~30~3~3,26~
+Games~268A~268/A~500.0~10~1~6~
+Buttons~268B~268/B~1000.0~20~2~1,3~
+Beautiful Sets of Points~268C~268/C~1500.0~30~3~8,1~
+Wall Bars~268D~268/D~2500.0~50~5~2~
+Playlist~268E~268/E~2500.0~40~4~3,21,10~
+Magical Boxes~269A~269/A~500.0~20~2~4,3~
+Greenhouse Effect~269B~269/B~1000.0~20~2~2~
+Flawed Flow~269C~269/C~1500.0~30~2~8,27,12~
+Maximum Waterfall~269D~269/D~2000.0~50~5~5,2~
+String Theory~269E~269/E~2500.0~40~4~7~
+Fancy Fence~270A~270/A~500.0~10~1~17,1,3~
+Multithreading~270B~270/B~1500.0~30~3~5,4,1~
+Magical Boxes~270C~270/C~1500.0~30~3~11,4,1,3,10~
+Greenhouse Effect~270D~270/D~2000.0~40~4~2~
+Flawed Flow~270E~270/E~2500.0~50~5~9,10~
+Beautiful Year~271A~271/A~500.0~20~2~6~
+Prime Matrix~271B~271/B~1000.0~20~2~11,6,3,14~
+Secret~271C~271/C~1500.0~30~3~8,1~
+Good Substrings~271D~271/D~2000.0~50~5~5,13~
+Three Horses~271E~271/E~3000.0~50~5~8,3,14~
+Dima and Friends~272A~272/A~500.0~20~2~1,3~
+Dima and Sequence~272B~272/B~1000.0~20~2~1,3~
+Dima and Staircase~272C~272/C~1500.0~30~3~5,1~
+Dima and Two Sequences~272D~272/D~2000.0~40~4~16,3,10~
+Dima and Horses~272E~272/E~2500.0~50~5~16,8,12~
+Dima and Staircase~273A~273/A~500.0~20~2~7~
+Dima and Two Sequences~273B~273/B~1000.0~30~3~16~
+Dima and Horses~273C~273/C~1500.0~30~3~12,4~
+Dima and Figure~273D~273/D~2000.0~40~4~2~
+Dima and Game~273E~273/E~2500.0~40~2~2,25~
+k-Multiple Free Set~274A~274/A~500.0~20~2~11,4,10~
+Zero Tree~274B~274/B~1000.0~20~2~9,2,4,15~
+The Last Hole!~274C~274/C~1500.0~30~3~6,17~
+Lovely Matrix~274D~274/D~2000.0~40~4~9,12,4,10~
+Mirror Room~274E~274/E~2000.0~40~4~5,1~
+Lights Out~275A~275/A~500.0~20~2~1~
+Convex Shape~275B~275/B~1000.0~30~3~8,1~
+k-Multiple Free Set~275C~275/C~1500.0~40~4~11,4,10~
+Zero Tree~275D~275/D~2000.0~40~4~9,2,15~
+The Last Hole!~275E~275/E~2500.0~40~4~7~
+Lunch Rush~276A~276/A~500.0~20~2~1~
+Little Girl and Game~276B~276/B~1000.0~30~1~25,4~
+Little Girl and Maximum Sum~276C~276/C~1500.0~30~3~5,1,10~
+Little Girl and Maximum XOR~276D~276/D~2000.0~30~3~20,2,4,1,3~
+Little Girl and Problem on Trees~276E~276/E~2500.0~40~4~5,15~
+Learning Languages~277A~277/A~500.0~20~2~9,19~
+Set of Points~277B~277/B~1500.0~30~3~8,17~
+Game~277C~277/C~2000.0~50~3~25,1~
+Google Code Jam~277D~277/D~3000.0~70~7~2,21~
+Binary Tree on Plane~277E~277/E~2000.0~70~3~27~
+Circle Line~278A~278/A~500.0~20~2~1~
+New Problem~278B~278/B~1000.0~20~2~6,13~
+Learning Languages~278C~278/C~1000.0~20~2~19~
+Set of Points~278D~278/D~3000.0~50~5~8,17~
+Game~278E~278/E~3000.0~60~4~25~
+Point on Spiral~279A~279/A~500.0~10~1~6,17,1~
+Books~279B~279/B~1000.0~30~3~11,6,1,18~
+Ladder~279C~279/C~1500.0~40~4~2,1,18~
+The Minimum Number of Variables~279D~279/D~2000.0~50~5~20,2~
+Beautiful Decomposition~279E~279/E~2000.0~40~2~25,4~
+Rectangle Puzzle~280A~280/A~500.0~20~2~17~
+Maximum Xor Secondary~280B~280/B~1000.0~20~2~5,1,18~
+Game on Tree~280C~280/C~1500.0~20~2~1,3,21,15~
+k-Maximum Subsequence Sum~280D~280/D~2000.0~40~3~5,27~
+Sequence Transformation~280E~280/E~2500.0~40~4~5,2,1,3~
+Word Capitalization~281A~281/A~500.0~10~1~13~
+Nearest Fraction~281B~281/B~1000.0~30~3~6,1,18~
+Rectangle Puzzle~281C~281/C~1500.0~30~3~17,1~
+Maximum Xor Secondary~281D~281/D~2000.0~70~7~18~
+Game on Tree~281E~281/E~2500.0~40~4~3~
+Bit++~282A~282/A~500.0~20~2~1~
+Painting Eggs~282B~282/B~1000.0~20~2~4,3~
+XOR and OR~282C~282/C~1500.0~30~3~8,1,3~
+Yet Another Number Game~282D~282/D~2000.0~40~2~2,25~
+Sausage Maximization~282E~282/E~2500.0~50~5~20,5,15~
+Cows and Sequence~283A~283/A~1000.0~30~3~8,1~
+Cow Program~283B~283/B~1000.0~20~2~9,2,12~
+Coin Troubles~283C~283/C~1500.0~40~4~2~
+Cows and Cool Sequences~283D~283/D~2000.0~40~4~2,3,14~
+Cow Tennis Tournament~283E~283/E~2500.0~40~4~16,5,3~
+Cows and Primitive Roots~284A~284/A~500.0~20~2~1,3,14~
+Cows and Poker Game~284B~284/B~1000.0~20~2~6,1~
+Cows and Sequence~284C~284/C~2000.0~50~5~8,5,2~
+Cow Program~284D~284/D~2000.0~50~5~9,2~
+Coin Troubles~284E~284/E~2500.0~60~6~9,2~
+Slightly Decreasing Permutations~285A~285/A~500.0~20~2~4,1~
+Find Marble~285B~285/B~1000.0~20~2~1~
+Building Permutation~285C~285/C~1500.0~30~3~4,1,10~
+Permutation Sum~285D~285/D~2000.0~40~2~20,16,2,1,32~
+Positions in Permutations~285E~285/E~2500.0~40~4~16,2,3~
+Lucky Permutation~286A~286/A~500.0~10~1~8,3~
+Shifting~286B~286/B~1500.0~30~3~1~
+Main Sequence~286C~286/C~1500.0~30~3~4,1~
+Tourists~286D~286/D~2000.0~40~4~5,10~
+Ladies' Shop~286E~286/E~2500.0~40~1~8,34,3~
+IQ Test~287A~287/A~500.0~20~2~6,1~
+Pipeline~287B~287/B~1500.0~30~3~11,3~
+Lucky Permutation~287C~287/C~1500.0~30~3~8,4,1,3~
+Shifting~287D~287/D~2500.0~30~3~7~
+Main Sequence~287E~287/E~2500.0~50~5~5,4~
+Polo the Penguin and Strings~288A~288/A~500.0~30~3~4~
+Polo the Penguin and Houses ~288B~288/B~1000.0~10~1~16~
+Polo the Penguin and XOR operation~288C~288/C~1500.0~20~2~1,3~
+Polo the Penguin and Trees ~288D~288/D~2000.0~40~4~16,9,15~
+Polo the Penguin and Lucky Numbers~288E~288/E~2500.0~40~4~2,1,3~
+Polo the Penguin and Segments ~289A~289/A~500.0~10~1~6,1~
+Polo the Penguin and Matrix~289B~289/B~1000.0~20~1~6,2,1,10,31~
+Polo the Penguin and Strings~289C~289/C~1500.0~30~3~8,1~
+Polo the Penguin and Houses ~289D~289/D~2000.0~30~3~6,16,9,3~
+Polo the Penguin and XOR operation~289E~289/E~2500.0~40~4~5,4,1,3~
+Mysterious strings~290A~290/A~-1.0~30~3~1~
+QR code~290B~290/B~-1.0~20~2~1~
+WTF?~290C~290/C~-1.0~30~2~29,1,15~
+Orange~290D~290/D~-1.0~40~4~1~
+HQ~290E~290/E~-1.0~70~7~8~
+Greedy Petya~290F~290/F~-1.0~70~7~9,12,4~
+Spyke Talks~291A~291/A~500.0~20~2~1,10~
+Command Line Arguments~291B~291/B~1000.0~20~2~1,13~
+Network Mask~291C~291/C~1500.0~30~3~6,1~
+Parallel Programming~291D~291/D~2000.0~30~3~4~
+Tree-String Problem~291E~291/E~2500.0~60~5~9,23,13~
+SMSC~292A~292/A~1000.0~20~2~1~
+Network Topology~292B~292/B~1000.0~10~1~12,1~
+Beautiful IP Addresses~292C~292/C~1500.0~30~3~6~
+Connected Components~292D~292/D~2000.0~50~5~5,9,2,19~
+Copying Data~292E~292/E~2500.0~50~5~5~
+Weird Game~293A~293/A~500.0~30~1~25,4~
+Distinct Paths~293B~293/B~1500.0~30~3~6,16~
+Cube Problem~293C~293/C~1500.0~20~2~6,3,14~
+Ksusha and Square~293D~293/D~2000.0~30~3~17,3,21,18~
+Close Vertices~293E~293/E~2500.0~50~4~5,24,15~
+Shaass and Oskols~294A~294/A~500.0~10~1~1,3~
+Shaass and Bookshelf~294B~294/B~1000.0~30~3~2,4~
+Shaass and Lights~294C~294/C~1500.0~30~3~16,14~
+Shaass and Painter Robot~294D~294/D~2000.0~40~4~6,1,14~
+Shaass the Great~294E~294/E~2500.0~50~5~2,15~
+Greg and Array~295A~295/A~500.0~20~2~5,1~
+Greg and Graph~295B~295/B~1000.0~20~1~2,12,22~
+Greg and Friends~295C~295/C~1500.0~30~2~16,2,12,22~
+Greg and Caves~295D~295/D~2000.0~30~3~16,2~
+Yaroslav and Points~295E~295/E~2500.0~60~6~5~
+Yaroslav and Permutations~296A~296/A~500.0~20~2~4,3~
+Yaroslav and Two Strings~296B~296/B~1500.0~30~3~16,2~
+Greg and Array~296C~296/C~1500.0~30~3~5,2,1~
+Greg and Graph~296D~296/D~2000.0~40~4~2,12~
+Greg and Friends~296E~296/E~2500.0~50~5~16,9,2~
+Parity Game~297A~297/A~500.0~30~3~8~
+Fish Weight~297B~297/B~500.0~30~3~8,4~
+Splitting the Uniqueness~297C~297/C~2000.0~50~5~8~
+Color the Carpet~297D~297/D~2500.0~60~6~8~
+Mystic Carvings~297E~297/E~3000.0~60~6~5~
+Snow Footprints~298A~298/A~500.0~30~3~4,1~
+Sail~298B~298/B~500.0~20~2~6,4,1~
+Parity Game~298C~298/C~1500.0~30~3~16,8,3,14~
+Fish Weight~298D~298/D~1500.0~30~3~4,3,10~
+Splitting the Uniqueness~298E~298/E~3000.0~70~7~8,10~
+Ksusha and Array~299A~299/A~500.0~20~2~6,14,10~
+Ksusha the Squirrel~299B~299/B~1000.0~20~2~6,1~
+Weird Game~299C~299/C~1500.0~40~2~25,4~
+Distinct Paths~299D~299/D~2500.0~40~4~7~
+Cube Problem~299E~299/E~2500.0~40~4~7~
+Array~300A~300/A~500.0~20~2~6,8,1~
+Coach~300B~300/B~1000.0~30~3~6,9~
+Beautiful Numbers~300C~300/C~2000.0~40~4~6,16~
+Painting Square~300D~300/D~3000.0~60~2~2,34~
+Empire Strikes Back~300E~300/E~3000.0~50~5~11,3~
+Yaroslav and Sequence~301A~301/A~500.0~30~3~8~
+Yaroslav and Time~301B~301/B~1000.0~20~1~11,12,22~
+Yaroslav and Algorithm~301C~301/C~1500.0~30~3~8~
+Yaroslav and Divisors~301D~301/D~2000.0~40~4~5~
+Yaroslav and Arrangements~301E~301/E~2500.0~50~5~2~
+Eugeny and Array~302A~302/A~500.0~20~2~1~
+Eugeny and Play List~302B~302/B~1000.0~10~1~11,1,18~
+Yaroslav and Sequence~302C~302/C~1500.0~40~4~8~
+Yaroslav and Time~302D~302/D~2000.0~40~3~11,9,2,22~
+Yaroslav and Algorithm~302E~302/E~2500.0~40~4~7~
+Lucky Permutation Triple~303A~303/A~500.0~10~1~8,1,3~
+Rectangle Puzzle II~303B~303/B~500.0~20~2~1,3~
+Minimum Modular~303C~303/C~2000.0~40~4~6,3~
+Rotatable Number~303D~303/D~2500.0~40~4~3,14~
+Random Ranking~303E~303/E~3000.0~70~7~2~
+Pythagorean Theorem II~304A~304/A~500.0~20~2~6,3~
+Calendar~304B~304/B~1000.0~20~2~6,1~
+Lucky Permutation Triple~304C~304/C~1000.0~20~2~8~
+Rectangle Puzzle II~304D~304/D~2000.0~40~2~3,31~
+Minimum Modular~304E~304/E~3000.0~60~6~3~
+Strange Addition~305A~305/A~500.0~30~3~6,8~
+Continued Fractions~305B~305/B~1000.0~30~3~6,3~
+Ivan and Powers of Two~305C~305/C~1500.0~30~3~7~
+Olya and Graph~305D~305/D~2000.0~40~4~16,3~
+Playing with String~305E~305/E~2500.0~50~3~25~
+Candies~306A~306/A~500.0~10~1~1~
+Optimizer~306B~306/B~1000.0~30~3~5,4,10~
+White, Black and White Again~306C~306/C~1500.0~30~3~16,14~
+Polygon~306D~306/D~2000.0~30~3~8,17~
+Morning run~308A~308/A~500.0~20~2~7~
+Context Advertising~308B~308/B~500.0~20~2~7~
+Memory for Arrays~308C~308/C~1000.0~20~2~7~
+Tennis Rackets~308D~308/D~2000.0~30~3~7~
+Sheep~308E~308/E~2500.0~40~4~7~
+Morning run~309A~309/A~500.0~20~2~11,3,18~
+Context Advertising~309B~309/B~500.0~40~4~18~
+Memory for Arrays~309C~309/C~1000.0~30~3~11,20,4~
+Tennis Rackets~309D~309/D~2000.0~30~3~6,17~
+Sheep~309E~309/E~2500.0~50~5~11,4~
+The Closest Pair~311A~311/A~500.0~20~2~8,1~
+Cats Transport~311B~311/B~1000.0~30~3~5,2~
+Fetch the Treasure~311C~311/C~1500.0~40~3~6,5,22~
+Interval Cubing~311D~311/D~2000.0~40~4~5,3~
+Biologist~311E~311/E~2500.0~70~3~27~
+Whose sentence is it?~312A~312/A~500.0~30~3~1~
+Archer~312B~312/B~1000.0~20~2~3,21~
+The Closest Pair~312C~312/C~1500.0~40~4~8~
+Cats Transport~312D~312/D~2000.0~40~4~7~
+Fetch the Treasure~312E~312/E~2500.0~40~4~7~
+Ilya and Bank Account~313A~313/A~500.0~20~2~1,14~
+Ilya and Queries~313B~313/B~1000.0~20~2~2,1~
+Ilya and Matrix~313C~313/C~1500.0~30~3~8,4,1,10~
+Ilya and Roads~313D~313/D~2500.0~60~6~2~
+Ilya and Two Numbers~313E~313/E~2500.0~50~5~8,5,19,4~
+Sereja and Contest~314A~314/A~500.0~20~2~1~
+Sereja and Periods~314B~314/B~1000.0~30~3~11,9,13~
+Sereja and Subsequences~314C~314/C~1500.0~30~3~5,2~
+Sereja and Straight Lines~314D~314/D~2000.0~30~3~11,5,17,10,18~
+Sereja and Squares~314E~314/E~2500.0~60~6~2~
+Sereja and Bottles~315A~315/A~500.0~30~3~6~
+Sereja and Array~315B~315/B~1000.0~20~2~1~
+Sereja and Contest~315C~315/C~1500.0~30~3~2,4,1~
+Sereja and Periods~315D~315/D~2000.0~50~5~9,13~
+Sereja and Subsequences~315E~315/E~2500.0~50~5~16,5~
+Good Substrings~316G1~316/G1~30.0~10~1~23,13~
+Good Substrings~316G2~316/G2~40.0~50~1~28~
+Suns and Rays~316F1~316/F1~30.0~20~2~9,1~
+Good Substrings~316G3~316/G3~30.0~50~1~28~
+Summer Homework~316E1~316/E1~30.0~10~1~6,5~
+Suns and Rays~316F2~316/F2~40.0~20~2~7~
+PE Lesson~316D1~316/D1~30.0~10~1~6,2~
+Summer Homework~316E2~316/E2~40.0~10~1~5,3~
+Suns and Rays~316F3~316/F3~30.0~20~2~8,9,1~
+Summer Homework~316E3~316/E3~30.0~10~1~5,3~
+Tidying Up~316C1~316/C1~30.0~50~1~27~
+PE Lesson~316D2~316/D2~40.0~10~1~2~
+PE Lesson~316D3~316/D3~30.0~10~1~2,3~
+Tidying Up~316C2~316/C2~70.0~50~1~27,29~
+EKG~316B1~316/B1~30.0~10~1~6,9~
+EKG~316B2~316/B2~70.0~10~1~9,2~
+Special Task~316A1~316/A1~30.0~20~2~4~
+Special Task~316A2~316/A2~70.0~20~2~3~
+Perfect Pair~317A~317/A~500.0~30~3~6~
+Ants~317B~317/B~1000.0~30~3~6,1~
+Balance~317C~317/C~2500.0~50~5~8,9,12,15~
+Game with Powers~317D~317/D~1500.0~40~2~2,25~
+Princess and Her Shadow~317E~317/E~3000.0~60~5~8,22~
+Even Odds~318A~318/A~500.0~20~2~3~
+Strings of Power~318B~318/B~500.0~20~2~1,13,18~
+Perfect Pair~318C~318/C~1000.0~30~3~4,3~
+Ants~318D~318/D~2500.0~60~6~9~
+Balance~318E~318/E~3000.0~70~7~8,9~
+Malek Dance Club~319A~319/A~500.0~10~1~16,3~
+Psychos in a Line~319B~319/B~1000.0~20~2~5,1~
+Kalila and Dimna in the Logging Industry~319C~319/C~1500.0~20~2~2,17~
+Have You Ever Heard About the Word?~319D~319/D~2500.0~50~4~4,23,28,13~
+Ping-Pong~319E~319/E~2500.0~60~6~5~
+Magic Numbers~320A~320/A~500.0~20~2~6,4~
+Ping-Pong (Easy Version)~320B~320/B~1000.0~20~2~9,12~
+Malek Dance Club~320C~320/C~1500.0~20~2~3~
+Psychos in a Line~320D~320/D~2000.0~50~5~5~
+Kalila and Dimna in the Logging Industry~320E~320/E~2500.0~60~6~2~
+Ciel and Robot~321A~321/A~500.0~30~3~11,1,3~
+Ciel and Duel~321B~321/B~1000.0~30~2~2,27,4~
+Ciel the Commander~321C~321/C~1500.0~30~2~8,9,24,4,15~
+Ciel and Flipboard~321D~321/D~2000.0~30~3~2,4,3~
+Ciel and Gondolas~321E~321/E~2500.0~60~4~5,24,2~
+Ciel and Dancing~322A~322/A~500.0~20~2~4~
+Ciel and Flowers~322B~322/B~1000.0~30~3~16,3~
+Ciel and Robot~322C~322/C~1500.0~30~3~1,3,14~
+Ciel and Duel~322D~322/D~2000.0~50~3~2,27,4,18~
+Ciel the Commander~322E~322/E~2500.0~60~4~24~
+Black-and-White Cube~323A~323/A~500.0~20~2~16,8~
+Tournament-graph~323B~323/B~1000.0~30~3~8~
+Two permutations~323C~323/C~1500.0~30~3~5~
+Oh Sweet Beaverette~324A1~324/A1~30.0~10~1~7~
+Shave Beaver!~324B2~324/B2~70.0~10~1~7~
+The Great Julya Calendar~324C3~324/C3~60.0~10~1~7~
+Oh Sweet Beaverette~324A2~324/A2~70.0~10~1~7~
+Deja Vu~324E1~324/E1~50.0~20~2~7~
+Escaping on Beaveractor~324D1~324/D1~30.0~20~2~7~
+Escaping on Beaveractor~324D2~324/D2~30.0~20~2~7~
+The Great Julya Calendar~324C1~324/C1~20.0~10~1~7~
+Shave Beaver!~324B1~324/B1~30.0~10~1~7~
+The Great Julya Calendar~324C2~324/C2~20.0~10~1~7~
+Square and Rectangles~325A~325/A~500.0~30~3~1~
+Stadium and Games~325B~325/B~1000.0~30~3~11,3~
+Monsters and Diamonds~325C~325/C~2000.0~40~3~9,22~
+Reclamation~325D~325/D~2000.0~60~6~19~
+The Red Button~325E~325/E~2500.0~50~5~16,9,19,4~
+Banana~326A~326/A~500.0~20~2~7~
+Palindrome~326B~326/B~1000.0~20~2~7~
+More Reclamation~326C~326/C~1000.0~20~2~7~
+Rectangles and Square~326D~326/D~2000.0~40~4~7~
+Counting Skyscrapers~326E~326/E~2500.0~20~2~7~
+Flipping Game~327A~327/A~500.0~30~3~6,2,1~
+Hungry Sequence~327B~327/B~500.0~20~2~3~
+Magic Five~327C~327/C~1500.0~30~3~16,3~
+Block Tower~327D~327/D~2000.0~40~4~8,9,12~
+Axis Walking~327E~327/E~3000.0~70~3~20,16,8,2,32~
+IQ Test~328A~328/A~500.0~30~3~1~
+Sheldon and Ice Pieces~328B~328/B~500.0~20~2~4~
+Purification~329A~329/A~500.0~20~2~8,4~
+Biridian Forest~329B~329/B~1000.0~20~1~9,22~
+Graph Reconstruction~329C~329/C~1500.0~40~4~8~
+The Evil Temple and the Moving Rocks~329D~329/D~1500.0~40~4~8~
+Evil~329E~329/E~2500.0~50~5~3~
+Cakeminator~330A~330/A~500.0~20~2~6,1~
+Road Construction~330B~330/B~1000.0~10~1~8,12~
+Purification~330C~330/C~1500.0~50~2~26~
+Biridian Forest~330D~330/D~2000.0~40~3~9,1,22~
+Graph Reconstruction~330E~330/E~2500.0~40~4~7~
+The Great Julya Calendar~331C3~331/C3~60.0~20~2~2~
+Shave Beaver!~331B2~331/B2~70.0~10~1~5~
+Oh Sweet Beaverette~331A1~331/A1~30.0~20~2~6,1~
+Oh Sweet Beaverette~331A2~331/A2~70.0~10~1~5,10~
+Deja Vu~331E1~331/E1~50.0~20~2~8,12,1~
+Escaping on Beaveractor~331D1~331/D1~30.0~20~2~9,1~
+Deja Vu~331E2~331/E2~50.0~30~3~8,2~
+Escaping on Beaveractor~331D2~331/D2~30.0~10~1~12~
+The Great Julya Calendar~331C1~331/C1~20.0~10~1~2~
+Shave Beaver!~331B1~331/B1~30.0~10~1~1~
+The Great Julya Calendar~331C2~331/C2~20.0~20~2~2~
+Escaping on Beaveractor~331D3~331/D3~40.0~20~2~5,1,15~
+Down the Hatch!~332A~332/A~500.0~20~2~1~
+Maximum Absurdity~332B~332/B~1000.0~30~3~5,2,1~
+Students' Revenge~332C~332/C~3000.0~70~7~5,4,10~
+Theft of Blueprints~332D~332/D~3000.0~50~5~12,3~
+Binary Key~332E~332/E~3000.0~60~6~2,4,1~
+Secrets~333A~333/A~500.0~30~3~4~
+Chips~333B~333/B~1000.0~30~3~4~
+Lucky Tickets~333C~333/C~1500.0~40~4~6,8~
+Characteristics of Rectangles~333D~333/D~2000.0~40~4~11,20,6,1,10~
+Summer Earnings~333E~333/E~2500.0~40~4~11,20,6,17,10~
+Candy Bags~334A~334/A~500.0~20~2~1~
+Eight Point Sets~334B~334/B~1000.0~20~2~10~
+Secrets~334C~334/C~1500.0~30~3~3~
+Chips~334D~334/D~2000.0~40~4~4,1,18~
+Lucky Tickets~334E~334/E~2500.0~40~4~7~
+Banana~335A~335/A~500.0~20~2~11,8,4~
+Palindrome~335B~335/B~1000.0~30~3~8,2~
+More Reclamation~335C~335/C~1000.0~30~1~25~
+Rectangles and Square~335D~335/D~2000.0~50~5~6,2~
+Counting Skyscrapers~335E~335/E~2500.0~30~3~2,3,21~
+Buy One, Get One Free~335F~335/F~3000.0~60~6~2,4~
+Vasily the Bear and Triangle~336A~336/A~500.0~20~2~1,3~
+Vasily the Bear and Fly~336B~336/B~1000.0~30~3~3~
+Vasily the Bear and Sequence~336C~336/C~1500.0~40~4~6,4,1,14~
+Vasily the Bear and Beautiful Strings~336D~336/D~2000.0~40~4~16,3~
+Vasily the Bear and Painting Square~336E~336/E~2500.0~50~5~20,16,2,1~
+Puzzles~337A~337/A~500.0~20~1~2,29,4~
+Routine Problem~337B~337/B~1000.0~20~2~4,3,14~
+Quiz~337C~337/C~1500.0~30~3~11,4,3,26,14~
+Book of Evil~337D~337/D~2000.0~40~3~9,24,2,15~
+Divisor Tree~337E~337/E~2500.0~50~5~6,14,15~
+Quiz~338A~338/A~500.0~20~2~4,3,14~
+Book of Evil~338B~338/B~1000.0~20~2~9,2,15~
+Divisor Tree~338C~338/C~1500.0~30~3~6,2,14~
+GCD Table~338D~338/D~2000.0~40~2~35,3,14~
+Optimize!~338E~338/E~2500.0~50~5~5~
+Helpful Maths~339A~339/A~500.0~10~1~4,1,10,13~
+Xenia and Ringroad~339B~339/B~1000.0~20~2~1~
+Xenia and Weights~339C~339/C~1500.0~40~4~8,9,2,4~
+Xenia and Bit Operations~339D~339/D~2000.0~30~3~5,15~
+Three Swaps~339E~339/E~3000.0~60~6~8,9,4~
+The Wall~340A~340/A~500.0~20~2~3~
+Maximal Area Quadrilateral~340B~340/B~3000.0~40~4~6,17~
+Tourist Problem~340C~340/C~2000.0~40~4~16,1,3~
+Bubble Sort Graph~340D~340/D~2000.0~40~4~11,5,2~
+Iahub and Permutations~340E~340/E~3000.0~50~5~16,3~
+Tourist Problem~341A~341/A~500.0~20~2~3~
+Bubble Sort Graph~341B~341/B~500.0~10~1~11,5,2~
+Iahub and Permutations~341C~341/C~1000.0~20~2~16,2,3~
+Iahub and Xors~341D~341/D~2500.0~60~6~5~
+Candies Game~341E~341/E~3000.0~60~6~8,4~
+Xenia and Divisors~342A~342/A~500.0~30~3~4,1~
+Xenia and Spies~342B~342/B~1000.0~30~3~6,4,1~
+Cupboard and Balloons~342C~342/C~1500.0~20~2~17~
+Xenia and Dominoes~342D~342/D~2000.0~40~4~20,9,2~
+Xenia and Tree~342E~342/E~2500.0~50~4~5,24,15~
+Rational Resistance~343A~343/A~500.0~20~2~3,14~
+Alternating Current~343B~343/B~1000.0~20~2~5,4,1~
+Read Time~343C~343/C~1500.0~30~3~11,4,18~
+Water Tree~343D~343/D~2000.0~40~4~5,9,15~
+Pumping Stations~343E~343/E~2500.0~50~3~6,9,24,27,4~
+Magnets~344A~344/A~500.0~20~2~1~
+Simple Molecules~344B~344/B~1000.0~20~2~6,3~
+Rational Resistance~344C~344/C~1500.0~30~3~3~
+Alternating Current~344D~344/D~2000.0~40~4~5,4,1~
+Read Time~344E~344/E~2500.0~50~5~11,18~
+Expecting Trouble~345A~345/A~-1.0~40~3~21~
+Triskaidekaphobia~345B~345/B~-1.0~20~2~7~
+Counting Fridays~345C~345/C~-1.0~30~3~7~
+Chain Letter~345D~345/D~-1.0~40~4~9,12~
+Black Cat Rush~345E~345/E~-1.0~40~4~7~
+Superstitions Inspection~345F~345/F~-1.0~40~4~7~
+Suffix Subgroup~345G~345/G~-1.0~80~8~13~
+Alice and Bob~346A~346/A~500.0~20~1~25,3,14~
+Lucky Common Subsequence~346B~346/B~1000.0~30~3~2,13~
+Number Transformation II~346C~346/C~1500.0~30~3~4,3~
+Robot Control~346D~346/D~2000.0~40~3~22~
+Doodle Jump~346E~346/E~2500.0~50~5~3~
+Difference Row~347A~347/A~500.0~10~1~1,10~
+Fixed Points~347B~347/B~1000.0~20~2~1,3~
+Alice and Bob~347C~347/C~1500.0~30~2~25,3,14~
+Lucky Common Subsequence~347D~347/D~2000.0~50~5~2,13~
+Number Transformation II~347E~347/E~2500.0~60~6~2,4,14~
+Mafia~348A~348/A~500.0~20~2~11,3,10~
+Apple Tree~348B~348/B~1000.0~30~3~9,14,15~
+Subset Sums~348C~348/C~1500.0~40~4~6,5~
+Turtles~348D~348/D~2000.0~50~4~2,26~
+Pilgrims~348E~348/E~2500.0~50~5~9,2,15~
+Cinema Line~349A~349/A~500.0~30~3~4,1~
+Color the Fence~349B~349/B~1000.0~30~3~5,2,4~
+Mafia~349C~349/C~1500.0~40~4~1~
+Apple Tree~349D~349/D~2000.0~40~4~9,14,15~
+Subset Sums~349E~349/E~2500.0~40~4~7~
+TL~350A~350/A~500.0~20~2~6,4,1~
+Resort~350B~350/B~1000.0~30~3~6~
+Bombs~350C~350/C~1000.0~30~3~4,1,10~
+Looking for Owls~350D~350/D~3000.0~50~5~11,17,23,10~
+Wrong Floyd~350E~350/E~3000.0~60~6~6,8,9,12~
+Jeff and Rounding~351A~351/A~1000.0~30~3~2,4,1,3~
+Jeff and Furik~351B~351/B~1000.0~10~1~16,2,21~
+Jeff and Brackets~351C~351/C~1500.0~40~3~2,26~
+Jeff and Removing Periods~351D~351/D~2000.0~40~4~5~
+Jeff and Permutation~351E~351/E~2000.0~40~4~4~
+Jeff and Digits~352A~352/A~500.0~20~2~6,1,3~
+Jeff and Periods~352B~352/B~1000.0~20~2~1,10~
+Jeff and Rounding~352C~352/C~1500.0~40~4~2,4,1~
+Jeff and Furik~352D~352/D~2000.0~30~3~3~
+Jeff and Brackets~352E~352/E~2500.0~40~4~7~
+Domino~353A~353/A~500.0~20~2~1,3~
+Two Heaps~353B~353/B~1500.0~30~3~16,8,4,1,3,10~
+Find Maximum~353C~353/C~1000.0~20~2~1,3,14~
+Queue~353D~353/D~2500.0~60~6~8~
+Antichain~353E~353/E~3000.0~60~4~2,29,4~
+Vasya and Robot~354A~354/A~500.0~20~2~6,4,3~
+Game with Strings~354B~354/B~1000.0~30~2~20,2,25~
+Vasya and Beautiful Arrays~354C~354/C~1500.0~40~4~6,2,14~
+Transferring Pyramid~354D~354/D~2000.0~40~4~2~
+Lucky Number Representation~354E~354/E~2500.0~50~5~8,9,2~
+Vasya and Digital Root~355A~355/A~500.0~20~2~8,1~
+Vasya and Public Transport~355B~355/B~1000.0~10~1~4,1~
+Vasya and Robot~355C~355/C~1500.0~30~3~6,2~
+Game with Strings~355D~355/D~2000.0~40~4~7~
+Vasya and Beautiful Arrays~355E~355/E~2500.0~60~6~11,6,5~
+Knight Tournament~356A~356/A~500.0~20~2~5,19~
+Xenia and Hamming~356B~356/B~1000.0~20~2~1,3~
+Compartments~356C~356/C~1500.0~40~4~16,8,4,1~
+Bags and Coins~356D~356/D~2000.0~50~5~20,8,2,4~
+Xenia and String Problem~356E~356/E~2500.0~50~5~2,23,1,28,13~
+Group of Students~357A~357/A~500.0~20~2~6,4,1~
+Flag Day~357B~357/B~1000.0~20~2~8,1~
+Knight Tournament~357C~357/C~1500.0~30~3~5~
+Xenia and Hamming~357D~357/D~2000.0~60~6~14~
+Compartments~357E~357/E~2500.0~40~4~7~
+Dima and Continuous Line~358A~358/A~500.0~30~3~6,1~
+Dima and Text Messages~358B~358/B~1000.0~30~3~6,13~
+Dima and Containers~358C~358/C~1500.0~40~4~8,4,1~
+Dima and Hares~358D~358/D~2000.0~40~4~2,4~
+Dima and Kicks~358E~358/E~3000.0~60~6~6,19,12,1~
+Table~359A~359/A~500.0~20~2~4,1~
+Permutation~359B~359/B~1000.0~20~2~8,2,3~
+Prime Number~359C~359/C~1500.0~30~3~3~
+Pair of Numbers~359D~359/D~2500.0~40~4~11,6,5,3,18~
+Neatness~359E~359/E~2500.0~60~6~9~
+Levko and Array Recovery~360A~360/A~500.0~20~2~4,1~
+Levko and Array~360B~360/B~1000.0~20~2~11,2~
+Levko and Strings~360C~360/C~1500.0~30~3~16,2~
+Levko and Sets~360D~360/D~1500.0~40~4~14~
+Levko and Game~360E~360/E~2000.0~40~3~12,4,22~
+Levko and Table~361A~361/A~500.0~10~1~8,1~
+Levko and Permutation~361B~361/B~1000.0~20~2~8,3,14~
+Levko and Array Recovery~361C~361/C~1500.0~40~4~6,8,4~
+Levko and Array~361D~361/D~2000.0~50~5~11,2~
+Levko and Strings~361E~361/E~2500.0~40~4~7~
+Two Semiknights Meet~362A~362/A~1000.0~30~3~4,3~
+Petya and Staircases~362B~362/B~500.0~20~2~1,10~
+Insertion Sort~362C~362/C~2500.0~40~4~5,2,1,3~
+Fools and Foolproof Roads~362D~362/D~3000.0~60~6~5,9,19,12,4~
+Petya and Pipes~362E~362/E~3000.0~50~4~27,12,22~
+Soroban~363A~363/A~500.0~20~2~1~
+Fence~363B~363/B~1000.0~30~3~6,2~
+Fixing Typos~363C~363/C~1500.0~30~3~4,1~
+Renting Bikes~363D~363/D~2000.0~40~4~11,4~
+Two Circles~363E~363/E~2500.0~60~6~6,5,1~
+Matrix~364A~364/A~500.0~30~3~16,5,1~
+Free Market~364B~364/B~1000.0~20~2~2,4~
+Beautiful Set~364C~364/C~1500.0~40~4~6,14~
+Ghd~364D~364/D~2000.0~40~4~6,3,21~
+Empty Rectangles~364E~364/E~2500.0~60~4~24,18~
+Good Number~365A~365/A~500.0~30~3~1~
+The Fibonacci Segment~365B~365/B~1000.0~30~3~1~
+Matrix~365C~365/C~1500.0~30~3~6,16,3,26~
+Free Market~365D~365/D~2000.0~40~4~2,4~
+Beautiful Set~365E~365/E~2500.0~60~6~6,14~
+Dima and Guards~366A~366/A~500.0~20~2~1~
+Dima and To-do List~366B~366/B~1000.0~20~2~6,1~
+Dima and Salad~366C~366/C~1500.0~40~4~2~
+Dima and Trap Graph~366D~366/D~2000.0~40~3~11,5,9,19,22,18~
+Dima and Magic Guitar~366E~366/E~2500.0~40~4~6,1,3~
+Sereja and Algorithm ~367A~367/A~500.0~20~2~5,1~
+Sereja ans Anagrams~367B~367/B~1000.0~20~2~11,5~
+Sereja and the Arrangement of Numbers~367C~367/C~1500.0~30~3~12,4,10~
+Sereja and Sets~367D~367/D~2000.0~40~4~20,9~
+Sereja and Intervals~367E~367/E~2000.0~40~4~16,2~
+Sereja and Coat Rack~368A~368/A~500.0~20~2~1~
+Sereja and Suffixes~368B~368/B~1000.0~10~1~5,2~
+Sereja and Algorithm ~368C~368/C~1500.0~30~3~6,1~
+Sereja ans Anagrams~368D~368/D~2000.0~50~5~5,18~
+Sereja and the Arrangement of Numbers~368E~368/E~2500.0~50~5~16,12,1~
+Valera and Plates~369A~369/A~500.0~20~2~1~
+Valera and Contest~369B~369/B~1000.0~20~2~8,1,3~
+Valera and Elections~369C~369/C~1500.0~30~3~9,12,15~
+Valera and Fools~369D~369/D~2000.0~40~3~9,2,22~
+Valera and Queries~369E~369/E~2500.0~50~5~11,5~
+Rook, Bishop and King~370A~370/A~500.0~20~2~3~
+Berland Bingo~370B~370/B~500.0~20~2~1~
+Mittens~370C~370/C~1500.0~40~4~8,4,10~
+Broken Monitor~370D~370/D~3000.0~60~6~6,8,1~
+Summer Reading~370E~370/E~3000.0~60~6~2,4~
+K-Periodic Array~371A~371/A~500.0~10~1~1,3~
+Fox Dividing Cheese~371B~371/B~1000.0~20~2~3,14~
+Hamburgers~371C~371/C~1500.0~30~3~11,6~
+Vessels~371D~371/D~2000.0~40~4~5,19,1,15~
+Subway Innovation~371E~371/E~2500.0~50~5~3,18~
+Counting Kangaroos is Fun~372A~372/A~500.0~30~3~11,4,10,18~
+Counting Rectangles is Fun~372B~372/B~1000.0~20~1~6,24,2~
+Watching Fireworks is Fun~372C~372/C~1500.0~30~3~5,2,3~
+Choosing Subtree is Fun~372D~372/D~2000.0~30~3~11,5,9,15,18~
+Drawing Circles is Fun~372E~372/E~2500.0~40~4~16,17~
+Collecting Beats is Fun~373A~373/A~500.0~20~2~1~
+Making Sequences is Fun~373B~373/B~1000.0~30~3~11,1,3~
+Counting Kangaroos is Fun~373C~373/C~1500.0~40~4~4,10,18~
+Counting Rectangles is Fun~373D~373/D~2000.0~30~3~7~
+Watching Fireworks is Fun~373E~373/E~2500.0~60~6~2~
+Inna and Pink Pony~374A~374/A~500.0~30~3~4,1~
+Inna and Nine~374B~374/B~1000.0~20~2~16,4~
+Inna and Dima~374C~374/C~1500.0~40~4~9,2,12,1~
+Inna and Sequence ~374D~374/D~2000.0~40~4~11,5,2,15~
+Inna and Babies~374E~374/E~2500.0~40~4~11,5,19,17,1~
+Divisible by Seven~375A~375/A~500.0~20~2~3,14~
+Maximum Submatrix 2~375B~375/B~1000.0~20~2~5,2,1,10~
+Circling Round Treasures~375C~375/C~1500.0~20~1~20,22~
+Tree and Queries~375D~375/D~2000.0~40~4~5,9,15~
+Red and Black Tree~375E~375/E~2500.0~50~5~2,1,3~
+Lever~376A~376/A~500.0~20~2~1,3~
+I.O.U.~376B~376/B~1000.0~20~2~1~
+Divisible by Seven~376C~376/C~1500.0~30~3~3,14~
+Maximum Submatrix 2~376D~376/D~2000.0~40~4~2,1,10~
+Circling Round Treasures~376E~376/E~2500.0~40~3~20,22~
+Maze~377A~377/A~500.0~30~3~9~
+Preparing for the Contest~377B~377/B~1000.0~20~2~11,5,4,10~
+Captains Mode~377C~377/C~1000.0~30~1~20,2,25~
+Developing Game~377D~377/D~2000.0~40~4~5~
+Cookie Clicker~377E~377/E~2500.0~40~4~2,17~
+Playing with Dice~378A~378/A~500.0~10~1~6~
+Semifinals~378B~378/B~1000.0~20~2~1,10~
+Maze~378C~378/C~1500.0~40~4~9~
+Preparing for the Contest~378D~378/D~2000.0~40~4~11,5,4,10~
+Captains Mode~378E~378/E~2000.0~50~5~20,6,2,4~
+New Year Candles~379A~379/A~500.0~20~2~1~
+New Year Present~379B~379/B~1000.0~20~2~8,1~
+New Year Ratings Change~379C~379/C~1500.0~30~3~4,10~
+New Year Letter~379D~379/D~2000.0~50~5~20,6,2~
+New Year Tree Decorations~379E~379/E~2500.0~40~2~17,36,10~
+New Year Tree~379F~379/F~3000.0~60~5~5,24,15~
+New Year Cactus~379G~379/G~3500.0~70~7~2~
+Sereja and Prefixes~380A~380/A~500.0~20~2~11,6~
+Sereja and Tree~380B~380/B~1000.0~20~2~12,1~
+Sereja and Brackets~380C~380/C~1500.0~20~1~5,36~
+Sereja and Cinema~380D~380/D~2000.0~40~4~16,3~
+Sereja and Dividing~380E~380/E~2500.0~50~5~5~
+Sereja and Dima~381A~381/A~500.0~20~2~4,1,18~
+Sereja and Stairs~381B~381/B~1000.0~20~2~4,1,10~
+Sereja and Prefixes~381C~381/C~1500.0~40~4~11,1,18~
+Sereja and Tree~381D~381/D~2000.0~50~5~6~
+Sereja and Brackets~381E~381/E~2500.0~50~5~5~
+Ksenia and Pan Scales~382A~382/A~500.0~20~2~4,1~
+Number Busters~382B~382/B~2500.0~50~5~11,3~
+Arithmetic Progression~382C~382/C~1500.0~40~4~1,10~
+Ksenia and Pawns~382D~382/D~3000.0~60~6~9,12,1,15~
+Ksenia and Combinatorics~382E~382/E~3000.0~60~6~16,2~
+Milking cows~383A~383/A~500.0~10~1~5,4~
+Volcanoes~383B~383/B~1500.0~40~4~11,1,10,18~
+Propagating tree~383C~383/C~1500.0~30~3~5,9,15~
+Antimatter~383D~383/D~2000.0~40~4~2~
+Vowels~383E~383/E~2500.0~50~4~16,24,2~
+Coder~384A~384/A~500.0~20~2~1~
+Multitasking~384B~384/B~1000.0~20~2~4,1,10,18~
+Milking cows~384C~384/C~1500.0~30~3~4~
+Volcanoes~384D~384/D~2500.0~60~6~1~
+Propagating tree~384E~384/E~2500.0~40~4~5,9,12,15~
+Bear and Raspberry~385A~385/A~500.0~20~2~6,4,1~
+Bear and Strings~385B~385/B~1000.0~20~2~6,4,1,3,13~
+Bear and Prime Numbers~385C~385/C~1500.0~30~3~11,6,5,2,1,3,14~
+Bear and Floodlight~385D~385/D~2000.0~30~3~20,2,17~
+Bear in the Field~385E~385/E~2500.0~40~4~3,26~
+Second-Price Auction~386A~386/A~500.0~10~1~1~
+Fly, freebies, fly!~386B~386/B~1000.0~20~2~11,6,1~
+Diverse Substrings~386C~386/C~1500.0~40~4~2,18~
+Game with Points~386D~386/D~2000.0~40~3~2,12,1,22~
+George and Sleep~387A~387/A~500.0~20~2~1~
+George and Round~387B~387/B~1000.0~30~3~6,4,18~
+George and Number~387C~387/C~1500.0~30~3~4,1~
+George and Interesting Graph~387D~387/D~2000.0~80~3~29~
+George and Cards~387E~387/E~2500.0~50~5~11,5~
+Fox and Box Accumulation~388A~388/A~500.0~20~2~4,10~
+Fox and Minimal path~388B~388/B~1000.0~30~3~20,8,12,1,3~
+Fox and Card Game~388C~388/C~1500.0~20~1~25,4,10~
+Fox and Perfect Sets~388D~388/D~2000.0~40~4~3~
+Fox and Meteor Shower~388E~388/E~2500.0~40~4~17~
+Fox and Number Game~389A~389/A~500.0~20~2~4,3~
+Fox and Cross~389B~389/B~1000.0~20~2~4,1~
+Fox and Box Accumulation~389C~389/C~1500.0~30~3~11,2,4~
+Fox and Minimal path~389D~389/D~2000.0~40~3~8,12,1,22~
+Fox and Card Game~389E~389/E~2500.0~50~5~4,1~
+Inna and Alarm Clock~390A~390/A~500.0~20~2~1~
+Inna, Dima and Song~390B~390/B~1000.0~30~3~1~
+Inna and Candy Boxes~390C~390/C~1500.0~20~2~5~
+Inna and Sweet Matrix~390D~390/D~2000.0~40~4~8~
+Inna and Large Sweet Matrix~390E~390/E~2500.0~40~4~7~
+The Tournament~391C3~391/C3~8.0~10~1~7~
+Genetic Engineering~391A~391/A~3.0~10~1~1,18~
+Word Folding~391B~391/B~5.0~10~1~6~
+Stock Trading~391F1~391/F1~8.0~20~2~2~
+Three Trees~391E1~391/E1~11.0~10~1~7~
+Stock Trading~391F2~391/F2~15.0~20~2~4~
+Supercollider~391D1~391/D1~3.0~10~1~6~
+Three Trees~391E2~391/E2~13.0~20~2~7~
+Stock Trading~391F3~391/F3~10.0~20~2~7~
+The Tournament~391C1~391/C1~4.0~10~1~6~
+Supercollider~391D2~391/D2~16.0~10~1~5~
+The Tournament~391C2~391/C2~4.0~10~1~4~
+Blocked Points~392A~392/A~500.0~20~2~3~
+Tower of Hanoi~392B~392/B~1000.0~20~2~2~
+Yet Another Number Sequence~392C~392/C~1500.0~20~2~16,3,26~
+Three Arrays~392D~392/D~2000.0~50~5~5~
+Deleting Substrings~392E~392/E~2500.0~40~4~7~
+Nineteen~393A~393/A~500.0~20~2~7~
+Three matrices~393B~393/B~1000.0~10~1~7~
+Blocked Points~393C~393/C~1500.0~20~2~17~
+Tower of Hanoi~393D~393/D~2000.0~30~3~2~
+Yet Another Number Sequence~393E~393/E~2500.0~40~4~7~
+Counting Sticks~394A~394/A~500.0~20~2~1~
+Very Beautiful Number~394B~394/B~1000.0~20~2~7~
+Dominoes~394C~394/C~1500.0~30~3~8,4~
+Physical Education and Buns~394D~394/D~2000.0~30~3~6,1,3~
+Lightbulb for Minister~394E~394/E~2500.0~40~4~17~
+On Number of Decompositions into Multipliers~396A~396/A~500.0~20~2~16,14~
+On Sum of Fractions~396B~396/B~1000.0~20~2~3,14~
+On Changing Tree~396C~396/C~1500.0~30~3~5,15~
+On Sum of Number of Inversions in Permutations~396D~396/D~2000.0~40~4~16~
+On Iteration of One Well-Known Function~396E~396/E~2500.0~40~4~7~
+On Segment's Own Points~397A~397/A~500.0~20~2~7~
+On Corruption and Numbers~397B~397/B~1000.0~20~2~1,3~
+On Number of Decompositions into Multipliers~397C~397/C~1500.0~40~4~16,14~
+On Sum of Fractions~397D~397/D~2000.0~30~3~3~
+On Changing Tree~397E~397/E~2500.0~50~5~5,15~
+Cards~398A~398/A~500.0~30~3~1~
+Painting The Wall~398B~398/B~1000.0~20~1~2,21~
+Tree and Array~398C~398/C~1500.0~30~3~8~
+Instant Messanger~398D~398/D~2000.0~50~5~5~
+Sorting Permutations~398E~398/E~2500.0~30~3~7~
+Pages~399A~399/A~500.0~20~2~1~
+Red and Blue Balls~399B~399/B~1000.0~20~2~7~
+Cards~399C~399/C~1500.0~50~5~14~
+Painting The Wall~399D~399/D~2000.0~30~3~7~
+Tree and Array~399E~399/E~2500.0~30~3~7~
+Inna and Choose Options~400A~400/A~500.0~20~2~2,1~
+Inna and New Matrix of Candies~400B~400/B~1000.0~20~1~6,1,36~
+Inna and Huge Candy Matrix~400C~400/C~1500.0~30~3~1,3~
+Dima and Bacteria~400D~400/D~2000.0~40~3~19,12,22~
+Inna and Binary Logic~400E~400/E~2500.0~50~5~11,20,5~
+Vanya and Cards~401A~401/A~500.0~20~2~1,3~
+Sereja and Contests~401B~401/B~1000.0~20~2~4,1,3~
+Team~401C~401/C~1500.0~30~3~8,4,1~
+Roman and Numbers~401D~401/D~2000.0~40~4~20,6,16,2,14~
+Olympic Games~401E~401/E~2500.0~50~5~3~
+Nuts~402A~402/A~500.0~20~2~4,3~
+Trees in a Row~402B~402/B~1000.0~30~3~6~
+Searching for Graph~402C~402/C~1500.0~30~3~6,8~
+Upgrading Array~402D~402/D~2000.0~40~4~2,4,3~
+Strictly Positive Matrix~402E~402/E~2500.0~60~6~12~
+Searching for Graph~403A~403/A~500.0~10~1~8,12~
+Upgrading Array~403B~403/B~1000.0~30~3~2,4,14~
+Strictly Positive Matrix~403C~403/C~1500.0~30~3~12~
+Beautiful Pairs of Numbers~403D~403/D~1500.0~30~3~16,2~
+Two Rooted Trees~403E~403/E~2000.0~40~4~5,1~
+Valera and X~404A~404/A~500.0~20~2~1~
+Marathon~404B~404/B~1000.0~30~3~1,3~
+Restore Graph~404C~404/C~1500.0~40~4~9,12,10~
+Minesweeper 1D~404D~404/D~2000.0~40~4~2,1~
+Maze 1D~404E~404/E~2500.0~50~5~11,4,1~
+Gravity Flip~405A~405/A~500.0~10~1~4,1,10~
+Domino Effect~405B~405/B~1000.0~20~2~7~
+Unusual Product~405C~405/C~1500.0~30~3~1,3~
+Toy Sum~405D~405/D~2000.0~40~4~4,1,3~
+Graph Cutting~405E~405/E~3000.0~60~6~9~
+Unusual Product~406A~406/A~500.0~20~2~1,3~
+Toy Sum~406B~406/B~1000.0~20~2~8,4~
+Graph Cutting~406C~406/C~2000.0~40~4~8,9,12~
+Hill Climbing~406D~406/D~2000.0~30~3~9,17,15~
+Hamming Triples~406E~406/E~2500.0~50~5~1,3~
+Triangle~407A~407/A~500.0~20~2~6,1,3~
+Long Path~407B~407/B~1000.0~20~2~2,1~
+Curious Array~407C~407/C~2000.0~40~4~6,1,3~
+Largest Submatrix 3~407D~407/D~2000.0~50~4~2,23~
+k-d-sequence~407E~407/E~2500.0~60~6~5~
+Line to Cashier~408A~408/A~500.0~10~1~1~
+Garland~408B~408/B~1000.0~20~2~1~
+Triangle~408C~408/C~1500.0~30~3~17,3~
+Long Path~408D~408/D~2000.0~40~4~2~
+Curious Array~408E~408/E~3000.0~50~5~7~
+The Great Game~409A~409/A~-1.0~20~2~7~
+Mysterious Language~409B~409/B~-1.0~30~3~7~
+Magnum Opus~409C~409/C~-1.0~30~3~7~
+Big Data~409D~409/D~-1.0~40~4~7~
+Dome~409E~409/E~-1.0~40~4~7~
+000001~409F~409/F~-1.0~50~5~7~
+On a plane~409G~409/G~-1.0~40~4~7~
+A + B Strikes Back~409H~409/H~-1.0~80~8~6,8,19,1~
+Feed the Golorp~409I~409/I~-1.0~60~6~7~
+Password Check~411A~411/A~-1.0~20~2~1~
+Multi-core Processor~411B~411/B~-1.0~20~2~1~
+Kicker~411C~411/C~-1.0~40~4~1~
+Poster~412A~412/A~500.0~20~2~4,1~
+Network Configuration~412B~412/B~1000.0~10~1~4,10~
+Pattern~412C~412/C~1500.0~30~3~1,13~
+Giving Awards~412D~412/D~2000.0~40~4~9~
+E-mail Addresses~412E~412/E~2500.0~50~5~1~
+Data Recovery~413A~413/A~500.0~20~2~1~
+Spyke Chatting~413B~413/B~1000.0~20~2~1~
+Jeopardy!~413C~413/C~1500.0~30~3~4,3~
+2048~413D~413/D~2000.0~40~4~20,2~
+Maze 2D~413E~413/E~2500.0~60~4~5,24~
+Mashmokh and Numbers~414A~414/A~500.0~30~3~8,14~
+Mashmokh and ACM~414B~414/B~1000.0~10~1~16,2~
+Mashmokh and Reverse Operation~414C~414/C~1500.0~40~3~16,24~
+Mashmokh and Water Tanks~414D~414/D~1500.0~30~3~11,5,4,18~
+Mashmokh's Designed Problem~414E~414/E~2500.0~60~6~5~
+Mashmokh and Lights~415A~415/A~500.0~10~1~1~
+Mashmokh and Tokens~415B~415/B~1000.0~30~3~11,4,3~
+Mashmokh and Numbers~415C~415/C~1500.0~40~4~8,4,14~
+Mashmokh and ACM~415D~415/D~2000.0~30~3~16,2,14~
+Mashmokh and Reverse Operation~415E~415/E~2500.0~50~4~24,10~
+Guess a number!~416A~416/A~500.0~30~3~4,1,18~
+Art Union~416B~416/B~1000.0~20~2~6,2,1~
+Booking System~416C~416/C~1500.0~30~3~11,2,4,1~
+Population Size~416D~416/D~2000.0~50~5~4,1~
+President's Path~416E~416/E~2500.0~50~4~2,12,22~
+Elimination~417A~417/A~500.0~20~2~2,1,3~
+Crash~417B~417/B~1000.0~30~3~1~
+Football~417C~417/C~1500.0~30~3~8,12,1~
+Cunning Gena~417D~417/D~2000.0~50~5~20,2,4,10~
+Square Table~417E~417/E~2500.0~40~4~8,3,21~
+Football~418A~418/A~500.0~20~2~8,12,1~
+Cunning Gena~418B~418/B~1000.0~30~3~20,2,10~
+Square Table~418C~418/C~1500.0~20~2~8,2,3~
+Big Problems for Organizers~418D~418/D~2500.0~50~5~5,12,15~
+Tricky Password~418E~418/E~2500.0~60~6~5~
+Start Up~419A~419/A~500.0~10~1~7~
+Online Meeting~419B~419/B~1500.0~30~3~7~
+Bug in Code~419C~419/C~1500.0~30~3~7~
+Cup Trick~419D~419/D~1500.0~30~3~7~
+Playing the ball~419E~419/E~2000.0~40~4~7~
+Start Up~420A~420/A~500.0~20~2~1~
+Online Meeting~420B~420/B~1500.0~30~3~1~
+Bug in Code~420C~420/C~1500.0~30~3~5,12,1,18~
+Cup Trick~420D~420/D~1500.0~40~4~5~
+Playing the ball~420E~420/E~2000.0~30~3~17~
+Pasha and Hamsters~421A~421/A~500.0~10~1~8,1~
+Start Up~421B~421/B~1000.0~20~2~1~
+Online Meeting~421C~421/C~2000.0~50~5~1~
+Bug in Code~421D~421/D~2000.0~50~5~11,5,10~
+Cup Trick~421E~421/E~2000.0~50~5~5~
+Squats~424A~424/A~500.0~20~2~1~
+Megacity~424B~424/B~1000.0~20~2~11,4,1,10~
+Magic Formulas~424C~424/C~1500.0~30~3~3~
+Biathlon Track~424D~424/D~2500.0~60~6~11,6,8,5,2~
+Colored Jenga~424E~424/E~3000.0~60~6~9,2,21~
+Sereja and Swaps~425A~425/A~500.0~20~2~6,10~
+Sereja and Table ~425B~425/B~1000.0~30~3~20,4~
+Sereja and Two Sequences~425C~425/C~1500.0~30~3~5,2~
+Sereja and Squares~425D~425/D~2000.0~50~4~11,5,23~
+Sereja and Sets~425E~425/E~2000.0~40~4~2~
+Sereja and Mugs~426A~426/A~500.0~20~2~1~
+Sereja and Mirroring~426B~426/B~1000.0~20~2~1~
+Sereja and Swaps~426C~426/C~1500.0~30~3~6,10,18~
+Sereja and Table ~426D~426/D~2000.0~30~3~7~
+Sereja and Two Sequences~426E~426/E~2500.0~40~4~7~
+Police Recruits~427A~427/A~500.0~10~1~1~
+Prison Transfer~427B~427/B~1000.0~10~1~5,1~
+Checkposts~427C~427/C~1500.0~30~3~9,12,18~
+Match & Catch~427D~427/D~2000.0~50~4~2,28,13~
+Police Patrol~427E~427/E~2500.0~40~3~4,1,3,31~
+Xor-tree~429A~429/A~500.0~10~1~9,15~
+Working out~429B~429/B~1000.0~30~3~2~
+Guess the Tree~429C~429/C~1500.0~30~3~20,8,2,4,15~
+Tricky Function~429D~429/D~2000.0~30~3~5,24,17~
+Points and Segments~429E~429/E~2000.0~40~4~12~
+Points and Segments (easy)~430A~430/A~500.0~20~2~8,10~
+Balls Game~430B~430/B~1000.0~20~2~6,18~
+Xor-tree~430C~430/C~1500.0~30~3~6,5,9,15~
+Working out~430D~430/D~2000.0~40~4~6,2~
+Guess the Tree~430E~430/E~2500.0~60~6~8,5,9~
+Black Square~431A~431/A~500.0~10~1~1~
+Shower Line~431B~431/B~1500.0~20~2~6,1~
+k-Tree~431C~431/C~1500.0~20~2~2,1,15~
+Random Task~431D~431/D~2000.0~40~4~11,20,16,2,3~
+Chemistry Experiment~431E~431/E~2500.0~60~3~11,5,31~
+Choosing Teams~432A~432/A~500.0~10~1~4,1,10~
+Football Kit~432B~432/B~1000.0~20~2~6,4,1~
+Prime Swaps~432C~432/C~1500.0~30~3~4,10~
+Prefixes and Suffixes~432D~432/D~2000.0~50~3~2,28,13,18~
+Square Tiling~432E~432/E~2500.0~60~6~8,4~
+Kitahara Haruki's Gift~433A~433/A~500.0~30~3~6,1~
+Kuriyama Mirai's Stones~433B~433/B~1500.0~30~3~2,1,10~
+Ryouko's Memory Note~433C~433/C~1500.0~30~3~1,3,10~
+Nanami's Digital Board~433D~433/D~2000.0~40~4~19,1~
+Tachibana Kanade's Tofu~433E~433/E~2500.0~60~6~2~
+Ryouko's Memory Note~434A~434/A~500.0~20~2~3,10~
+Nanami's Digital Board~434B~434/B~1000.0~20~1~24,2,19,1,18~
+Tachibana Kanade's Tofu~434C~434/C~1500.0~40~4~2~
+Nanami's Power Plant~434D~434/D~2000.0~70~3~27~
+Furukawa Nagisa's Tree~434E~434/E~3000.0~50~4~11,24,10,15~
+Queue on Bus Stop~435A~435/A~500.0~20~2~1~
+Pasha Maximizes~435B~435/B~1000.0~30~3~4~
+Cardiogram~435C~435/C~1500.0~30~3~1~
+Special Grid~435D~435/D~2000.0~40~4~6,2,4~
+Special Graph~435E~435/E~2500.0~40~4~7~
+Feed with Candy~436A~436/A~1000.0~30~3~4~
+Om Nom and Spiders~436B~436/B~1000.0~20~2~1,3~
+Dungeons and Candies~436C~436/C~1500.0~30~3~19,12,4,15~
+Pudding Monsters~436D~436/D~2500.0~60~6~2~
+Cardboard Box~436E~436/E~2500.0~60~6~5,4~
+Banners~436F~436/F~3000.0~60~6~6,5,2~
+The Child and Homework~437A~437/A~500.0~30~3~1~
+The Child and Set~437B~437/B~1500.0~30~3~20,4,1,10~
+The Child and Toy~437C~437/C~1500.0~20~2~12,4,10~
+The Child and Zoo~437D~437/D~2000.0~40~4~19,10~
+The Child and Polygon~437E~437/E~2500.0~40~4~7~
+The Child and Toy~438A~438/A~500.0~20~2~4~
+The Child and Zoo~438B~438/B~1000.0~20~2~2,19,10~
+The Child and Polygon~438C~438/C~1500.0~20~2~2,17~
+The Child and Sequence~438D~438/D~2000.0~40~4~5~
+The Child and Binary Tree~438E~438/E~3000.0~60~1~16,24,34,14~
+Devu, the Singer and Churu, the Joker~439A~439/A~500.0~20~2~4,1~
+Devu, the Dumb Guy~439B~439/B~1000.0~20~2~1,10~
+Devu and Partitioning of the Array~439C~439/C~1500.0~40~4~6,8,1,14~
+Devu and his Brother~439D~439/D~2000.0~50~3~11,10,31,18~
+Devu and Birthday Celebration~439E~439/E~2500.0~50~5~16,2,3~
+Forgotten Episode~440A~440/A~500.0~20~2~1~
+Balancer~440B~440/B~1000.0~30~3~1~
+One-Based Arithmetic~440C~440/C~1500.0~40~3~9,24~
+Berland Federalization~440D~440/D~2000.0~40~4~2,15~
+Valera and Antique Items~441A~441/A~500.0~20~2~1~
+Valera and Fruits~441B~441/B~1000.0~30~3~4,1~
+Valera and Tubes ~441C~441/C~1500.0~30~3~8,9,1~
+Valera and Swaps~441D~441/D~2000.0~50~4~8,19,12,1,28~
+Valera and Number~441E~441/E~2500.0~60~6~20,2~
+Borya and Hanabi~442A~442/A~500.0~20~2~20,6,1~
+Andrey and Problem~442B~442/B~1500.0~30~3~4,3,21~
+Artem and Array ~442C~442/C~1500.0~30~3~5,4~
+Adam and Tree~442D~442/D~2000.0~30~3~5,15~
+Gena and Second Distance~442E~442/E~2500.0~40~4~17~
+Anton and Letters~443A~443/A~500.0~20~2~8,1~
+Kolya and Tandem Repeat~443B~443/B~1000.0~30~3~6~
+Borya and Hanabi~443C~443/C~1500.0~30~3~20,6,8,1~
+Andrey and Problem~443D~443/D~2500.0~40~4~2,4,3,21,10~
+Artem and Array ~443E~443/E~2500.0~40~4~7~
+DZY Loves Physics~444A~444/A~500.0~10~1~4,3~
+DZY Loves FFT~444B~444/B~1000.0~40~3~21~
+DZY Loves Colors~444C~444/C~2000.0~50~5~5~
+DZY Loves Strings~444D~444/D~2000.0~50~4~11,23,13,18~
+DZY Loves Planting~444E~444/E~2500.0~50~5~11,19,15~
+DZY Loves Chessboard~445A~445/A~500.0~20~2~9,1~
+DZY Loves Chemistry~445B~445/B~1000.0~30~3~9,19,4~
+DZY Loves Physics~445C~445/C~1500.0~20~2~12,4~
+DZY Loves FFT~445D~445/D~2000.0~60~5~21~
+DZY Loves Colors~445E~445/E~3000.0~70~7~5~
+DZY Loves Sequences~446A~446/A~500.0~30~3~2,1,18~
+DZY Loves Modification~446B~446/B~1500.0~40~4~6,4~
+DZY Loves Fibonacci Numbers~446C~446/C~1500.0~40~4~5,14~
+DZY Loves Games~446D~446/D~2000.0~40~4~3,26,21~
+DZY Loves Bridges~446E~446/E~2500.0~40~4~3,26~
+DZY Loves Hash~447A~447/A~500.0~20~2~1~
+DZY Loves Strings~447B~447/B~1000.0~10~1~4,1~
+DZY Loves Sequences~447C~447/C~1500.0~40~4~2~
+DZY Loves Modification~447D~447/D~2500.0~60~6~5,4~
+DZY Loves Fibonacci Numbers~447E~447/E~2500.0~70~7~5~
+Rewards~448A~448/A~500.0~20~2~1~
+Suffix Structures~448B~448/B~1000.0~20~2~1,13~
+Painting Fence~448C~448/C~2500.0~50~4~24,2,4~
+Multiplication Table~448D~448/D~2000.0~40~4~11,6~
+Divisors~448E~448/E~3000.0~60~6~6,9,1,14~
+Jzzhu and Chocolate~449A~449/A~500.0~20~2~3~
+Jzzhu and Cities~449B~449/B~1000.0~30~2~12,22~
+Jzzhu and Apples~449C~449/C~1500.0~30~3~8,14~
+Jzzhu and Numbers~449D~449/D~2000.0~40~4~20,16,2~
+Jzzhu and Squares~449E~449/E~2500.0~40~4~2,3,14~
+Jzzhu and Children~450A~450/A~500.0~20~2~1~
+Jzzhu and Sequences~450B~450/B~1000.0~20~2~1,3~
+Jzzhu and Chocolate~450C~450/C~1500.0~40~4~4,1~
+Jzzhu and Cities~450D~450/D~2000.0~40~3~12,22~
+Jzzhu and Apples~450E~450/E~2500.0~60~6~8,14~
+Game With Sticks~451A~451/A~500.0~20~2~1~
+Sort the Array~451B~451/B~1000.0~20~2~1,10~
+Predict Outcome of the Game~451C~451/C~1500.0~30~3~6,1,3~
+Count Good Substrings~451D~451/D~2500.0~40~4~3~
+Devu and Flowers~451E~451/E~3000.0~70~7~20,16,14~
+Eevee~452A~452/A~500.0~20~2~1,13~
+4-point polyline~452B~452/B~1000.0~20~2~6,8,17,15~
+Magic Trick~452C~452/C~1000.0~20~2~16,3,21~
+Washer, Dryer, Folder~452D~452/D~1500.0~30~3~4,1~
+Three strings~452E~452/E~2500.0~50~4~5,19,28,13~
+Permutation~452F~452/F~2500.0~60~5~5,24,23~
+Little Pony and Expected Maximum~453A~453/A~500.0~20~1~21~
+Little Pony and Harmony Chest~453B~453/B~1000.0~30~3~20,6,2~
+Little Pony and Summer Sun Celebration~453C~453/C~1500.0~30~3~8,9~
+Little Pony and Elements of Harmony~453D~453/D~2500.0~60~6~2,26~
+Little Pony and Lord Tirek~453E~453/E~2500.0~60~6~5~
+Little Pony and Crystal Mine~454A~454/A~500.0~10~1~1~
+Little Pony and Sort by Shift~454B~454/B~1000.0~30~3~1~
+Little Pony and Expected Maximum~454C~454/C~1500.0~20~2~16,3,21~
+Little Pony and Harmony Chest~454D~454/D~2000.0~50~5~20,2~
+Little Pony and Summer Sun Celebration~454E~454/E~2500.0~50~5~9~
+Boredom~455A~455/A~500.0~30~3~2~
+A Lot of Games~455B~455/B~1000.0~20~1~9,2,25,1,13,15~
+Civilization~455C~455/C~1500.0~30~2~9,2,19,31,15~
+Serega and Fun~455D~455/D~2000.0~50~5~5~
+Function~455E~455/E~2500.0~60~6~5~
+Laptops~456A~456/A~500.0~20~2~10~
+Fedya and Maths~456B~456/B~1000.0~20~2~3,14~
+Boredom~456C~456/C~1500.0~40~4~2~
+A Lot of Games~456D~456/D~2000.0~40~2~2,25,13~
+Civilization~456E~456/E~2500.0~50~5~9,19,12,15~
+Golden System~457A~457/A~1000.0~30~2~3,32~
+Distributed Join~457B~457/B~1000.0~30~3~4~
+Elections~457C~457/C~1500.0~40~4~6~
+Bingo!~457D~457/D~2000.0~30~3~16,3,21~
+Flow Optimality~457E~457/E~2500.0~50~4~8,27,3~
+An easy problem about trees~457F~457/F~3000.0~60~4~2,25,4,15~
+Golden System~458A~458/A~1000.0~30~3~3~
+Distributed Join~458B~458/B~1000.0~30~3~4~
+Elections~458C~458/C~1500.0~30~2~5,31~
+Bingo!~458D~458/D~2000.0~40~4~16,21~
+Flow Optimality~458E~458/E~2500.0~40~4~7~
+An easy problem about trees~458F~458/F~3000.0~50~5~7~
+Pashmak and Garden~459A~459/A~500.0~20~2~1~
+Pashmak and Flowers~459B~459/B~500.0~30~3~1,10~
+Pashmak and Buses~459C~459/C~2000.0~40~4~16,8,3~
+Pashmak and Parmida's problem~459D~459/D~2000.0~40~3~5,24,10~
+Pashmak and Graph~459E~459/E~3000.0~60~6~2,10~
+Vasya and Socks~460A~460/A~500.0~20~2~6,1~
+Little Dima and Equation~460B~460/B~1000.0~20~2~6,1,3~
+Present~460C~460/C~1500.0~40~4~11,5,4~
+Little Victor and Set~460D~460/D~2000.0~50~5~6,8~
+Roland and Rose~460E~460/E~2500.0~40~4~6,17,3,10~
+Appleman and Toastman~461A~461/A~500.0~20~2~4,10~
+Appleman and Tree~461B~461/B~1000.0~10~1~9,2,15~
+Appleman and a Sheet of Paper~461C~461/C~1500.0~30~3~5,1~
+Appleman and Complicated Task~461D~461/D~2000.0~40~4~19,3~
+Appleman and a Game~461E~461/E~2500.0~50~4~22~
+Appleman and Easy Task~462A~462/A~500.0~20~2~6,1~
+Appleman and Card Game~462B~462/B~1000.0~30~3~4~
+Appleman and Toastman~462C~462/C~1500.0~30~3~1,10~
+Appleman and Tree~462D~462/D~2000.0~30~3~2,12~
+Appleman and a Sheet of Paper~462E~462/E~2500.0~40~4~7~
+Caisa and Sugar~463A~463/A~500.0~30~3~1~
+Caisa and Pylons~463B~463/B~1000.0~20~2~3~
+Gargari and Bishops~463C~463/C~1500.0~40~3~4,23,1~
+Gargari and Permutations~463D~463/D~2000.0~40~4~9,2,12~
+Caisa and Tree~463E~463/E~2500.0~50~5~6,9,15~
+No to Palindromes!~464A~464/A~500.0~20~2~4,13~
+Restore Cube ~464B~464/B~1500.0~20~2~6,17~
+Substitutes in Number~464C~464/C~1500.0~40~4~2~
+World of Darkraft - 2~464D~464/D~2000.0~50~5~2,21~
+The Classic Problem~464E~464/E~2500.0~50~4~5,12,22~
+inc ARG~465A~465/A~500.0~20~2~1~
+Inbox (100500)~465B~465/B~1000.0~20~2~1~
+No to Palindromes!~465C~465/C~1500.0~40~4~6~
+Restore Cube ~465D~465/D~2500.0~50~5~6~
+Substitutes in Number~465E~465/E~2500.0~60~6~8,2~
+Cheap Travel~466A~466/A~500.0~30~3~1~
+Wonder Room~466B~466/B~1000.0~30~3~6,3~
+Number of Ways~466C~466/C~1500.0~40~4~11,6,5,2,18~
+Increase Sequence~466D~466/D~2000.0~40~4~16,2~
+Information Graph~466E~466/E~2500.0~50~5~9,19,12,15~
+George and Accommodation~467A~467/A~500.0~10~1~1~
+Fedor and New Game~467B~467/B~1000.0~20~2~20,6,8,1~
+George and Job~467C~467/C~1500.0~40~4~2,1~
+Fedor and Essay~467D~467/D~2000.0~50~4~9,2,12,23,13~
+Alex and Complicated Task~467E~467/E~2500.0~50~5~5,2,4~
+24 Game~468A~468/A~500.0~20~2~8,4,3~
+Two Sets~468B~468/B~1000.0~30~1~33,9,19,29,4~
+Hack it!~468C~468/C~1500.0~30~3~11,8,3~
+Tree~468D~468/D~2000.0~80~3~29~
+Permanent~468E~468/E~2500.0~50~3~2,29,3,32~
+I Wanna Be the Guy~469A~469/A~500.0~20~2~4,1~
+Chat Online~469B~469/B~1000.0~20~2~1~
+24 Game~469C~469/C~1500.0~30~3~8,1~
+Two Sets~469D~469/D~2000.0~50~2~33,5,29,4~
+Hack it!~469E~469/E~2500.0~60~6~8~
+Crystal Ball Sequence~470A~470/A~-1.0~30~3~1~
+Hexakosioihexekontahexaphobia~470B~470/B~-1.0~20~2~7~
+Eval~470C~470/C~-1.0~30~3~7~
+Caesar Cipher~470D~470/D~-1.0~30~3~7~
+Chessboard~470E~470/E~-1.0~40~4~7~
+Pairwise Sums~470F~470/F~-1.0~40~4~7~
+Hamming Distance~470G~470/G~-1.0~50~5~7~
+Array Sorting~470H~470/H~-1.0~60~6~7~
+MUH and Sticks~471A~471/A~500.0~30~3~1~
+MUH and Important Things~471B~471/B~1000.0~20~2~10~
+MUH and House of Cards~471C~471/C~2000.0~30~3~11,6,4,3~
+MUH and Cube Walls~471D~471/D~2000.0~50~4~28,13~
+MUH and Lots and Lots of Segments~471E~471/E~2500.0~70~7~5,19~
+Design Tutorial: Learn from Math~472A~472/A~500.0~20~2~3,14~
+Design Tutorial: Learn from Life~472B~472/B~1000.0~10~1~7~
+Design Tutorial: Make It Nondeterministic~472C~472/C~1500.0~30~3~4~
+Design Tutorial: Inverse the Problem~472D~472/D~2000.0~40~3~9,19,22,15~
+Design Tutorial: Learn from a Game~472E~472/E~3000.0~60~6~8,1~
+Design Tutorial: Change the Goal~472F~472/F~3000.0~50~5~8,3,26~
+Design Tutorial: Increase the Constraints~472G~472/G~3500.0~90~3~20,5,34~
+Keyboard~474A~474/A~500.0~20~2~1~
+Worms~474B~474/B~1000.0~20~2~11,1~
+Captain Marmot~474C~474/C~1500.0~20~2~6,17~
+Flowers~474D~474/D~2000.0~50~5~2~
+Pillars~474E~474/E~3000.0~60~6~11,5,2,10,15~
+Ant colony~474F~474/F~3000.0~60~6~5,14~
+Bayan Bus~475A~475/A~500.0~20~2~1~
+Strongly Connected City~475B~475/B~1000.0~10~1~6,9,12,1~
+Kamal-ol-molk's Painting~475C~475/C~1500.0~40~4~6,8,4~
+CGCDSSQ~475D~475/D~2000.0~40~4~6,5,3~
+Strongly Connected City 2~475E~475/E~2500.0~60~6~9~
+Meta-universe~475F~475/F~2500.0~60~6~5~
+Dreamoon and Stairs~476A~476/A~500.0~20~2~1,3~
+Dreamoon and WiFi~476B~476/B~1500.0~30~3~20,6,16,2,3,21~
+Dreamoon and Sums~476C~476/C~1500.0~30~3~3~
+Dreamoon and Sets~476D~476/D~2000.0~30~3~8,4,3~
+Dreamoon and Strings~476E~476/E~2500.0~50~5~2,13~
+Dreamoon and Sums~477A~477/A~500.0~20~2~3~
+Dreamoon and Sets~477B~477/B~1000.0~20~2~3~
+Dreamoon and Strings~477C~477/C~1500.0~40~4~2~
+Dreamoon and Binary~477D~477/D~2000.0~50~5~2,13~
+Dreamoon and Notepad~477E~477/E~3000.0~70~7~5~
+Initial Bet~478A~478/A~500.0~20~2~1~
+Random Teams~478B~478/B~1000.0~20~2~16,8,4,3~
+Table Decorations~478C~478/C~1500.0~40~4~4~
+Red-Green Towers~478D~478/D~2000.0~50~5~2~
+Wavy numbers~478E~478/E~2500.0~60~3~6,9,32,10~
+Expression~479A~479/A~500.0~20~2~6,3~
+Towers~479B~479/B~1000.0~20~2~6,4,1,10~
+Exams~479C~479/C~1500.0~30~3~4,10~
+Long Jumps~479D~479/D~2000.0~50~5~11,4,1~
+Riding in a Lift~479E~479/E~2500.0~60~6~2~
+Exams~480A~480/A~500.0~10~1~4,10~
+Long Jumps~480B~480/B~1000.0~30~2~11,4,23,1,10~
+Riding in a Lift~480C~480/C~1500.0~30~3~2,1~
+Parcels~480D~480/D~2000.0~40~4~2,12~
+Parking Lot~480E~480/E~2500.0~60~4~5,24~
+Diverse Permutation~482A~482/A~500.0~20~2~8,4~
+Interesting Array~482B~482/B~1500.0~30~3~8,5,15~
+Game with Strings~482C~482/C~1500.0~40~4~20,2,21~
+Random Function and Tree~482D~482/D~2000.0~30~3~16,2,15~
+ELCA~482E~482/E~2500.0~50~5~5,15~
+Counterexample ~483A~483/A~500.0~20~2~6,1~
+Friends and Presents~483B~483/B~1000.0~20~2~11,3~
+Diverse Permutation~483C~483/C~1500.0~30~3~8,1~
+Interesting Array~483D~483/D~2500.0~60~6~5~
+Game with Strings~483E~483/E~2500.0~40~4~7~
+Bits~484A~484/A~500.0~30~3~20,8~
+Maximum Value~484B~484/B~1000.0~30~3~11,3,10,18~
+Strange Sorting~484C~484/C~3000.0~50~5~1,3~
+Kindergarten~484D~484/D~2000.0~50~5~5,2,4~
+Sign on Fence~484E~484/E~3000.0~60~6~11,8,5~
+Factory~485A~485/A~1000.0~20~1~1,3,26~
+Valuable Resources~485B~485/B~500.0~20~2~6,4~
+Bits~485C~485/C~1500.0~30~3~1,3~
+Maximum Value~485D~485/D~3000.0~70~7~11,10~
+Strange Sorting~485E~485/E~3000.0~50~5~7~
+Calculating Function~486A~486/A~500.0~20~2~1,3~
+OR in Matrix~486B~486/B~1000.0~20~2~4,23,1~
+Palindrome Transformation~486C~486/C~1500.0~40~4~4,1~
+Valid Sets~486D~486/D~2000.0~30~3~9,2,3,15~
+LIS of Sequence~486E~486/E~2500.0~40~4~5,2,4,23,3~
+Fight the Monster~487A~487/A~500.0~30~3~11,6~
+Strip~487B~487/B~1500.0~30~3~11,5,2,18~
+Prefix Product Sequence~487C~487/C~1500.0~30~3~8,14~
+Conveyor Belts~487D~487/D~2000.0~40~4~5~
+Tourists~487E~487/E~2500.0~50~5~5,9,12,15~
+Giga Tower~488A~488/A~500.0~30~3~6~
+Candy Boxes~488B~488/B~1500.0~40~4~6,8~
+Fight the Monster~488C~488/C~1500.0~40~4~6~
+Strip~488D~488/D~2500.0~60~6~5,2,18~
+Prefix Product Sequence~488E~488/E~2500.0~40~4~8,3~
+SwapSort~489A~489/A~500.0~20~2~1,10~
+BerSU Ball~489B~489/B~1000.0~20~1~9,2,29,4,10,18~
+Given Length and Sum of Digits...~489C~489/C~1500.0~40~4~2,4,1~
+Unbearable Controversy of Being~489D~489/D~2000.0~40~4~6,16,9,12~
+Hiking~489E~489/E~2500.0~50~5~11,2~
+Special Matrices~489F~489/F~2500.0~60~6~16,2~
+Team Olympiad~490A~490/A~500.0~10~1~4,1,10~
+Queue~490B~490/B~1000.0~30~3~19,1~
+Hacking Cypher~490C~490/C~1500.0~30~3~6,3,13~
+Chocolate~490D~490/D~2000.0~40~2~6,9,3,32,14~
+Restoring Increasing Sequence~490E~490/E~2000.0~50~5~11,6,4,1~
+Treeland Tour~490F~490/F~2500.0~50~5~5,9,2,15~
+Up the hill~491A~491/A~500.0~20~2~1~
+New York Hotel~491B~491/B~1000.0~30~3~4,3~
+Deciphering~491C~491/C~1500.0~60~2~27,29~
+Vanya and Cubes~492A~492/A~500.0~20~2~1~
+Vanya and Lanterns~492B~492/B~1000.0~20~2~11,3,10~
+Vanya and Exams~492C~492/C~1500.0~40~4~4,10~
+Vanya and Computer Game~492D~492/D~2000.0~40~4~11,1,3,10~
+Vanya and Field~492E~492/E~2500.0~40~4~3~
+Vasya and Football~493A~493/A~500.0~30~3~1~
+Vasya and Wrestling~493B~493/B~1000.0~30~3~1~
+Vasya and Basketball~493C~493/C~2000.0~50~5~11,6,1,10,18~
+Vasya and Chess~493D~493/D~1500.0~20~1~8,25~
+Vasya and Polynomial~493E~493/E~3000.0~50~5~3~
+Treasure~494A~494/A~500.0~30~3~4~
+Obsessive String~494B~494/B~1000.0~20~2~2,13~
+Helping People~494C~494/C~1750.0~40~4~2,21~
+Birthday~494D~494/D~1750.0~30~3~5,9,2,15~
+Sharti~494E~494/E~2500.0~50~3~25~
+Digital Counter~495A~495/A~500.0~20~2~1~
+Modular Equations~495B~495/B~1000.0~30~3~3~
+Treasure~495C~495/C~1500.0~40~4~1~
+Obsessive String~495D~495/D~2000.0~40~4~11,2,13~
+Helping People~495E~495/E~2750.0~40~4~7~
+Minimum Difficulty~496A~496/A~500.0~20~2~6,1,3~
+Secret Combination~496B~496/B~1000.0~20~2~6,8,1~
+Removing Columns~496C~496/C~1750.0~40~4~6,8,1~
+Tennis Game~496D~496/D~2250.0~50~5~11~
+Distributing Parts ~496E~496/E~2250.0~50~5~4,10~
+Removing Columns~497A~497/A~750.0~20~2~4~
+Tennis Game~497B~497/B~1250.0~30~3~11,6,1~
+Distributing Parts ~497C~497/C~1250.0~30~3~5,4,1,10,18~
+Gears~497D~497/D~2000.0~30~3~6,17,3~
+Subsequences Return~497E~497/E~2500.0~50~5~2,26~
+Crazy Town~498A~498/A~500.0~10~1~17~
+Name That Tune~498B~498/B~2000.0~50~5~2,21,18~
+Array and Operations~498C~498/C~1000.0~40~1~27,29,14~
+Traffic Jams in the Land~498D~498/D~2000.0~40~4~5,2,14~
+Stairs and Lines~498E~498/E~2500.0~50~4~2,26~
+Watching a movie~499A~499/A~500.0~20~2~1~
+Lecture~499B~499/B~500.0~10~1~13~
+Crazy Town~499C~499/C~1500.0~30~3~3~
+Name That Tune~499D~499/D~3000.0~50~5~7~
+Array and Operations~499E~499/E~3000.0~50~5~7~
+New Year Transportation~500A~500/A~500.0~20~2~9,12,1~
+New Year Permutation~500B~500/B~1000.0~20~2~9,19,12,4,3,10~
+New Year Book Reading~500C~500/C~1000.0~20~2~8,4,1,3~
+New Year Santa Network~500D~500/D~1500.0~30~3~16,9,12,15~
+New Year Domino~500E~500/E~2750.0~70~7~5,2,19~
+New Year Shopping~500F~500/F~2750.0~60~5~24,2~
+New Year Running~500G~500/G~3500.0~70~7~14,15~
+Contest~501A~501/A~500.0~20~2~1~
+Misha and Changing Handles~501B~501/B~500.0~10~1~5,19,13~
+Misha and Forest~501C~501/C~1500.0~30~3~8,5,4,10,15~
+Misha and Permutations Summation~501D~501/D~3000.0~60~6~5~
+Misha and Palindrome Degree~501E~501/E~3000.0~60~6~11,16,1~
+Misha and Forest~504A~504/A~500.0~10~1~8,5,12,4~
+Misha and Permutations Summation~504B~504/B~500.0~10~1~11,5,3~
+Misha and Palindrome Degree~504C~504/C~2500.0~50~5~3~
+Misha and XOR~504D~504/D~2500.0~70~7~20~
+Misha and LCP on Tree~504E~504/E~3000.0~60~6~11,9,23,28,15~
+Mr. Kitayuta's Gift~505A~505/A~500.0~20~2~6,1,13~
+Mr. Kitayuta's Colorful Graph~505B~505/B~1000.0~20~2~9,2,19,12~
+Mr. Kitayuta, the Treasure Hunter~505C~505/C~1500.0~40~4~9,2,18~
+Mr. Kitayuta's Technology~505D~505/D~2000.0~50~5~9~
+Mr. Kitayuta vs. Bamboos~505E~505/E~2750.0~60~6~11,4~
+Mr. Kitayuta, the Treasure Hunter~506A~506/A~500.0~30~3~2~
+Mr. Kitayuta's Technology~506B~506/B~1000.0~20~2~9,12~
+Mr. Kitayuta vs. Bamboos~506C~506/C~1750.0~40~4~11~
+Mr. Kitayuta's Colorful Graph~506D~506/D~1750.0~40~4~6,9,19~
+Mr. Kitayuta's Gift~506E~506/E~2500.0~60~5~16,2,26,13~
+Amr and Music~507A~507/A~500.0~20~2~4,1,10~
+Amr and Pins~507B~507/B~1000.0~10~1~17,3~
+Guess Your Way Out!~507C~507/C~1500.0~30~3~1,3~
+The Maths Lecture~507D~507/D~2000.0~40~4~2,1~
+Breaking Good~507E~507/E~2500.0~40~3~9,2,12,22~
+Pasha and Pixels~508A~508/A~500.0~20~2~6~
+Anton and currency you all know~508B~508/B~1000.0~30~3~4~
+Anya and Ghosts~508C~508/C~1500.0~40~4~4~
+Tanya and Password~508D~508/D~2000.0~50~5~9,12~
+Arthur and Brackets~508E~508/E~2500.0~50~5~2,4~
+Maximum in Table~509A~509/A~-1.0~10~1~6,1~
+Painting Pebbles~509B~509/B~-1.0~20~2~8,4,1~
+Sums of Digits~509C~509/C~-1.0~40~4~2,4,1~
+Restoring Numbers~509D~509/D~-1.0~30~3~8,3~
+Pretty Song~509E~509/E~-1.0~40~4~3,13~
+Progress Monitoring~509F~509/F~-1.0~60~6~2~
+Fox And Snake~510A~510/A~500.0~10~1~1~
+Fox And Two Dots~510B~510/B~1000.0~20~2~9~
+Fox And Names~510C~510/C~1500.0~40~4~9,12,10~
+Fox And Jumping~510D~510/D~2000.0~30~3~20,6,2,3~
+Fox And Dinner~510E~510/E~2500.0~70~3~27~
+Fox And Names~512A~512/A~500.0~20~2~9,12,4,10~
+Fox And Jumping~512B~512/B~1000.0~10~1~5,2,3,14,22~
+Fox And Dinner~512C~512/C~1500.0~60~2~27,29~
+Fox And Travelling~512D~512/D~2250.0~40~4~2,15~
+Fox And Polygon~512E~512/E~2250.0~50~3~8,24~
+Game~513A~513/A~3.0~10~1~8,3~
+Second price auction~513C~513/C~8.0~10~1~20,21~
+Inversions problem~513G1~513/G1~3.0~10~1~6,9,2,32~
+Scaygerboss~513F1~513/F1~14.0~50~1~27~
+Inversions problem~513G2~513/G2~5.0~10~1~2,21~
+Subarray Cuts~513E1~513/E1~9.0~20~2~2~
+Scaygerboss~513F2~513/F2~6.0~50~1~27~
+Inversions problem~513G3~513/G3~16.0~20~2~2~
+Subarray Cuts~513E2~513/E2~12.0~10~1~2~
+Constrained Tree~513D1~513/D1~9.0~20~2~9~
+Constrained Tree~513D2~513/D2~8.0~10~1~8,5~
+Permutations~513B1~513/B1~3.0~10~1~6~
+Permutations~513B2~513/B2~4.0~10~1~20,24,3~
+Chewbaсca and Number~514A~514/A~500.0~30~3~4,1~
+Han Solo and Lazer Gun~514B~514/B~1000.0~20~2~6,5,17,3~
+Watto and Mechanism~514C~514/C~2000.0~50~4~11,23,28,13~
+R2D2 and Droid Army~514D~514/D~2000.0~40~4~11,5,18~
+Darth Vader and Tree~514E~514/E~2500.0~50~5~2,26~
+Drazil and Date~515A~515/A~500.0~20~2~3~
+Drazil and His Happy Friends~515B~515/B~1000.0~20~1~6,19,32,14~
+Drazil and Factorial~515C~515/C~1000.0~20~2~4,3,10~
+Drazil and Tiles~515D~515/D~3000.0~60~6~8,4~
+Drazil and Park~515E~515/E~3000.0~70~7~5~
+Drazil and Factorial~516A~516/A~500.0~10~1~2,4,1,3~
+Drazil and Tiles~516B~516/B~1000.0~20~1~5,29,4,1~
+Drazil and Park~516C~516/C~1500.0~30~3~5~
+Drazil and Morning Exercise~516D~516/D~3000.0~60~6~9,2,19,15,18~
+Drazil and His Happy Friends~516E~516/E~3000.0~50~5~3,14~
+Vitaly and Strings~518A~518/A~500.0~30~3~13~
+Tanya and Postcard~518B~518/B~1000.0~30~3~1,13~
+Anya and Smartphone~518C~518/C~1500.0~30~3~5,1~
+Ilya and Escalator~518D~518/D~2000.0~40~4~16,2,21~
+Arthur and Questions~518E~518/E~2500.0~60~4~4,1,31~
+Pasha and Pipe~518F~518/F~2500.0~50~5~11,6,16,2,1~
+A and B and Chess~519A~519/A~500.0~20~2~1~
+A and B and Compilation Errors~519B~519/B~1000.0~10~1~5,1~
+A and B and Team Training~519C~519/C~1500.0~30~3~4,1,3,14~
+A and B and Interesting Substrings~519D~519/D~2000.0~50~5~5,2,18~
+A and B and Lecture Rooms~519E~519/E~2500.0~50~5~11,5,9,2,15~
+Pangram~520A~520/A~500.0~10~1~1,13~
+Two Buttons~520B~520/B~1000.0~20~1~9,12,4,1,3,22~
+DNA Alignment~520C~520/C~1500.0~30~3~3,13~
+Cubes~520D~520/D~2000.0~40~2~25,4,1~
+Pluses everywhere~520E~520/E~2500.0~40~4~16,2,3,14~
+DNA Alignment~521A~521/A~500.0~20~2~4,3~
+Cubes~521B~521/B~1000.0~20~2~5,4,1~
+Pluses everywhere~521C~521/C~1500.0~30~3~16,2,3,14~
+Shop~521D~521/D~2000.0~50~5~4~
+Cycling City~521E~521/E~2500.0~60~6~9,12~
+Reposts~522A~522/A~500.0~10~1~9,2,12,15~
+Photo to Remember~522B~522/B~1000.0~10~1~5,2,1~
+Chicken or Fish?~522C~522/C~1500.0~40~4~4~
+Closest Equals~522D~522/D~2000.0~50~5~5~
+Rotate, Flip and Zoom~523A~523/A~500.0~10~1~1~
+Mean Requests~523B~523/B~1000.0~30~3~1~
+Name Quest~523C~523/C~1500.0~30~3~4~
+Statistics of Recompressing Videos~523D~523/D~2000.0~50~5~5,1~
+Возможно, вы знаете этих людей?~524A~524/A~500.0~30~3~1~
+Фото на память - 2 (round version)~524B~524/B~500.0~30~3~2,4~
+The Art of Dealing with ATM~524C~524/C~1000.0~20~2~11,10~
+Social Network~524D~524/D~1250.0~30~3~4,18~
+Rooks and Rectangles~524E~524/E~1750.0~40~4~5~
+And Yet Another Bracket Sequence~524F~524/F~3000.0~70~6~5,23,28,13~
+Vitaliy and Pie~525A~525/A~250.0~20~1~4,23~
+Pasha and String~525B~525/B~750.0~30~3~4~
+Ilya and Sticks~525C~525/C~1000.0~30~3~4,10~
+Arthur and Walls~525D~525/D~3000.0~60~6~5,4~
+Anya and Cubes~525E~525/E~3000.0~60~3~11,20,6,2,32~
+King of Thieves~526A~526/A~500.0~20~2~6,1~
+Om Nom and Dark Park~526B~526/B~500.0~20~2~9,4,1~
+Om Nom and Candies~526C~526/C~1250.0~30~3~6,4,3~
+Om Nom and Necklace~526D~526/D~1750.0~40~3~23,28,13~
+Transmitting Levels~526E~526/E~2250.0~50~5~2,1~
+Pudding Monsters~526F~526/F~3000.0~70~5~5,24~
+Spiders Evil Plan~526G~526/G~3000.0~60~6~4,15~
+Playing with Paper~527A~527/A~500.0~20~2~1,3~
+Error Correct System~527B~527/B~1000.0~30~3~4~
+Glass Carving~527C~527/C~1500.0~30~3~11,5,1~
+Clique Problem~527D~527/D~2000.0~40~4~5,2,4,1,10~
+Data Center Drama~527E~527/E~2500.0~50~5~9,12~
+Glass Carving~528A~528/A~500.0~10~1~5,1~
+Clique Problem~528B~528/B~1000.0~20~2~2,4~
+Data Center Drama~528C~528/C~1500.0~40~4~8,12~
+Fuzzy Search~528D~528/D~2000.0~40~1~20,6,34~
+Triangles 3000~528E~528/E~2500.0~40~4~17,10~
+And Yet Another Bracket Sequence~529A~529/A~2500.0~60~5~5,23,28,13~
+Group Photo 2 (online mirror version)~529B~529/B~500.0~30~3~6,4,10~
+Rooks and Rectangles~529C~529/C~1500.0~30~3~5~
+Social Network~529D~529/D~1250.0~30~3~5,4~
+The Art of Dealing with ATM~529E~529/E~500.0~30~3~6~
+Quadratic equation~530A~530/A~-1.0~20~2~7~
+String inside out~530B~530/B~-1.0~20~2~7~
+Diophantine equation~530C~530/C~-1.0~20~2~7~
+Set subtraction~530D~530/D~-1.0~30~3~7~
+Sum and product~530E~530/E~-1.0~30~3~7~
+Jumping frogs~530F~530/F~-1.0~40~4~7~
+Levenshtein distance~530G~530/G~-1.0~50~5~7~
+Points in triangle~530H~530/H~-1.0~60~6~17~
+Different variables~530I~530/I~-1.0~60~6~7~
+Quadratic equation~531A~531/A~-1.0~30~3~7~
+String inside out~531B~531/B~-1.0~20~2~7~
+Diophantine equation~531C~531/C~-1.0~20~2~7~
+Set subtraction~531D~531/D~-1.0~20~2~7~
+Sum and product~531E~531/E~-1.0~30~3~7~
+Jumping frogs~531F~531/F~-1.0~40~4~7~
+Levenshtein distance~531G~531/G~-1.0~40~4~7~
+Points in triangle~531H~531/H~-1.0~50~5~7~
+Different variables~531I~531/I~-1.0~60~6~7~
+Berland Miners~532A~532/A~3000.0~50~5~7~
+Work Group~532B~532/B~500.0~20~2~7~
+Board Game~532C~532/C~250.0~20~2~7~
+Landmarks~532D~532/D~3000.0~50~5~7~
+Correcting Mistakes~532E~532/E~500.0~20~2~7~
+Encoding~532F~532/F~1250.0~20~2~7~
+Berland Miners~533A~533/A~3000.0~60~6~11,5,9,4,15~
+Work Group~533B~533/B~750.0~20~2~9,2,12,13,15~
+Board Game~533C~533/C~250.0~20~1~25,4,1,3~
+Landmarks~533D~533/D~3000.0~70~7~5~
+Correcting Mistakes~533E~533/E~500.0~30~2~8,2,4,23,13,18~
+Encoding~533F~533/F~1500.0~30~2~23,28,13~
+Exam~534A~534/A~500.0~30~3~8,1~
+Covered Path~534B~534/B~1000.0~20~2~2,4,3~
+Polycarpus' Dice~534C~534/C~1500.0~30~3~3~
+Handshakes~534D~534/D~2000.0~40~4~11,8,5,4~
+Berland Local Positioning System~534E~534/E~2500.0~60~5~8,4,23,1~
+Simplified Nonogram~534F~534/F~3000.0~70~3~20,2,23,32~
+Tavas and Nafas~535A~535/A~500.0~20~2~1~
+Tavas and SaDDas~535B~535/B~1000.0~20~2~20,6,1~
+Tavas and Karafs~535C~535/C~1500.0~30~3~11,3~
+Tavas and Malekas~535D~535/D~2000.0~50~4~4,23,28,13~
+Tavas and Pashmaks~535E~535/E~2500.0~40~4~17~
+Tavas and Karafs~536A~536/A~500.0~20~2~11,3~
+Tavas and Malekas~536B~536/B~1000.0~30~2~23,28,13~
+Tavas and Pashmaks~536C~536/C~1500.0~30~3~17~
+Tavas in Kansas~536D~536/D~2000.0~40~2~2,25~
+Tavas on the Path~536E~536/E~2500.0~50~4~5,24,15~
+Cutting Banner~538A~538/A~500.0~30~3~6,1~
+Quasi Binary~538B~538/B~1000.0~20~2~8,2,4,1~
+Tourist's Notes~538C~538/C~1500.0~30~3~11,6,4,1,3~
+Weird Chess~538D~538/D~1500.0~30~3~6,8,1~
+Demiurges Play Again~538E~538/E~2000.0~40~4~9,2,3,15~
+A Heap of Heaps~538F~538/F~2500.0~40~4~6,5,3,10~
+Berserk Robot ~538G~538/G~3000.0~60~6~8,3,10~
+Summer Dichotomy~538H~538/H~3000.0~60~3~33,5,9,4~
+Combination Lock~540A~540/A~500.0~20~2~1~
+School Marks~540B~540/B~1000.0~30~3~4,1~
+Ice Cave~540C~540/C~1500.0~40~4~9~
+Bad Luck Island~540D~540/D~2000.0~30~3~2,21~
+Infinite Inversions~540E~540/E~2500.0~50~5~11,5,1,10,15~
+Place Your Ad Here~541A~541/A~750.0~20~2~7~
+Idempotent functions~541C~541/C~250.0~20~2~7~
+Superhero's Job~541D~541/D~1250.0~30~3~7~
+Playing on Graph~541E~541/E~750.0~10~1~7~
+Quest~541F~541/F~500.0~20~2~7~
+Place Your Ad Here~542A~542/A~2000.0~50~5~5,10~
+Duck Hunt~542B~542/B~3000.0~80~8~5~
+Idempotent functions~542C~542/C~750.0~20~2~8,12,3~
+Superhero's Job~542D~542/D~2250.0~40~4~9,2,23,3,14~
+Playing on Graph~542E~542/E~2250.0~40~3~12,22~
+Quest~542F~542/F~1000.0~30~3~2,4~
+Writing Code~543A~543/A~500.0~30~3~2~
+Destroying Roads~543B~543/B~1000.0~20~1~12,22~
+Remembering Strings~543C~543/C~1750.0~40~4~20,2~
+Road Improvement~543D~543/D~1750.0~40~4~2,15~
+Listening to Music~543E~543/E~2500.0~70~7~8,5~
+Set of Strings~544A~544/A~500.0~20~2~1~
+Sea and Islands~544B~544/B~1000.0~20~2~8,1~
+Writing Code~544C~544/C~1500.0~40~4~2~
+Destroying Roads~544D~544/D~2000.0~40~3~6,12,22~
+Remembering Strings~544E~544/E~2750.0~60~6~20,2~
+Toy Cars~545A~545/A~500.0~20~2~1~
+Equidistant String~545B~545/B~1000.0~30~3~4~
+Woodcutters~545C~545/C~1750.0~40~4~2,4~
+Queue~545D~545/D~1750.0~30~3~4,1,10~
+Paths and Trees~545E~545/E~2500.0~50~4~12,4,22~
+Soldier and Bananas~546A~546/A~500.0~20~2~1,3~
+Soldier and Badges~546B~546/B~1000.0~20~2~6,4,1,10~
+Soldier and Cards~546C~546/C~1250.0~30~3~6,9~
+Soldier and Number Game~546D~546/D~1500.0~30~3~8,2,3,14~
+Soldier and Traveling~546E~546/E~2250.0~40~3~27,3~
+Mike and Frog~547A~547/A~750.0~30~3~6,1,3~
+Mike and Feet~547B~547/B~1000.0~10~1~11,5,2,19~
+Mike and Foam~547C~547/C~1750.0~50~5~20,14~
+Mike and Fish~547D~547/D~1750.0~40~4~9,12~
+Mike and Friends~547E~547/E~2500.0~60~5~5,28,13~
+Mike and Fax~548A~548/A~500.0~30~3~6,1~
+Mike and Fun~548B~548/B~1000.0~30~3~6,4,1~
+Mike and Frog~548C~548/C~1750.0~60~6~14~
+Mike and Feet~548D~548/D~2000.0~40~4~11,5~
+Mike and Foam~548E~548/E~2750.0~80~8~14~
+Face Detection~549A~549/A~250.0~10~1~1~
+Looksery Party~549B~549/B~1750.0~40~4~8,9,4~
+The Game Of Parity~549C~549/C~2000.0~40~2~25~
+Haar Features~549D~549/D~1000.0~10~1~4,1~
+Sasha Circle~549E~549/E~3000.0~60~6~3~
+Yura and Developers~549F~549/F~3000.0~70~5~5,24~
+Happy Line~549G~549/G~1500.0~30~3~4,10~
+Degenerate Matrix~549H~549/H~1500.0~30~3~11,3~
+Two Substrings~550A~550/A~1000.0~30~3~6,2,1,13~
+Preparing Olympiad~550B~550/B~750.0~10~1~20,6~
+Divisibility by Eight~550C~550/C~1000.0~20~2~6,2,3~
+Regular Bridge~550D~550/D~2000.0~40~4~8,12,1~
+Brackets in Implications~550E~550/E~3000.0~60~6~8,4,1~
+GukiZ and Contest~551A~551/A~500.0~10~1~1,10~
+ZgukistringZ~551B~551/B~1250.0~40~4~6,8,1,13~
+GukiZ hates Boxes~551C~551/C~1750.0~40~4~11,4~
+GukiZ and Binary Operations~551D~551/D~2000.0~40~4~16,3,26,14~
+GukiZ and GukiZiana~551E~551/E~2500.0~60~6~11,5~
+Vanya and Table~552A~552/A~500.0~10~1~1,3~
+Vanya and Books~552B~552/B~1000.0~20~2~1,3~
+Vanya and Scales~552C~552/C~1500.0~30~2~6,2,4,3,32~
+Vanya and Triangles~552D~552/D~2000.0~30~3~6,16,5,17,3,10~
+Vanya and Brackets~552E~552/E~2500.0~50~4~6,2,30,4,1~
+Kyoya and Colored Balls~553A~553/A~250.0~10~1~16,2,3~
+Kyoya and Permutation~553B~553/B~500.0~20~2~11,16,8,1,3~
+Love Triangles~553C~553/C~1000.0~20~2~9,19,12~
+Nudist Beach~553D~553/D~1500.0~30~3~11,12,4~
+Kyoya and Train~553E~553/E~3000.0~70~3~2,34,21~
+Kyoya and Photobooks~554A~554/A~250.0~10~1~6,3~
+Ohana Cleans Up~554B~554/B~500.0~10~1~6,13~
+Kyoya and Colored Balls~554C~554/C~1500.0~30~3~16,2,3~
+Kyoya and Permutation~554D~554/D~3000.0~50~5~3~
+Love Triangles~554E~554/E~3000.0~60~6~9,19~
+Case of Matryoshkas~555A~555/A~250.0~20~2~1~
+Case of Fugitive~555B~555/B~750.0~20~2~5,4,10~
+Case of Chocolate~555C~555/C~1250.0~30~3~5~
+Case of a Top Secret~555D~555/D~2000.0~40~4~11,1,3~
+Case of Computer Network~555E~555/E~3000.0~60~6~9,12,15~
+Case of the Zeros and Ones~556A~556/A~250.0~20~2~4~
+Case of Fake Numbers~556B~556/B~250.0~10~1~6,1~
+Case of Matryoshkas~556C~556/C~1000.0~30~3~1~
+Case of Fugitive~556D~556/D~3000.0~60~6~11,5,4~
+Case of Chocolate~556E~556/E~3000.0~70~7~11,5~
+Ilya and Diplomas~557A~557/A~500.0~20~2~4,1~
+Pasha and Tea~557B~557/B~1000.0~30~3~1,10~
+Arthur and Table~557C~557/C~1500.0~30~3~6,5,2,4~
+Vitaly and Cycle~557D~557/D~2000.0~40~4~16,9,12,3~
+Ann and Half-Palindrome~557E~557/E~2500.0~50~5~5,2,28,13,15~
+Lala Land and Apple Trees~558A~558/A~500.0~20~2~6,1,10~
+Amr and The Large Array~558B~558/B~1000.0~30~3~1~
+Amr and Chemistry~558C~558/C~1500.0~40~4~6,4~
+Guess Your Way Out! II~558D~558/D~2250.0~50~5~5,1,10~
+A Simple Task~558E~558/E~2500.0~50~5~5,10,13~
+Gerald's Hexagon~559A~559/A~500.0~10~1~6,17,3~
+Equivalent Strings~559B~559/B~1000.0~20~2~24,23,10,13~
+Gerald and Giant Chess~559C~559/C~1500.0~30~3~16,2,3,14~
+Randomizer~559D~559/D~2250.0~30~3~16,17,21~
+Gerald and Path~559E~559/E~2250.0~50~5~2,10~
+Currency System in Geraldion~560A~560/A~500.0~10~1~17,1,10~
+Gerald is into Art~560B~560/B~1000.0~20~2~8,1~
+Gerald's Hexagon~560C~560/C~1500.0~20~2~17~
+Equivalent Strings~560D~560/D~2000.0~50~4~23,1,13~
+Gerald and Giant Chess~560E~560/E~2500.0~60~6~16,2~
+Logistical Questions~562A~562/A~1500.0~30~3~7~
+Clique in the Divisibility Graph~562B~562/B~250.0~10~1~7~
+Restoring Map~562C~562/C~2250.0~40~4~7~
+Restructuring Company~562D~562/D~250.0~20~2~7~
+Max and Min~562E~562/E~500.0~20~2~7~
+Matching Names~562F~562/F~250.0~20~2~7~
+Replicating Processes~562G~562/G~500.0~10~1~7~
+Matching Names~566A~566/A~1750.0~30~3~9,13,15~
+Replicating Processes~566B~566/B~2500.0~50~5~8,4~
+Logistical Questions~566C~566/C~3000.0~60~5~9,24,15~
+Restructuring Company~566D~566/D~1000.0~20~2~5,19~
+Restoring Map~566E~566/E~3000.0~60~6~20,8,15~
+Clique in the Divisibility Graph~566F~566/F~500.0~20~2~2,3,14~
+Max and Min~566G~566/G~2500.0~40~4~17~
+Lineland Mail~567A~567/A~500.0~20~2~1~
+Berland National Library~567B~567/B~1000.0~20~2~1~
+Geometric Progression~567C~567/C~1500.0~30~3~11,5,2~
+One-Dimensional Battle Ships~567D~567/D~2000.0~40~4~11,5,10~
+President and Roads~567E~567/E~2500.0~50~4~9,12,23,22~
+Mausoleum~567F~567/F~2500.0~50~5~2~
+Primes or Palindromes?~568A~568/A~500.0~20~2~6,1,3,14~
+Symmetric and Transitive~568B~568/B~1000.0~20~2~16,2,3~
+New Language~568C~568/C~1500.0~40~2~33,4~
+Sign Posts~568D~568/D~2250.0~40~4~6,3~
+Longest Increasing Subsequence~568E~568/E~2500.0~60~6~5,2~
+Music~569A~569/A~500.0~20~2~1,3~
+Inventory~569B~569/B~1000.0~30~3~4~
+Primes or Palindromes?~569C~569/C~1500.0~30~3~11,6,14~
+Symmetric and Transitive~569D~569/D~2250.0~40~4~6,2,3~
+New Language~569E~569/E~2750.0~50~5~7~
+Elections~570A~570/A~500.0~20~2~1~
+Simple Game~570B~570/B~1000.0~20~2~8,4,1,3~
+Replacement~570C~570/C~1500.0~30~3~8,5,1~
+Tree Requests~570D~570/D~2000.0~40~4~11,8,9,15~
+Pig and Palindromes~570E~570/E~2500.0~60~6~16,2~
+Lengthening Sticks~571A~571/A~750.0~10~1~16,1,3~
+Minimization~571B~571/B~1250.0~30~3~2,4,10~
+CNF 2~571C~571/C~1500.0~40~4~8,9,12,4~
+Campus~571D~571/D~2000.0~40~4~11,5,19,15~
+Geometric Progressions~571E~571/E~2750.0~50~5~3~
+Arrays~572A~572/A~500.0~20~2~10~
+Order Book~572B~572/B~1000.0~30~3~5,4,1,10~
+Lengthening Sticks~572C~572/C~1750.0~30~3~6,16,2,3~
+Minimization~572D~572/D~2250.0~50~5~2,10~
+CNF 2~572E~572/E~2500.0~40~4~7~
+Bear and Poker~573A~573/A~500.0~20~2~1,14~
+Bear and Blocks~573B~573/B~1000.0~10~1~11,5,2~
+Bear and Drawing~573C~573/C~1750.0~40~4~8,9,15~
+Bear and Cavalry~573D~573/D~2000.0~50~4~5,24,2~
+Bear and Bowling~573E~573/E~2500.0~60~6~4~
+Bear and Elections~574A~574/A~500.0~20~2~1~
+Bear and Three Musketeers~574B~574/B~1000.0~20~2~6,9,12,23~
+Bear and Poker~574C~574/C~1500.0~40~4~14~
+Bear and Blocks~574D~574/D~2000.0~40~3~5,2,22~
+Bear and Drawing~574E~574/E~2750.0~50~5~7~
+Fibonotci~575A~575/A~-1.0~30~2~3,26~
+Bribes~575B~575/B~-1.0~20~2~9,15~
+Party~575C~575/C~-1.0~40~3~20,6,29~
+Tablecity~575D~575/D~-1.0~50~5~8~
+Spectator Riots~575E~575/E~-1.0~30~3~17~
+Bulbo~575F~575/F~-1.0~60~6~2,4~
+Run for beer~575G~575/G~-1.0~70~6~9,22~
+Bots~575H~575/H~-1.0~90~9~16,14~
+Robots protection~575I~575/I~-1.0~100~10~5~
+Vasya and Petya's Game~576A~576/A~500.0~20~2~3,14~
+Invariance of Tree~576B~576/B~1250.0~20~2~8,9,4,15~
+Points on Plane~576C~576/C~1250.0~20~2~8,24,17,4,10~
+Flights for Regular Customers~576D~576/D~2000.0~50~4~2,26~
+Painting Edges~576E~576/E~2750.0~60~6~11,5~
+Multiplication Table~577A~577/A~500.0~20~2~1,14~
+Modulo Sum~577B~577/B~1250.0~30~3~16,5,2,18~
+Vasya and Petya's Game~577C~577/C~1500.0~30~3~1,14~
+Invariance of Tree~577D~577/D~2250.0~40~4~7~
+Points on Plane~577E~577/E~2250.0~60~6~8~
+A Problem about Polyline~578A~578/A~250.0~10~1~17,3~
+"Or" Game~578B~578/B~500.0~30~3~6,4~
+Weakness and Poorness~578C~578/C~750.0~70~1~31~
+LCS Again~578D~578/D~2500.0~50~5~2,4~
+Walking!~578E~578/E~2750.0~60~6~8,4~
+Mirror Box~578F~578/F~3000.0~50~5~26,15~
+Raising Bacteria~579A~579/A~250.0~10~1~20~
+Finding Team Member~579B~579/B~500.0~20~2~6,1,10~
+A Problem about Polyline~579C~579/C~1250.0~30~3~11,3~
+"Or" Game~579D~579/D~2000.0~40~4~6,4,3~
+Weakness and Poorness~579E~579/E~3000.0~100~4~31~
+LCS Again~579F~579/F~3000.0~40~4~7~
+Kefa and First Steps~580A~580/A~750.0~20~2~6,2,1~
+Kefa and Company~580B~580/B~1250.0~30~3~11,10,18~
+Kefa and Park~580C~580/C~1500.0~30~3~9,15~
+Kefa and Dishes~580D~580/D~2000.0~50~5~20,2~
+Kefa and Watch~580E~580/E~2500.0~60~5~5,23,13~
+Vasya the Hipster~581A~581/A~500.0~10~1~1~
+Luxurious Houses~581B~581/B~1000.0~20~2~1~
+Developing Skills~581C~581/C~1500.0~40~4~1,10~
+Three Logos~581D~581/D~2000.0~40~4~20,6,8,1,3~
+Kojiro and Furrari~581E~581/E~3000.0~60~6~2,4~
+Zublicanes and Mumocrates~581F~581/F~3000.0~50~5~2,15,18~
+GCD Table~582A~582/A~750.0~20~2~8,4~
+Once Again...~582B~582/B~1250.0~30~2~2,26~
+Superior Periodic Subarrays~582C~582/C~1500.0~50~5~14~
+Number of Binominal Coefficients~582D~582/D~2250.0~50~5~2,14~
+Boolean Function~582E~582/E~2500.0~50~4~20,2,30~
+Asphalting Roads~583A~583/A~500.0~20~2~1~
+Robot's Task~583B~583/B~1000.0~10~1~1~
+GCD Table~583C~583/C~1750.0~30~3~7~
+Once Again...~583D~583/D~2250.0~40~4~7~
+Superior Periodic Subarrays~583E~583/E~2500.0~70~7~14~
+Olesya and Rodion~584A~584/A~500.0~20~2~3~
+Kolya and Tanya ~584B~584/B~1000.0~20~2~16~
+Marina and Vasya~584C~584/C~1500.0~40~4~8,4~
+Dima and Lisa~584D~584/D~2000.0~50~5~14~
+Anton and Ira~584E~584/E~2500.0~50~5~8,4~
+Gennady the Dentist~585A~585/A~500.0~30~3~6,1~
+Phillip and Trains~585B~585/B~750.0~20~2~9~
+Alice, Bob, Oranges and Apples~585C~585/C~1250.0~30~3~14~
+Lizard Era: Beginning~585D~585/D~1750.0~90~2~32~
+Present for Vitalik the Philatelist ~585E~585/E~2250.0~40~4~16,3,14~
+Digits of Number Pi~585F~585/F~3000.0~60~6~2,1,13~
+Alena's Schedule~586A~586/A~500.0~20~2~1~
+Laurenty and Shop~586B~586/B~1000.0~10~1~1~
+Gennady the Dentist~586C~586/C~1500.0~40~4~1~
+Phillip and Trains~586D~586/D~1750.0~40~4~2~
+Alice, Bob, Oranges and Apples~586E~586/E~2250.0~60~6~14~
+Lizard Era: Beginning~586F~586/F~2750.0~100~3~32~
+Duff and Weight Lifting~587A~587/A~500.0~30~3~4~
+Duff in Beach~587B~587/B~1000.0~30~3~2~
+Duff in the Army~587C~587/C~1500.0~30~3~5,15~
+Duff in Mafia~587D~587/D~2000.0~50~2~33,11~
+Duff as a Queen~587E~587/E~2750.0~60~6~5~
+Duff is Mad~587F~587/F~2750.0~60~6~5,13~
+Duff and Meat~588A~588/A~750.0~20~2~4~
+Duff in Love~588B~588/B~1000.0~20~2~3~
+Duff and Weight Lifting~588C~588/C~1500.0~30~3~7~
+Duff in Beach~588D~588/D~2000.0~40~4~7~
+Duff in the Army~588E~588/E~2500.0~50~5~5,9,15~
+Duff in Mafia~588F~588/F~3000.0~50~5~7~
+Email Aliases~589A~589/A~-1.0~30~3~1~
+Layer Cake~589B~589/B~-1.0~20~2~10~
+Polycarp's Masterpiece~589C~589/C~-1.0~40~3~5,24,2~
+Boulevard~589D~589/D~-1.0~50~5~6,1~
+Training with Doors~589E~589/E~-1.0~40~4~7~
+Gourmet and Banquet~589F~589/F~-1.0~60~4~11,27,4~
+Hiring~589G~589/G~-1.0~70~7~11,5~
+Tourist Guide~589H~589/H~-1.0~80~8~9~
+Lottery~589I~589/I~-1.0~70~7~1~
+Cleaner Robot~589J~589/J~-1.0~90~9~9,1~
+Task processing~589K~589/K~-1.0~90~9~6,3~
+Agricultural Archaeology~589L~589/L~-1.0~90~9~4,3~
+Taxi in Berland~589M~589/M~-1.0~100~9~22~
+Median Smoothing~590A~590/A~750.0~20~2~7~
+Chip 'n Dale Rescue Rangers~590B~590/B~1000.0~10~1~11,17,3~
+Three States~590C~590/C~1250.0~30~2~9,12,22~
+Top Secret Task~590D~590/D~1750.0~40~4~2~
+Birthday~590E~590/E~2500.0~60~4~29,13~
+Wizards' Duel~591A~591/A~500.0~10~1~3~
+Rebranding~591B~591/B~1000.0~20~2~1~
+Median Smoothing~591C~591/C~1750.0~50~5~8~
+Chip 'n Dale Rescue Rangers~591D~591/D~2000.0~30~3~7~
+Three States~591E~591/E~2250.0~40~3~9,12,22~
+PawnChess~592A~592/A~500.0~30~3~1~
+The Monster and the Squirrel~592B~592/B~1000.0~10~1~3~
+The Big Race~592C~592/C~1500.0~30~3~3~
+Super M~592D~592/D~2000.0~40~4~9,2,15~
+BCPC~592E~592/E~3000.0~50~5~11,17,18~
+2Char~593A~593/A~250.0~20~2~6~
+Anton and Lines~593B~593/B~1000.0~20~2~17,10~
+Beautiful Function~593C~593/C~3000.0~60~6~8,3~
+Happy Tree Party~593D~593/D~3000.0~60~6~5,15~
+Strange Calculation and Cats~593E~593/E~3000.0~60~6~2,26~
+Warrior and Archer~594A~594/A~500.0~30~1~25~
+Max and Bike~594B~594/B~1000.0~20~2~11,17~
+Edo and Magnets~594C~594/C~1500.0~40~4~6,18~
+REQ~594D~594/D~2000.0~50~5~5,14~
+Cutting the Line~594E~594/E~3000.0~70~6~28,13~
+Vitaly and Night~595A~595/A~500.0~10~1~1~
+Pasha and Phone~595B~595/B~1000.0~30~3~11,3~
+Warrior and Archer~595C~595/C~1500.0~40~2~25~
+Max and Bike~595D~595/D~2000.0~40~4~7~
+Edo and Magnets~595E~595/E~2500.0~40~4~7~
+Wilbur and Swimming Pool~596A~596/A~500.0~20~2~1~
+Wilbur and Array~596B~596/B~1000.0~30~3~4~
+Wilbur and Points~596C~596/C~1500.0~40~4~4,10~
+Wilbur and Trees~596D~596/D~2250.0~50~5~2,21,10~
+Wilbur and Strings~596E~596/E~2500.0~60~6~9,2,12~
+Divisibility~597A~597/A~500.0~30~3~3~
+Restaurant~597B~597/B~1000.0~20~2~2,4,10~
+Subsequences~597C~597/C~1500.0~30~3~5,2~
+Tricky Sum~598A~598/A~-1.0~20~2~3~
+Queries on a String~598B~598/B~-1.0~20~2~1,13~
+Nearest vectors~598C~598/C~-1.0~30~3~17,10~
+Igor In the Museum~598D~598/D~-1.0~50~5~9~
+Chocolate Bar~598E~598/E~-1.0~50~5~6,2~
+Cut Length~598F~598/F~-1.0~50~5~17~
+Patrick and Shopping~599A~599/A~500.0~20~2~1~
+Spongebob and Joke~599B~599/B~1000.0~30~3~1~
+Day at the Beach~599C~599/C~1500.0~30~3~10~
+Spongebob and Squares~599D~599/D~2000.0~40~4~6,3~
+Sandy and Nuts~599E~599/E~3000.0~60~6~20,2~
+Extract Numbers~600A~600/A~-1.0~30~3~1~
+Queries about less or equal elements~600B~600/B~-1.0~20~2~11,10,18~
+Make Palindrome~600C~600/C~-1.0~40~4~4~
+Area of Two Circles' Intersection~600D~600/D~-1.0~30~3~17~
+Lomsat gelral~600E~600/E~-1.0~50~5~9,19,15~
+Edge coloring of bipartite graph~600F~600/F~-1.0~70~7~12~
+The Two Routes~601A~601/A~500.0~10~1~12,22~
+Lipshitz Sequence~601B~601/B~1250.0~20~2~5~
+Kleofáš and the n-thlon~601C~601/C~1250.0~30~3~2,21~
+Acyclic Organic Compounds~601D~601/D~2000.0~40~4~5,9,19,23,15~
+A Museum Robbery~601E~601/E~2500.0~50~5~5,2~
+Two Bases~602A~602/A~500.0~20~2~1~
+Approximating a Constant Range~602B~602/B~1000.0~30~3~2,18~
+The Two Routes~602C~602/C~1500.0~20~2~7~
+Lipshitz Sequence~602D~602/D~2250.0~30~3~7~
+Kleofáš and the n-thlon~602E~602/E~2250.0~60~5~21~
+Alternative Thinking~603A~603/A~500.0~20~2~2,4~
+Moodular Arithmetic~603B~603/B~1000.0~20~2~9,19,3,14~
+Lieges of Legendre~603C~603/C~1500.0~40~2~25~
+Ruminations on Ruminants~603D~603/D~2000.0~30~3~17,3~
+Pastoral Oddities~603E~603/E~3000.0~50~5~5,24,19,15~
+Uncowed Forces~604A~604/A~500.0~20~2~1~
+More Cowbell~604B~604/B~1000.0~20~2~11,4~
+Alternative Thinking~604C~604/C~1500.0~30~3~8,2,3~
+Moodular Arithmetic~604D~604/D~2000.0~50~5~19~
+Lieges of Legendre~604E~604/E~2500.0~40~4~7~
+Sorting Railway Cars~605A~605/A~500.0~30~3~8,4~
+Lazy Student~605B~605/B~1000.0~20~2~8,5,12~
+Freelancer's Dreams~605C~605/C~1500.0~30~3~17~
+Board Game~605D~605/D~2000.0~50~5~5,9~
+Intergalaxy Trips~605E~605/E~2500.0~40~3~21,22~
+Magic Spheres~606A~606/A~500.0~20~2~1~
+Testing Robots~606B~606/B~1000.0~20~2~1~
+Sorting Railway Cars~606C~606/C~1500.0~30~3~7~
+Lazy Student~606D~606/D~2000.0~50~5~12~
+Freelancer's Dreams~606E~606/E~2500.0~40~4~7~
+Chain Reaction~607A~607/A~500.0~20~2~11,2~
+Zuma~607B~607/B~1250.0~30~3~2~
+Marbles~607C~607/C~1500.0~40~3~23,13~
+Power Tree~607D~607/D~2000.0~40~4~5~
+Cross Sum~607E~607/E~3000.0~50~5~11,17~
+Saitama Destroys Hotel~608A~608/A~500.0~20~2~1,3~
+Hamming Distance Sum~608B~608/B~1000.0~20~2~16~
+Chain Reaction~608C~608/C~1500.0~40~4~2~
+Zuma~608D~608/D~2250.0~30~3~7~
+Marbles~608E~608/E~2500.0~40~4~7~
+USB Flash Drives~609A~609/A~-1.0~10~1~4,1,10~
+The Best Gift~609B~609/B~-1.0~20~2~1~
+Load Balancing~609C~609/C~-1.0~40~4~1~
+Gadgets for dollars and pounds~609D~609/D~-1.0~40~4~11,18~
+Minimum spanning tree for each edge~609E~609/E~-1.0~50~5~5,9,19,12,15~
+Frogs and mosquitoes~609F~609/F~-1.0~70~7~5~
+Pasha and Stick~610A~610/A~500.0~20~2~16,3~
+Vika and Squares~610B~610/B~1000.0~30~3~1~
+Harmony Analysis~610C~610/C~1500.0~30~3~8~
+Vika and Segments~610D~610/D~2500.0~40~4~5,17,18~
+Alphabet Permutations~610E~610/E~2500.0~60~6~5,13~
+New Year and Days~611A~611/A~500.0~20~2~1~
+New Year and Old Property~611B~611/B~750.0~20~2~6,1~
+New Year and Domino~611C~611/C~1250.0~20~2~2,1~
+New Year and Ancient Prophecy~611D~611/D~1750.0~40~3~23,13~
+New Year and Three Musketeers~611E~611/E~2500.0~60~6~5,4~
+New Year and Cleaning~611F~611/F~2500.0~50~5~11,1~
+New Year and Cake~611G~611/G~3000.0~40~4~17,18~
+New Year  and Forgotten Tree~611H~611/H~3500.0~80~5~8,27~
+The Text Splitting~612A~612/A~-1.0~20~2~6,1,13~
+HDD is Outdated Technology~612B~612/B~-1.0~20~2~1~
+Replace To Make Regular Bracket Sequence~612C~612/C~-1.0~30~2~5,30,3~
+The Union of k-Segments~612D~612/D~-1.0~50~5~10~
+Square Root of Permutation~612E~612/E~-1.0~50~5~16,8,9,12~
+Simba on the Circle~612F~612/F~-1.0~60~6~2~
+Peter and Snow Blower~613A~613/A~750.0~10~1~11,17,31~
+Skills~613B~613/B~1250.0~30~3~11,6,18~
+Necklace~613C~613/C~1250.0~30~3~8~
+Kingdom and its Cities~613D~613/D~2000.0~40~4~9,24,12,10,15~
+Puzzle Lover~613E~613/E~2500.0~60~5~2,23,13~
+Link/Cut Tree~614A~614/A~500.0~30~3~6~
+Gena's Code~614B~614/B~1000.0~30~3~1~
+Peter and Snow Blower~614C~614/C~1750.0~30~3~7~
+Skills~614D~614/D~2250.0~40~4~7~
+Necklace~614E~614/E~2250.0~40~4~7~
+Bulbs~615A~615/A~500.0~20~2~1~
+Longtail Hedgehog~615B~615/B~1250.0~30~3~2,12~
+Running Track~615C~615/C~1750.0~30~3~2,4,13,15~
+Multipliers~615D~615/D~2000.0~40~4~3,14~
+Hexagons~615E~615/E~2500.0~40~4~11,1,3~
+Comparing Two Long Integers~616A~616/A~-1.0~30~3~1,13~
+Dinner with Emma~616B~616/B~-1.0~20~1~25,4~
+The Labyrinth~616C~616/C~-1.0~40~4~9~
+Longest k-Good Segment~616D~616/D~-1.0~40~4~11,5,18~
+Sum of Remainders~616E~616/E~-1.0~50~5~1,3,14~
+Expensive Strings~616F~616/F~-1.0~70~6~28,13~
+Elephant~617A~617/A~500.0~10~1~3~
+Chocolate~617B~617/B~1000.0~20~2~16~
+Watering Flowers~617C~617/C~1250.0~30~3~1~
+Polyline~617D~617/D~1750.0~50~5~8~
+XOR and Favorite Number~617E~617/E~2750.0~60~6~5~
+Slime Combining~618A~618/A~500.0~10~1~1~
+Guess the Permutation~618B~618/B~1000.0~10~1~8~
+Constellation~618C~618/C~1500.0~20~2~17,1~
+Hamiltonian Spanning Tree~618D~618/D~1750.0~40~3~9,2,29,15~
+Robot Arm~618E~618/E~2500.0~60~6~5~
+Double Knapsack~618F~618/F~2750.0~60~6~8,18~
+Combining Slimes~618G~618/G~3500.0~70~7~2,26,21~
+Professor GukiZ's Robot~620A~620/A~-1.0~10~1~1,3~
+Grandfather Dovlet’s calculator~620B~620/B~-1.0~10~1~1~
+Pearls in a Row~620C~620/C~-1.0~40~4~4~
+Professor GukiZ and Two Arrays~620D~620/D~-1.0~50~5~11,18~
+New Year Tree~620E~620/E~-1.0~60~6~20,5~
+Xors on Segments~620F~620/F~-1.0~70~7~5~
+Wet Shark and Odd and Even~621A~621/A~500.0~20~2~1~
+Wet Shark and Bishops~621B~621/B~1000.0~20~2~16~
+Wet Shark and Flowers~621C~621/C~1500.0~50~4~21~
+Rat Kwesh and Cheese~621D~621/D~2000.0~40~4~6,3~
+Wet Shark and Blocks~621E~621/E~2500.0~50~5~2,26~
+Infinite Sequence~622A~622/A~-1.0~20~2~1,3~
+The Time~622B~622/B~-1.0~20~2~1~
+Not Equal on a Segment~622C~622/C~-1.0~40~4~5,1~
+Optimal Number Permutation~622D~622/D~-1.0~40~4~8~
+Ants in Leaves~622E~622/E~-1.0~40~4~9,4,15~
+The Sum of the k-th Powers~622F~622/F~-1.0~50~5~3~
+Graph and String~623A~623/A~500.0~20~2~8,12~
+Array GCD~623B~623/B~1000.0~30~3~2,4,14~
+Electric Charges~623C~623/C~1750.0~50~5~11~
+Birthday~623D~623/D~2000.0~40~4~4,21~
+Transforming Sequence~623E~623/E~2250.0~50~1~16,2,34~
+Save Luke~624A~624/A~500.0~10~1~3~
+Making a String~624B~624/B~1000.0~20~2~4,10~
+Graph and String~624C~624/C~1500.0~40~4~8,9,12~
+Array GCD~624D~624/D~2000.0~50~5~2,4,14~
+Electric Charges~624E~624/E~3000.0~50~5~7~
+Guest From the Past~625A~625/A~750.0~20~2~1,3~
+War of the Corporations~625B~625/B~750.0~20~2~8,13~
+K-special Tables~625C~625/C~1000.0~10~1~8,1~
+Finals in arithmetic~625D~625/D~2000.0~50~5~8,1~
+Frog Fights~625E~625/E~3000.0~60~6~5,4~
+Robot Sequence~626A~626/A~500.0~10~1~6,1~
+Cards~626B~626/B~750.0~20~2~8,2~
+Block Towers~626C~626/C~1000.0~30~3~6,4~
+Jerry's Protest~626D~626/D~1500.0~30~3~6,16,21~
+Simple Skewness~626E~626/E~2000.0~40~3~11,3,31~
+Group Projects~626F~626/F~2500.0~50~5~2~
+Raffles~626G~626/G~3000.0~60~6~5,4~
+XOR Equation~627A~627/A~500.0~20~2~2,3~
+Factory Repairs~627B~627/B~1000.0~10~1~5~
+Package Delivery~627C~627/C~1500.0~30~3~5,24,4~
+Preorder Test~627D~627/D~2000.0~40~4~11,2,15~
+Orchestra~627E~627/E~2500.0~80~8~18~
+Island Puzzle~627F~627/F~3000.0~60~6~9,12,15~
+Tennis Tournament~628A~628/A~-1.0~20~2~1~
+New Skateboard~628B~628/B~-1.0~20~2~2~
+Bear and String Distance~628C~628/C~-1.0~30~3~4~
+Magic Numbers~628D~628/D~-1.0~50~5~2~
+Zbazi in Zeydabad~628E~628/E~-1.0~50~5~5,1~
+Bear and Fair Set~628F~628/F~-1.0~90~5~27~
+Far Relative’s Birthday Cake~629A~629/A~500.0~10~1~6,8,1~
+Far Relative’s Problem~629B~629/B~1000.0~20~2~6~
+Famil Door and Brackets~629C~629/C~1750.0~40~4~2,13~
+Babaei and Birthday Cake~629D~629/D~2000.0~50~5~5,2~
+Famil Door and Roads~629E~629/E~2500.0~50~5~9,2,21,15~
+Again Twenty Five!~630A~630/A~-1.0~10~1~14~
+Moore's Law~630B~630/B~-1.0~10~1~3~
+Lucky Numbers~630C~630/C~-1.0~20~2~16,3~
+Hexagons!~630D~630/D~-1.0~30~3~3~
+A rectangle~630E~630/E~-1.0~40~4~3~
+Selection of Personnel~630F~630/F~-1.0~70~7~16~
+Challenge Pennants~630G~630/G~-1.0~70~7~16~
+Benches~630H~630/H~-1.0~90~9~16~
+Parking Lot~630I~630/I~-1.0~100~10~16~
+Divisibility~630J~630/J~-1.0~70~7~3~
+Indivisibility~630K~630/K~-1.0~80~8~3~
+Cracking the Code~630L~630/L~-1.0~100~10~1~
+Turn~630M~630/M~-1.0~90~9~17,3~
+Forecast~630N~630/N~-1.0~100~10~3~
+Arrow~630O~630/O~-1.0~100~10~17~
+Area of a Star~630P~630/P~-1.0~100~10~17~
+Pyramids~630Q~630/Q~-1.0~100~10~17~
+Game~630R~630/R~-1.0~100~8~25~
+Interview~631A~631/A~500.0~10~1~6,1~
+Print Check~631B~631/B~1000.0~20~2~8,1~
+Report~631C~631/C~1500.0~40~4~5,10~
+Messenger~631D~631/D~2000.0~50~4~5,23,28,13~
+Product Sum~631E~631/E~2500.0~40~4~5,2,17~
+Grandma Laura and Apples~632A~632/A~-1.0~20~2~7~
+Alice, Bob, Two Teams~632B~632/B~-1.0~20~2~6,8~
+The Smallest String Concatenation~632C~632/C~-1.0~30~3~10,13~
+Longest Subsequence~632D~632/D~-1.0~40~4~6,3,14~
+Thief in a Shop~632E~632/E~-1.0~60~2~24,2,34~
+Magic Matrix~632F~632/F~-1.0~60~5~6,24,12,15~
+Ebony and Ivory~633A~633/A~250.0~20~2~6,3~
+A Trivial Problem~633B~633/B~500.0~20~2~6,8,3,14~
+Spy Syndrome 2~633C~633/C~1500.0~40~3~5,2,23,1,10,28,13~
+Fibonacci-ish~633D~633/D~1750.0~40~4~6,23,1,3~
+Startup Funding~633E~633/E~2500.0~60~6~11,5,21,18~
+The Chocolate Spree~633F~633/F~2750.0~50~5~9,2,15~
+Yash And Trees~633G~633/G~3000.0~70~7~20,5,9~
+Fibonacci-ish II~633H~633/H~3000.0~60~6~5,1~
+Island Puzzle~634A~634/A~500.0~20~2~8,1~
+XOR Equation~634B~634/B~1000.0~20~2~8,2,1~
+Factory Repairs~634C~634/C~1500.0~20~2~5~
+Package Delivery~634D~634/D~2000.0~40~3~5,24,4~
+Preorder Test~634E~634/E~2500.0~40~4~7~
+Orchestra~634F~634/F~3000.0~90~9~18~
+Orchestra~635A~635/A~500.0~10~1~6,1~
+Island Puzzle~635B~635/B~1000.0~20~2~7~
+XOR Equation~635C~635/C~1500.0~40~4~2~
+Factory Repairs~635D~635/D~2000.0~30~3~7~
+Package Delivery~635E~635/E~2500.0~60~6~5,4~
+Preorder Test~635F~635/F~3000.0~50~5~7~
+Voting for Photos~637A~637/A~500.0~20~2~1~
+Chat Order~637B~637/B~1000.0~10~1~11,5,10~
+Promocodes with Mistakes~637C~637/C~1500.0~30~3~6,8,1~
+Running with Obstacles~637D~637/D~2000.0~50~5~5,2,4~
+Home Numbers~638A~638/A~500.0~10~1~8~
+Making Genome in Berland~638B~638/B~1000.0~30~3~9,13~
+Road Improvement~638C~638/C~1500.0~30~3~9,4,15~
+Three-dimensional Turtle Super Computer ~638D~638/D~2000.0~40~4~6,9,12~
+Bear and Displayed Friends~639A~639/A~500.0~20~2~1~
+Bear and Forgotten Tree 3~639B~639/B~750.0~20~2~8,12,15~
+Bear and Polynomials~639C~639/C~1000.0~30~3~23,1,3~
+Bear and Contribution~639D~639/D~1500.0~40~4~5,4,10~
+Bear and Paradox~639E~639/E~2000.0~40~4~4,3,10~
+Bear and Chemistry~639F~639/F~3000.0~60~6~5,9,12,15~
+Lazy Caterer Sequence~640A~640/A~-1.0~20~2~7~
+Seasons~640B~640/B~-1.0~20~2~7~
+Array Sum~640C~640/C~-1.0~30~3~7~
+Maximal Difference~640D~640/D~-1.0~30~3~7~
+Divisibility Check~640E~640/E~-1.0~30~3~7~
+Primes in Interval~640F~640/F~-1.0~40~4~7~
+Hungarian Notation~640G~640/G~-1.0~50~5~7~
+Little Artem and Grasshopper~641A~641/A~500.0~20~2~1~
+Little Artem and Matrix~641B~641/B~750.0~10~1~1~
+Little Artem and Dance~641C~641/C~1000.0~30~3~6,8,1~
+Little Artem and Random Variable~641D~641/D~1500.0~30~3~2,1,3,21~
+Little Artem and Time Machine~641E~641/E~2000.0~40~4~5~
+Little Artem and 2-SAT~641F~641/F~3000.0~50~5~7~
+Little Artem and Graph~641G~641/G~3000.0~40~4~7~
+Bear and Colors~643A~643/A~500.0~20~2~1~
+Bear and Two Paths~643B~643/B~1000.0~20~2~8~
+Levels and Regions~643C~643/C~1750.0~40~4~2~
+Bearish Fanpages~643D~643/D~2250.0~40~4~7~
+Bear and Destroying Subtrees~643E~643/E~2250.0~40~4~2,3,21,15~
+Bears and Juice~643F~643/F~3000.0~40~4~3~
+Choosing Ads~643G~643/G~3000.0~50~5~7~
+Parliament of Berland~644A~644/A~500.0~20~2~8~
+Processing Queries~644B~644/B~1000.0~20~2~5,18~
+Hostname Aliases~644C~644/C~1500.0~40~4~11,5,10,13~
+Amity Assessment~645A~645/A~500.0~20~2~6,8,1~
+Mischievous Mess Makers~645B~645/B~1000.0~20~2~4,3~
+Enduring Exodus~645C~645/C~1500.0~30~3~11,18~
+Robot Rapping Results Report~645D~645/D~2000.0~40~4~11,2,12~
+Intellectual Inquiry~645E~645/E~2500.0~50~5~2,4,13~
+Cowslip Collections~645F~645/F~3000.0~50~5~16,3,14~
+Armistice Area Apportionment~645G~645/G~3500.0~50~5~11,17~
+Три брата~646A~646/A~500.0~10~1~7~
+Ошибка передачи сообщения~646B~646/B~1000.0~20~2~13~
+Оценки Васи~647A~647/A~500.0~10~1~7~
+Звёздное небо~647B~647/B~1000.0~20~2~7~
+Наибольший подъем~648A~648/A~500.0~20~2~8~
+Собери стол~648B~648/B~1000.0~20~2~8,10~
+Путь Робота~648C~648/C~1500.0~30~3~9,12~
+Собачки и миски~648D~648/D~2000.0~50~5~4,10~
+Собери число~648E~648/E~2500.0~40~4~7~
+Любимые числа Поликарпа~649A~649/A~500.0~20~2~8~
+Этажи~649B~649/B~1000.0~30~3~8~
+Печать условий~649C~649/C~1500.0~40~4~4,10~
+Дефрагментация памяти~649D~649/D~2000.0~40~4~4,1~
+Автобус~649E~649/E~2500.0~60~6~11,5,4,10~
+Watchmen~650A~650/A~500.0~20~2~5,3~
+Image Preview~650B~650/B~1000.0~30~3~11,2,18~
+Table Compression~650C~650/C~1500.0~40~4~9,2,19,12,4~
+Zip-line~650D~650/D~2000.0~40~4~11,5,2~
+Clockwork Bomb~650E~650/E~2500.0~50~5~5,9,19,15~
+Joysticks~651A~651/A~500.0~30~3~2,4~
+Beautiful Paintings~651B~651/B~1000.0~20~2~4,10~
+Watchmen~651C~651/C~1500.0~20~2~5,17,1,10~
+Image Preview~651D~651/D~2000.0~50~5~11,2,18~
+Table Compression~651E~651/E~2500.0~60~6~19,12,4~
+Gabriel and Caterpillar~652A~652/A~-1.0~30~3~1~
+z-sort~652B~652/B~-1.0~10~1~10~
+Foe Pairs~652C~652/C~-1.0~50~5~18~
+Nested Segments~652D~652/D~-1.0~40~4~5,10~
+Pursuit For Artifacts~652E~652/E~-1.0~50~5~9,19,12,15~
+Ants on a Circle~652F~652/F~-1.0~50~5~8,3~
+Bear and Three Balls~653A~653/A~500.0~20~2~6,1,10~
+Bear and Compressing~653B~653/B~1000.0~10~1~6,9,2,13~
+Bear and Up-Down~653C~653/C~1500.0~40~4~6,1~
+Delivery Bears~653D~653/D~2000.0~50~3~11,27~
+Bear and Forgotten Tree 2~653E~653/E~2500.0~60~6~9,19,12~
+Paper task~653F~653/F~3500.0~80~6~5,28~
+Move by Prime~653G~653/G~3500.0~80~8~16~
+Amity Assessment~655A~655/A~500.0~20~2~7~
+Mischievous Mess Makers~655B~655/B~1000.0~20~2~7~
+Enduring Exodus~655C~655/C~1500.0~30~3~11,18~
+Robot Rapping Results Report~655D~655/D~2000.0~40~4~11,12~
+Intellectual Inquiry~655E~655/E~2500.0~50~5~2,4,13~
+Cowslip Collections~655F~655/F~3000.0~70~7~16,14~
+Armistice Area Apportionment~655G~655/G~3500.0~50~5~7~
+Da Vinci Powers~656A~656/A~-1.0~30~3~7~
+Scrambled~656B~656/B~-1.0~20~2~1~
+Without Text~656C~656/C~-1.0~20~2~7~
+Rosetta Problem~656D~656/D~-1.0~30~3~7~
+Out of Controls~656E~656/E~-1.0~40~4~7~
+Ace It!~656F~656/F~-1.0~50~5~7~
+You're a Professional~656G~656/G~-1.0~60~6~7~
+Bear and Forgotten Tree 3~657A~657/A~500.0~20~2~12~
+Bear and Polynomials~657B~657/B~1000.0~20~2~3~
+Bear and Contribution~657C~657/C~1500.0~30~3~10~
+Bear and Paradox~657D~657/D~2000.0~40~4~10~
+Bear and Chemistry~657E~657/E~3000.0~50~5~7~
+Bear and Reverse Radewoosh~658A~658/A~500.0~10~1~1~
+Bear and Displayed Friends~658B~658/B~1000.0~20~2~7~
+Bear and Forgotten Tree 3~658C~658/C~1500.0~30~3~7~
+Bear and Polynomials~658D~658/D~2000.0~40~4~7~
+Bear and Contribution~658E~658/E~2500.0~40~4~7~
+Round House~659A~659/A~500.0~20~2~1,3~
+Qualifying Contest~659B~659/B~1000.0~20~2~10~
+Tanya and Toys~659C~659/C~1000.0~20~2~4,1~
+Bicycle Race~659D~659/D~1250.0~10~1~17,1,3~
+New Reform~659E~659/E~1500.0~30~3~5,9,19,12,4~
+Polycarp and Hay~659F~659/F~2000.0~50~5~9,19,12,10~
+Fence Divercity~659G~659/G~2500.0~50~5~16,2~
+Co-prime Array~660A~660/A~-1.0~30~3~4,1~
+Seating On Bus~660B~660/B~-1.0~20~2~1~
+Hard Process~660C~660/C~-1.0~30~3~11,2,18~
+Number of Parallelograms~660D~660/D~-1.0~30~3~17~
+Different Subsets For All Tuples~660E~660/E~-1.0~40~4~16~
+Bear and Bowling 4~660F~660/F~-1.0~40~4~11,5,17,31~
+Lazy Caterer Sequence~661A~661/A~-1.0~30~3~7~
+Seasons~661B~661/B~-1.0~20~2~7~
+Array Sum~661C~661/C~-1.0~30~3~7~
+Maximal Difference~661D~661/D~-1.0~30~3~7~
+Divisibility Check~661E~661/E~-1.0~40~4~7~
+Primes in Interval~661F~661/F~-1.0~50~5~7~
+Hungarian Notation~661G~661/G~-1.0~50~5~7~
+Rotate Matrix~661H~661/H~-1.0~60~6~7~
+Gambling Nim~662A~662/A~500.0~20~1~20,3,26,21~
+Graph Coloring~662B~662/B~250.0~20~2~9~
+Binary Table~662C~662/C~2250.0~40~1~20,6,24,2,34,3~
+International Olympiad~662D~662/D~250.0~20~2~8,4,1,3~
+To Hack or not to Hack~662E~662/E~2250.0~50~5~6,2,4~
+Rebus~663A~663/A~500.0~20~2~8,30,4,3~
+International Olympiad~663B~663/B~1000.0~20~2~6,8,4,13~
+Graph Coloring~663C~663/C~1500.0~40~4~9~
+To Hack or not to Hack~663D~663/D~2500.0~50~5~6,2,4~
+Binary Table~663E~663/E~2500.0~50~4~20,24,2~
+Complicated GCD~664A~664/A~500.0~10~1~3~
+Rebus~664B~664/B~1000.0~30~3~4~
+International Olympiad~664C~664/C~1500.0~40~4~4~
+Graph Coloring~664D~664/D~2000.0~40~2~33,9,19,12~
+To Hack or not to Hack~664E~664/E~3000.0~50~5~7~
+Buses Between Cities~665A~665/A~-1.0~30~3~1~
+Shopping~665B~665/B~-1.0~20~2~6~
+Simple Strings~665C~665/C~-1.0~30~3~2,4,13~
+Simple Subset~665D~665/D~-1.0~50~5~8,4~
+Beautiful Subarrays~665E~665/E~-1.0~60~4~5,24~
+Four Divisors~665F~665/F~-1.0~60~6~2,3,14~
+Reberland Linguistics~666A~666/A~500.0~30~3~2,1~
+World Tour~666B~666/B~1000.0~20~2~12,22~
+Codeword~666C~666/C~2000.0~50~5~16~
+Chain Reaction~666D~666/D~2000.0~50~5~6~
+Forensic Examination~666E~666/E~3000.0~80~6~5,28~
+Pouring Rain~667A~667/A~500.0~10~1~17,3~
+Coat of Anticubism~667B~667/B~1000.0~10~1~8,17~
+Reberland Linguistics~667C~667/C~1500.0~40~4~2,13~
+World Tour~667D~667/D~2000.0~40~3~6,12,22~
+Chain Reaction~667E~667/E~3000.0~50~5~7~
+Little Artem and Matrix~668A~668/A~500.0~10~1~7~
+Little Artem and Dance~668B~668/B~1000.0~20~2~7~
+Little Artem and Random Variable~668C~668/C~1500.0~30~3~3~
+Little Artem and Time Machine~668D~668/D~2000.0~30~3~5~
+Little Artem and 2-SAT~668E~668/E~3000.0~70~7~12~
+Little Artem and Graph~668F~668/F~3000.0~60~6~2~
+Little Artem and Presents~669A~669/A~500.0~10~1~3~
+Little Artem and Grasshopper~669B~669/B~1000.0~20~2~7~
+Little Artem and Matrix~669C~669/C~1500.0~30~3~8,1~
+Little Artem and Dance~669D~669/D~2000.0~40~4~5,1,3~
+Little Artem and Time Machine~669E~669/E~2500.0~60~6~5~
+Holidays~670A~670/A~500.0~20~2~6,8~
+Game of Robots~670B~670/B~750.0~20~2~1~
+Cinema~670C~670/C~1000.0~20~2~1,10~
+Correct Bracket Sequence Editor~670E~670/E~2000.0~50~5~5,19~
+Restore a Number~670F~670/F~2500.0~60~6~8,13~
+Magic Powder - 1~670D1~670/D1~1000.0~20~2~11,6~
+Magic Powder - 2~670D2~670/D2~500.0~20~2~11~
+Recycling Bottles~671A~671/A~500.0~30~3~2,4~
+Robin Hood~671B~671/B~1000.0~30~3~11,4~
+Ultimate Weirdness of an Array~671C~671/C~1500.0~30~3~5,14~
+Roads in Yusland~671D~671/D~2000.0~50~5~5,2,4~
+Organizing a Race~671E~671/E~3000.0~70~7~5,4~
+Summer Camp~672A~672/A~500.0~20~2~1~
+Different is Good~672B~672/B~1000.0~20~2~8,1,13~
+Recycling Bottles~672C~672/C~1500.0~30~3~6,17,4~
+Robin Hood~672D~672/D~2000.0~50~5~11,4~
+Ultimate Weirdness of an Array~672E~672/E~2500.0~40~4~7~
+Bear and Game~673A~673/A~500.0~30~3~1~
+Problems for Round~673B~673/B~750.0~20~2~4,1~
+Bear and Colors~673C~673/C~1000.0~20~2~7~
+Bear and Two Paths~673D~673/D~1500.0~30~3~7~
+Levels and Regions~673E~673/E~2250.0~50~4~24,2~
+Bearish Fanpages~673F~673/F~3000.0~50~5~7~
+Bear and Colors~674A~674/A~500.0~10~1~6,5,1~
+Bear and Two Paths~674B~674/B~1000.0~20~2~8,12~
+Levels and Regions~674C~674/C~1750.0~40~3~24,2~
+Bearish Fanpages~674D~674/D~2250.0~40~4~7~
+Bear and Destroying Subtrees~674E~674/E~2250.0~40~4~2,3,21,15~
+Bears and Juice~674F~674/F~3000.0~50~5~16~
+Choosing Ads~674G~674/G~3000.0~50~5~7~
+Infinite Sequence~675A~675/A~500.0~20~2~3~
+Restoring Painting~675B~675/B~1000.0~20~2~6,8,3~
+Money Transfers~675C~675/C~1500.0~30~3~5,4,10~
+Tree Construction~675D~675/D~2000.0~40~4~5,15~
+Trains and Statistic~675E~675/E~2500.0~50~5~5,2,4~
+Nicholas and Permutation~676A~676/A~500.0~20~2~1~
+Pyramid of Glasses~676B~676/B~1000.0~20~2~1~
+Vasya and String~676C~676/C~1500.0~30~3~11,2,18~
+Theseus and labyrinth~676D~676/D~2250.0~40~3~1,22~
+The Last Fight Between Human and AI~676E~676/E~2250.0~40~4~3~
+Vanya and Fence~677A~677/A~500.0~10~1~1~
+Vanya and Food Processor~677B~677/B~1000.0~20~2~1,3~
+Vanya and Label~677C~677/C~1500.0~20~2~1~
+Vanya and Treasure~677D~677/D~2250.0~60~6~5,12~
+Vanya and Balloons~677E~677/E~2250.0~50~5~11,6,2,1~
+Johny Likes Numbers~678A~678/A~-1.0~20~2~1~
+The Same Calendar~678B~678/B~-1.0~30~3~1~
+Joty and Chocolate~678C~678/C~-1.0~30~3~1,3,14~
+Iterated Linear Function~678D~678/D~-1.0~40~4~3,14~
+Another Sith Tournament~678E~678/E~-1.0~50~5~20,2~
+Lena and Queries~678F~678/F~-1.0~50~5~5,24,17~
+Bear and Prime 100~679A~679/A~750.0~20~2~8~
+Bear and Tower of Cubes~679B~679/B~1250.0~30~3~2,4~
+Bear and Square Grid~679C~679/C~1500.0~30~3~9,19,1~
+Bear and Chase~679D~679/D~2000.0~40~4~6,9,1~
+Bear and Bad Powers of 42~679E~679/E~2500.0~60~6~5~
+Bear and Five Cards~680A~680/A~500.0~20~2~8,1~
+Bear and Finding Criminals~680B~680/B~1000.0~20~2~8,1~
+Bear and Prime 100~680C~680/C~1750.0~50~5~8,14~
+Bear and Tower of Cubes~680D~680/D~2250.0~50~5~6,8,4~
+Bear and Square Grid~680E~680/E~2750.0~40~4~7~
+A Good Contest~681A~681/A~500.0~10~1~1~
+Economy Game~681B~681/B~1000.0~30~3~6~
+Heap Operations~681C~681/C~1500.0~40~4~5,4~
+Gifts by the List~681D~681/D~2000.0~40~4~9,15~
+Runaway to a Shadow~681E~681/E~2500.0~40~4~17~
+Alyona and Numbers~682A~682/A~500.0~30~3~8,14~
+Alyona and Mex~682B~682/B~1000.0~20~2~10~
+Alyona and the Tree~682C~682/C~1500.0~30~3~9,2,15~
+Alyona and Strings~682D~682/D~2000.0~50~5~2,13~
+Alyona and Triangles~682E~682/E~3000.0~40~4~17,18~
+The Check of the Point~683A~683/A~-1.0~20~2~7~
+The Teacher of Physical Education~683B~683/B~-1.0~20~2~7~
+Symmetric Difference~683C~683/C~-1.0~20~2~7~
+Chocolate Bar~683D~683/D~-1.0~30~3~7~
+Hammer throwing~683E~683/E~-1.0~30~3~7~
+Reformat the String~683F~683/F~-1.0~40~4~7~
+The Fraction~683G~683/G~-1.0~50~5~7~
+Exchange of Books~683H~683/H~-1.0~50~5~7~
+Loader~683I~683/I~-1.0~60~6~7~
+The Hero with Bombs~683J~683/J~-1.0~70~7~7~
+Robbers' watch~685A~685/A~500.0~20~2~6,2,3~
+Kay and Snowflake~685B~685/B~1250.0~20~2~5,9,15~
+Optimal Point~685C~685/C~1250.0~30~3~11,3~
+Kay and Eternity~685D~685/D~2000.0~40~4~6~
+Travelling Through the Snow Queen's Kingdom~685E~685/E~2500.0~50~5~6,12~
+Free Ice Cream~686A~686/A~500.0~20~2~8,1~
+Little Robber Girl's Zoo~686B~686/B~1000.0~10~1~8,1,10~
+Robbers' watch~686C~686/C~1500.0~30~3~6,3~
+Kay and Snowflake~686D~686/D~2250.0~40~4~5,9,15~
+Optimal Point~686E~686/E~2250.0~40~4~7~
+NP-Hard Problem~687A~687/A~500.0~20~2~9,12~
+Remainders Game~687B~687/B~1000.0~20~1~35,3,14~
+The Values You Can Make~687C~687/C~1500.0~30~3~2~
+Dividing Kingdom II~687D~687/D~2000.0~40~4~6,5,19,10~
+TOF~687E~687/E~2500.0~40~4~7~
+Opponents~688A~688/A~500.0~20~2~1~
+Lovely Palindromes~688B~688/B~1000.0~10~1~8,3~
+NP-Hard Problem~688C~688/C~1500.0~30~3~9,12~
+Remainders Game~688D~688/D~2000.0~40~2~35,3,14~
+The Values You Can Make~688E~688/E~2500.0~50~5~2~
+Mike and Cellphone~689A~689/A~500.0~30~3~6,8,1~
+Mike and Shortcuts~689B~689/B~1000.0~30~3~9~
+Mike and Chocolate Thieves~689C~689/C~1500.0~30~3~11,3~
+Friends and Subsequences~689D~689/D~2000.0~50~5~11,5~
+Mike and Geometry Problem~689E~689/E~2500.0~50~5~16,5,1~
+Tree of Life (easy)~690F1~690/F1~-1.0~20~2~7~
+Photographs (I)~690E1~690/E1~-1.0~20~2~7~
+Tree of Life (medium)~690F2~690/F2~-1.0~30~3~8,23,15~
+Photographs (II)~690E2~690/E2~-1.0~40~4~7~
+The Wall (easy)~690D1~690/D1~-1.0~30~3~7~
+Tree of Life (hard)~690F3~690/F3~-1.0~60~6~15~
+The Wall (medium)~690D2~690/D2~-1.0~60~6~16~
+Brain Network (easy)~690C1~690/C1~-1.0~50~5~7~
+Brain Network (medium)~690C2~690/C2~-1.0~70~7~9,12,15~
+The Wall (hard)~690D3~690/D3~-1.0~60~6~7~
+Recover Polygon (easy)~690B1~690/B1~-1.0~70~7~7~
+Brain Network (hard)~690C3~690/C3~-1.0~100~10~15~
+Collective Mindsets (easy)~690A1~690/A1~-1.0~70~7~7~
+Recover Polygon (medium)~690B2~690/B2~-1.0~90~9~17~
+Recover Polygon (hard)~690B3~690/B3~-1.0~100~10~7~
+Collective Mindsets (medium)~690A2~690/A2~-1.0~100~10~7~
+Collective Mindsets (hard)~690A3~690/A3~-1.0~100~10~7~
+Fashion in Berland~691A~691/A~-1.0~30~3~1~
+s-palindrome~691B~691/B~-1.0~30~3~1~
+Exponential notation~691C~691/C~-1.0~40~4~1~
+Swaps in Permutation~691D~691/D~-1.0~40~4~9,19~
+Xor-sequences~691E~691/E~-1.0~80~5~26~
+Couple Cover~691F~691/F~-1.0~60~6~6,2,14~
+LRU~695A~695/A~1250.0~20~2~7~
+Break Up~695B~695/B~1250.0~20~2~7~
+Limak and Shooting Points~695C~695/C~1250.0~20~2~7~
+Cron~695D~695/D~1750.0~30~3~7~
+Huffman Coding on Segment~695E~695/E~2500.0~40~4~7~
+Coprime Permutation~695F~695/F~2500.0~40~4~7~
+Lorenzo Von Matterhorn~696A~696/A~500.0~10~1~5,1,15~
+Puzzles~696B~696/B~1000.0~10~1~9,3,21,15~
+PLEASE~696C~696/C~1500.0~30~2~16,2,1,3,26~
+Legen...~696D~696/D~2000.0~40~3~5,2,26,13~
+...Wait for it...~696E~696/E~2500.0~50~5~5,19,15~
+...Dary!~696F~696/F~3000.0~40~4~11,17,18~
+Pineapple Incident~697A~697/A~500.0~20~2~3~
+Barnicle~697B~697/B~1000.0~30~3~1~
+Lorenzo Von Matterhorn~697C~697/C~1500.0~20~2~5,1,15~
+Puzzles~697D~697/D~2000.0~30~3~7~
+PLEASE~697E~697/E~2500.0~40~4~3,14~
+Legen...~697F~697/F~3000.0~40~4~7~
+Vacations~698A~698/A~500.0~20~2~2~
+Fix a Tree~698B~698/B~1000.0~20~2~8,9,19,15~
+LRU~698C~698/C~1500.0~40~4~20,2,21~
+Limak and Shooting Points~698D~698/D~2000.0~30~3~6,17~
+Cron~698E~698/E~2500.0~40~4~7~
+Coprime Permutation~698F~698/F~3000.0~70~7~16,14~
+Launch of Collider~699A~699/A~500.0~20~2~1~
+One Bomb~699B~699/B~1000.0~30~3~1~
+Vacations~699C~699/C~1500.0~30~3~6,2~
+Fix a Tree~699D~699/D~2000.0~50~5~8,9,19~
+LRU~699E~699/E~2500.0~50~5~20,2,21~
+Limak and Shooting Points~699F~699/F~3000.0~50~5~7~
+As Fast As Possible~700A~700/A~500.0~20~2~11,3~
+Connecting Universities~700B~700/B~1000.0~10~1~9,2,12,15~
+Break Up~700C~700/C~1500.0~40~4~9~
+Huffman Coding on Segment~700D~700/D~2250.0~50~5~5,4~
+Cool Slogans~700E~700/E~3000.0~70~6~28,13~
+Cards~701A~701/A~500.0~20~2~4~
+Cells Not Under Attack~701B~701/B~750.0~20~2~3~
+They Are Everywhere~701C~701/C~1000.0~20~2~11,18~
+As Fast As Possible~701D~701/D~1500.0~30~3~11,3~
+Connecting Universities~701E~701/E~2000.0~40~4~9,12~
+Break Up~701F~701/F~2500.0~60~6~12~
+Maximum Increase~702A~702/A~-1.0~20~2~2,4,1~
+Powers of Two~702B~702/B~-1.0~30~3~6,5,1~
+Cellular Network~702C~702/C~-1.0~30~3~11,18~
+Road to Post Office~702D~702/D~-1.0~40~4~3~
+Analysis of Pathes in Functional Graph~702E~702/E~-1.0~50~5~5,12~
+T-Shirts~702F~702/F~-1.0~80~8~5~
+Mishka and Game~703A~703/A~500.0~10~1~1~
+Mishka and trip~703B~703/B~1000.0~20~2~1,3~
+Chris and Road~703C~703/C~1750.0~30~3~17,1~
+Mishka and Interesting sum~703D~703/D~2000.0~50~5~5~
+Mishka and Divisors~703E~703/E~2250.0~60~6~2,14~
+Thor~704A~704/A~500.0~30~3~6,5,1~
+Ant Man~704B~704/B~1250.0~30~3~2,12,4~
+Black Widow~704C~704/C~1250.0~30~3~2,1~
+Captain America~704D~704/D~2000.0~70~3~27~
+Iron Man~704E~704/E~2500.0~40~4~17,15~
+Hulk~705A~705/A~500.0~10~1~1~
+Spider Man~705B~705/B~1000.0~30~1~25~
+Thor~705C~705/C~1500.0~40~4~5,1~
+Ant Man~705D~705/D~2250.0~50~5~2,12~
+Black Widow~705E~705/E~2250.0~40~4~7~
+Beru-taxi~706A~706/A~500.0~10~1~6,17,1~
+Interesting drink~706B~706/B~1000.0~20~2~11,1~
+Hard problem~706C~706/C~1500.0~40~4~2~
+Vasiliy's Multiset~706D~706/D~2000.0~40~4~11,5,15~
+Working routine~706E~706/E~2500.0~50~5~5,1~
+Brain's Photos~707A~707/A~500.0~20~2~1~
+Bakery~707B~707/B~1000.0~20~2~12~
+Pythagorean Triples~707C~707/C~1500.0~30~3~3,14~
+Persistent Bookcase ~707D~707/D~2000.0~50~5~5,9,1~
+Garlands~707E~707/E~2500.0~60~6~5~
+Letters Cyclic Shift~708A~708/A~500.0~20~2~8,1~
+Recover the String~708B~708/B~1000.0~30~3~8,1,3~
+Centroids~708C~708/C~1500.0~30~3~5,9,2,4,15~
+Incorrect Flow~708D~708/D~2000.0~70~3~27~
+Student's Camp~708E~708/E~2500.0~40~4~2,3~
+Juicer~709A~709/A~500.0~20~2~1~
+Checkpoints~709B~709/B~1000.0~30~3~1,10~
+Letters Cyclic Shift~709C~709/C~1500.0~40~4~4~
+Recover the String~709D~709/D~2000.0~40~4~4,3~
+Centroids~709E~709/E~2500.0~50~5~2,15~
+King Moves~710A~710/A~-1.0~20~2~1~
+Optimal Point on a Line~710B~710/B~-1.0~30~3~6,10~
+Magic Odd Square~710C~710/C~-1.0~30~3~8~
+Two Arithmetic Progressions~710D~710/D~-1.0~40~4~3~
+Generate a String~710E~710/E~-1.0~60~6~9,2~
+String Set Queries~710F~710/F~-1.0~60~6~6,5,23,28,13~
+Bus to Udayland~711A~711/A~500.0~20~2~6,1~
+Chris and Magic Square~711B~711/B~1000.0~30~3~8~
+Coloring Trees~711C~711/C~1500.0~40~4~2~
+Directed Roads~711D~711/D~2000.0~40~4~16,9,12,3~
+ZS and The Birthday Paradox~711E~711/E~2500.0~40~4~3,14,21~
+Memory and Crow~712A~712/A~500.0~10~1~1~
+Memory and Trident~712B~712/B~1000.0~20~2~1~
+Memory and De-Evolution~712C~712/C~1500.0~20~2~4,3~
+Memory and Scores~712D~712/D~2250.0~50~5~16,2~
+Memory and Casinos~712E~712/E~2500.0~40~4~5,3,21~
+Sonya and Queries~713A~713/A~500.0~10~1~5~
+Searching Rectangles~713B~713/B~1000.0~30~3~11,8~
+Sonya and Problem Wihtout a Legend~713C~713/C~2000.0~40~4~2,10~
+Animals and Puzzle~713D~713/D~2000.0~40~4~11,5~
+Sonya Partymaker~713E~713/E~2000.0~40~4~7~
+Meeting of Old Friends~714A~714/A~500.0~20~2~3~
+Filya and Homework~714B~714/B~1000.0~30~3~1~
+Sonya and Queries~714C~714/C~1000.0~20~2~5~
+Searching Rectangles~714D~714/D~2000.0~50~5~11~
+Sonya and Problem Wihtout a Legend~714E~714/E~3000.0~60~4~2,27,10~
+Plus and Square Root~715A~715/A~500.0~20~2~8,3~
+Complete The Graph~715B~715/B~1000.0~30~2~11,8,12,22~
+Digit Tree~715C~715/C~1500.0~40~3~24,19~
+Create a Maze~715D~715/D~2500.0~60~6~8~
+Complete the Permutations~715E~715/E~2750.0~40~4~7~
+Crazy Computer~716A~716/A~500.0~20~2~1~
+Complete the Word~716B~716/B~1000.0~40~4~18~
+Plus and Square Root~716C~716/C~1500.0~30~3~8,3,14~
+Complete The Graph~716D~716/D~2000.0~50~4~12,22~
+Digit Tree~716E~716/E~2500.0~60~4~24~
+Festival Organization~717A~717/A~-1.0~30~3~3,14~
+R3D3’s Summer Adventure~717B~717/B~-1.0~40~4~4~
+Potions Homework~717C~717/C~-1.0~30~3~1,10~
+Dexterina’s Lab~717D~717/D~-1.0~40~2~25,26,21~
+Paint it really, really dark gray~717E~717/E~-1.0~60~6~9~
+Heroes of Making Magic III~717F~717/F~-1.0~70~7~5~
+Underfail~717G~717/G~-1.0~90~5~27~
+Pokermon League challenge~717H~717/H~-1.0~100~9~21~
+Cowboy Beblop at his computer~717I~717/I~-1.0~70~7~7~
+Efim and Strange Grade~718A~718/A~500.0~30~3~1~
+Sasha and Array~718C~718/C~1250.0~30~3~5,3,26~
+Andrew and Chemistry~718D~718/D~2000.0~40~4~23,15~
+Matvey's Birthday~718E~718/E~2500.0~50~5~12~
+Vitya in the Countryside~719A~719/A~500.0~30~3~1~
+Anatoly and Cockroaches~719B~719/B~1000.0~30~3~4~
+Efim and Strange Grade~719C~719/C~1500.0~40~4~1~
+Sasha and Array~719E~719/E~2250.0~50~5~5,3,26~
+Closing ceremony~720A~720/A~-1.0~30~3~4~
+Cactusophobia~720B~720/B~-1.0~30~2~9,27~
+Homework~720C~720/C~-1.0~30~3~7~
+Slalom~720D~720/D~-1.0~50~5~5,2~
+Cipher~720E~720/E~-1.0~40~4~7~
+Array Covering~720F~720/F~-1.0~50~5~7~
+One-dimensional Japanese Crossword~721A~721/A~500.0~10~1~1~
+Passwords~721B~721/B~1000.0~20~2~10,13~
+Journey~721C~721/C~1500.0~40~4~2,12~
+Maxim and Array~721D~721/D~2000.0~50~5~8,5,4~
+Road to Home~721E~721/E~2750.0~60~6~11,2~
+Broken Clock~722A~722/A~500.0~30~3~6,1~
+Verse Pattern~722B~722/B~500.0~20~2~1,13~
+Destroying Array~722C~722/C~1000.0~20~2~5,19~
+Generating Sets~722D~722/D~1500.0~20~2~11,5,9,4~
+Research Rover~722E~722/E~2000.0~50~5~16,2~
+Cyclic Cipher~722F~722/F~2500.0~50~2~35,1,14,18~
+The New Year: Meeting Friends~723A~723/A~500.0~10~1~10~
+Text Document Analysis~723B~723/B~1000.0~20~2~30,1~
+Polycarp at the Radio~723C~723/C~1500.0~40~4~4~
+Lakes in Berland~723D~723/D~2000.0~50~5~9,19,4~
+One-Way Reform~723E~723/E~2500.0~50~4~8,9,27,12,4~
+st-Spanning Tree~723F~723/F~3000.0~60~6~19,12,4,1~
+Checking the Calendar~724A~724/A~500.0~20~2~1~
+Batch Sort~724B~724/B~1000.0~20~2~6,4,1~
+Ray Tracing~724C~724/C~1500.0~30~3~4,23,1,3,14~
+Dense Subsequence~724D~724/D~1500.0~30~3~5,4~
+Goods transportation~724E~724/E~2500.0~60~4~2,27~
+Uniformly Branched Trees~724F~724/F~2500.0~60~6~16~
+Xor-matic Number of the Graph~724G~724/G~2500.0~50~5~20,12,3,15~
+Jumping Ball~725A~725/A~500.0~20~2~1~
+Food on the Plane~725B~725/B~1000.0~20~2~3~
+Hidden Word~725C~725/C~1500.0~30~3~6,8,1~
+Contest Balloons~725D~725/D~2250.0~50~5~5,4~
+Too Much Money~725E~725/E~2500.0~50~5~6~
+Family Photos~725F~725/F~3250.0~60~6~4~
+Messages on a Tree~725G~725/G~3500.0~50~5~7~
+Transformation: from A to B~727A~727/A~1000.0~30~3~6,9~
+Bill Total Value~727B~727/B~1000.0~30~2~30,1~
+Guess the Array~727C~727/C~1500.0~30~3~8,3~
+T-shirts Distribution~727D~727/D~1500.0~40~2~8,27,4~
+Games on a CD~727E~727/E~2500.0~60~5~5,23,28,13~
+Polycarp's problems~727F~727/F~3000.0~60~6~11,2,4~
+Interview with Oleg~729A~729/A~500.0~20~2~1,13~
+Spotlights~729B~729/B~1000.0~30~3~2,1~
+Road to Cinema~729C~729/C~1750.0~40~4~11,4,10~
+Sea Battle~729D~729/D~1750.0~40~4~8,4~
+Subordinates~729E~729/E~2000.0~50~5~8,5,4,10~
+Financiers Game~729F~729/F~2500.0~60~6~2~
+Toda 2~730A~730/A~-1.0~30~3~4~
+Minimum and Maximum~730B~730/B~-1.0~30~3~8~
+Bulmart~730C~730/C~-1.0~40~4~11,9~
+Running Over The Bridges~730D~730/D~-1.0~50~5~4,1~
+Award Ceremony~730E~730/E~-1.0~50~5~4~
+Ber Patio~730F~730/F~-1.0~50~5~7~
+Car Repair Shop~730G~730/G~-1.0~70~7~1~
+Delete Them~730H~730/H~-1.0~80~8~1~
+Olympiad in Programming and Sports~730I~730/I~-1.0~80~6~2,27,4~
+Bottles~730J~730/J~-1.0~100~10~2~
+Roads Orientation Problem~730K~730/K~-1.0~80~8~7~
+Expression Queries~730L~730/L~-1.0~80~8~7~
+Night at the Museum~731A~731/A~500.0~10~1~1,13~
+Coupons and Discounts~731B~731/B~1000.0~20~2~8,4~
+Socks~731C~731/C~1500.0~40~4~19,12,4~
+80-th Level Archeology~731D~731/D~2000.0~50~5~6,5,4,10~
+Funny Game~731E~731/E~2500.0~40~2~2,25~
+Video Cards~731F~731/F~3000.0~60~6~6,5,1,14~
+Buy a Shovel~732A~732/A~500.0~10~1~6,8,3~
+Cormen --- The Best Friend Of a Man~732B~732/B~1000.0~20~2~2,4~
+Sanatorium~732C~732/C~1500.0~30~3~8,4~
+Exams~732D~732/D~2000.0~40~4~11,4,10~
+Sockets~732E~732/E~2000.0~50~5~4,10~
+Tourist Reform~732F~732/F~2500.0~60~6~9~
+Grasshopper And the String~733A~733/A~500.0~30~3~1~
+Parade~733B~733/B~1000.0~20~2~3~
+Epidemic in Monstropolis~733C~733/C~2000.0~50~5~8,2,4,18~
+Kostya the Sculptor~733D~733/D~2000.0~50~4~5,23~
+Sleep in Class~733E~733/E~2750.0~50~5~5,3,18~
+Drivers Dissatisfaction~733F~733/F~3000.0~60~6~5,19,12,15~
+Anton and Danik~734A~734/A~500.0~10~1~1,13~
+Anton and Digits~734B~734/B~750.0~10~1~1,3~
+Anton and Making Potions~734C~734/C~1250.0~30~3~11,2,4,18~
+Anton and Chess~734D~734/D~1500.0~40~4~1~
+Anton and Tree~734E~734/E~2000.0~40~4~9,2,15~
+Anton and School~734F~734/F~2750.0~50~5~20,8,1,3~
+Ostap and Grasshopper~735A~735/A~500.0~10~1~1,13~
+Urbanization~735B~735/B~1000.0~20~2~4,10~
+Tennis Championship~735C~735/C~1750.0~40~4~4,3~
+Taxes~735D~735/D~1750.0~30~3~3,14~
+Ostap and Tree~735E~735/E~2500.0~40~4~2,15~
+Tennis Championship~736A~736/A~750.0~20~2~9,2,3~
+Taxes~736B~736/B~750.0~20~2~3,14~
+Ostap and Tree~736C~736/C~1500.0~30~3~2~
+Permutations~736D~736/D~2000.0~60~3~26~
+Chess Championship~736E~736/E~2500.0~60~4~8,27,4~
+Road to Cinema~737A~737/A~750.0~10~1~11~
+Sea Battle~737B~737/B~750.0~10~1~4,1~
+Subordinates~737C~737/C~1000.0~30~3~4~
+Financiers Game~737D~737/D~1500.0~40~2~2,25~
+Tanya is 5!~737E~737/E~2000.0~50~2~29,12,4,36~
+Dirty plates~737F~737/F~2500.0~50~5~8,3~
+Interview with Oleg~738A~738/A~500.0~20~2~1,13~
+Spotlights~738B~738/B~1000.0~20~2~6,2,1~
+Road to Cinema~738C~738/C~1750.0~40~4~11~
+Sea Battle~738D~738/D~1750.0~30~3~11,8,4~
+Subordinates~738E~738/E~2000.0~50~5~8,4~
+Financiers Game~738F~738/F~2500.0~50~3~2,25~
+Alyona and mex~739A~739/A~500.0~20~2~8,4~
+Alyona and a tree~739B~739/B~1000.0~20~2~11,5,9,12,15~
+Alyona and towers~739C~739/C~1500.0~40~4~5~
+Recover a functional graph~739D~739/D~2000.0~80~3~29~
+Gosha is hunting~739E~739/E~2500.0~50~4~6,2,27,10~
+Alyona and copybooks~740A~740/A~500.0~30~3~6,1~
+Alyona and flowers~740B~740/B~1000.0~10~1~8~
+Alyona and mex~740C~740/C~1500.0~30~3~8~
+Alyona and a tree~740D~740/D~2000.0~40~3~11,5,9,29,12~
+Alyona and towers~740E~740/E~2500.0~40~4~7~
+Arpa's loud Owf and Mehrdad's evil plan~741A~741/A~500.0~20~2~9,3~
+Arpa's weak amphitheater and Mehrdad's valuable Hoses~741B~741/B~1000.0~20~2~9,2,19~
+Arpa’s overnight party and Mehrdad’s silent entering~741C~741/C~1250.0~30~3~8,9~
+Arpa’s letter-marked tree and Mehrdad’s Dokhtar-kosh paths~741D~741/D~2000.0~40~4~5,15~
+Arpa’s abnormal DNA and Mehrdad’s deep interest~741E~741/E~2500.0~60~5~5,28~
+Arpa’s hard exam and Mehrdad’s naive cheat~742A~742/A~500.0~20~2~1,3,14~
+Arpa’s obvious problem and Mehrdad’s terrible solution~742B~742/B~1000.0~30~3~3,14~
+Arpa's loud Owf and Mehrdad's evil plan~742C~742/C~1500.0~30~3~9,3~
+Arpa's weak amphitheater and Mehrdad's valuable Hoses~742D~742/D~2000.0~40~4~9,2,19~
+Arpa’s overnight party and Mehrdad’s silent entering~742E~742/E~2250.0~40~4~7~
+Vladik and flights~743A~743/A~500.0~30~3~8,4,1~
+Chloe and the sequence ~743B~743/B~1000.0~20~2~11,20,8,1~
+Vladik and fractions~743C~743/C~1250.0~20~2~6,8,3,14~
+Chloe and pleasant prizes~743D~743/D~2000.0~40~4~9,2,15~
+Vladik and cards~743E~743/E~2500.0~50~5~11,20,6,2~
+Hongcow Builds A Nation~744A~744/A~500.0~20~2~9,12~
+Hongcow's Game~744B~744/B~1250.0~30~2~20,24~
+Hongcow Buys a Deck of Cards~744C~744/C~1750.0~40~4~20,6,2~
+Hongcow Draws a Circle~744D~744/D~2250.0~40~4~17~
+Hongcow Masters the Cyclic Shift~744E~744/E~2500.0~60~6~13~
+Hongcow Learns the Cyclic Shift~745A~745/A~500.0~10~1~1,13~
+Hongcow Solves A Puzzle~745B~745/B~1000.0~20~2~1~
+Hongcow Builds A Nation~745C~745/C~1500.0~30~3~8,9,12~
+Hongcow's Game~745D~745/D~2250.0~70~7~20~
+Hongcow Buys a Deck of Cards~745E~745/E~2750.0~50~5~7~
+Compote~746A~746/A~500.0~10~1~3~
+Decoding~746B~746/B~1000.0~10~1~1,13~
+Tram~746C~746/C~1500.0~30~3~8,1,3~
+Green and Black Tea~746D~746/D~2000.0~50~5~8,4~
+Numbers Exchange~746E~746/E~2500.0~50~5~4,1~
+Music in Car~746F~746/F~3000.0~70~7~5,18~
+New Roads~746G~746/G~3000.0~60~6~8,15~
+Display Size~747A~747/A~500.0~10~1~6,3~
+Mammoth's Genome Decoding~747B~747/B~1000.0~20~2~1,13~
+Servers~747C~747/C~1500.0~30~3~1~
+Winter Is Coming~747D~747/D~2000.0~50~5~4,10~
+Comments~747E~747/E~2000.0~40~3~9,30~
+Igor and Interesting Numbers~747F~747/F~2500.0~40~4~6,16,2~
+Santa Claus and a Place in a Class~748A~748/A~500.0~20~2~1,3~
+Santa Claus and Keyboard Check~748B~748/B~1000.0~30~3~1~
+Santa Claus and Robot~748C~748/C~1500.0~20~2~8,3~
+Santa Claus and a Palindrome~748D~748/D~2000.0~50~5~8,5,4~
+Santa Claus and Tangerines~748E~748/E~2500.0~60~6~11,4,18~
+Santa Clauses and a Soccer Championship~748F~748/F~2500.0~50~5~8,9,12,15~
+Bachgold Problem~749A~749/A~500.0~10~1~4,1,3,14~
+Parallelogram is Back~749B~749/B~1000.0~10~1~6,8,17~
+Voting~749C~749/C~1500.0~40~4~4,1,18~
+Leaving Auction~749D~749/D~2000.0~50~5~11,6,5~
+Inversions After Shuffle~749E~749/E~2500.0~60~6~5,21~
+Оценки Васи~751A~751/A~500.0~20~2~7~
+Путь Поликарпа~751B~751/B~1000.0~20~2~7~
+Santa Claus and a Place in a Class~752A~752/A~500.0~10~1~8,3~
+Santa Claus and Keyboard Check~752B~752/B~1000.0~30~3~4,1,13~
+Santa Claus and Robot~752C~752/C~1500.0~20~1~4,22~
+Santa Claus and a Palindrome~752D~752/D~2000.0~50~4~5,4,23,13~
+Santa Claus and Tangerines~752E~752/E~2500.0~60~6~11,2,18~
+Santa Clauses and a Soccer Championship~752F~752/F~2500.0~50~5~15~
+Santa Claus and Candies~753A~753/A~500.0~20~2~2,4,3~
+Interactive Bulls and Cows (Easy)~753B~753/B~1000.0~30~3~8~
+Interactive Bulls and Cows (Hard)~753C~753/C~1500.0~50~5~8~

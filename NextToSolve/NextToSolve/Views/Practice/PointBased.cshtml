@@ -1,0 +1,162 @@
+﻿@using NextToSolve.Models
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+<b>Total Points: </b>
+@ViewBag.totalPoints<br />
+<br />
+@using (Html.BeginForm("Action", "Practice")) {
+    string pg = (string)TempData["currentPage"];
+    <div style="max-width: 400px;">
+
+        <label>Handle:</label>
+        <input type="text" name="handle" />
+        <input type="hidden" id="referer" name="referer" value="@pg" />
+        <input type="submit" name="addHandle" value="Add" />
+
+
+    </div>
+}
+
+<p>
+    <h4>
+        @{ 
+            if (ViewBag.handle != "-1") {
+                string pg = (string)TempData["currentPage"];
+                <b>Handle: </b>
+                string[] handels = ViewBag.handle.ToString().Split(',');
+                for (int i = 0; i < handels.Length; i++) {
+                    if (i != 0) {@:,
+                    }
+                    @handels[i]
+                    <a href="/Practice/RemoveHandle?id=@i&referer=@pg"> (remove)</a>
+                }
+                <br />
+                <b>Points earned: </b>@ViewBag.userPoints<br />
+                <a href="/Practice/Reload?referer=@pg"> (refresh)</a>
+            }
+        }
+    </h4>
+
+    <br />
+</p>
+
+<div class="panel panel-default" style="padding: 10px; margin: 10px">
+    <div id="Tabs" role="tabpanel">
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs" role="tablist">
+            <li class="active">
+                <a href="#NextToSolve" aria-controls="NextToSolve" role="tab" data-toggle="tab">
+                    NextToSolve
+                </a>
+            </li>
+            <li>
+                <a href="#Solved" aria-controls="Solved" role="tab" data-toggle="tab">
+                    Solved
+                </a>
+            </li>
+        </ul>
+        <!-- Tab panes -->
+        <div class="tab-content" style="padding-top: 20px">
+            <div role="tabpanel" class="tab-pane active" id="NextToSolve">
+
+                <table class="table" id="table1" data-page-length='25'>
+                    <thead>
+                        <tr>
+                            <th>No</th>
+                            <th>CF ID</th>
+                            <th>Title</th>
+                            <th>Points</th>
+                            <th>Problem Level</th>
+                            <th>CF Points</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            var prb1 = (List<Problem>)ViewBag.nsList;
+                            int i1 = 1;
+                            foreach (var item in prb1) {
+                                <tr>
+                                    <td>@(i1++)</td>
+                                    <td>@item.CfID</td>
+                                    <td>
+                                        <a href="http://codeforces.com/problemset/problem/@item.CfLink"> @item.CfName.ToUpper()</a>
+                                    </td>
+                                    <td>@item.NsPoint</td>
+                                    <td>@item.NsLevel</td>
+                                    @{
+                                        if (item.CfPoint < 0) {
+                                            <td>no-value</td>
+                                        }
+                                        else {
+                                            <td>@item.CfPoint</td>
+                                        }
+                                    }
+
+                                </tr>
+                                        }
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div role="tabpanel" class="tab-pane" id="Solved">
+                <table class="table" id="table2" data-page-length='25'>
+                    <thead>
+                        <tr>
+                            <th>No</th>
+                            <th>CF ID</th>
+                            <th>Title</th>
+                            <th>Points</th>
+                            <th>Problem Level</th>
+                            <th>CF Points</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            var prb2 = (List<Problem>)ViewBag.acList;
+                            int i2 = 1;
+                            foreach (var item in prb2) {
+                                <tr>
+                                    <td>@(i2++)</td>
+                                    <td>@item.CfID</td>
+                                    <td>
+                                        <a href="http://codeforces.com/problemset/problem/@item.CfLink"> @item.CfName.ToUpper()</a>
+                                    </td>
+                                    <td>@item.NsPoint</td>
+                                    <td>@item.NsLevel</td>
+                                    @{
+                                        if (item.CfPoint < 0) {
+                                            <td>no-value</td>
+                                        }
+                                        else {
+                                            <td>@item.CfPoint</td>
+                                        }
+                                    }
+
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts
+{
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#table1').DataTable();
+        });
+    </script>
+<script type="text/javascript">
+        $(document).ready(function () {
+            $('#table2').DataTable();
+        });
+</script>
+}
